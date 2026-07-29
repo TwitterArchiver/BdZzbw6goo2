@@ -1,0 +1,164 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560533329912311808",
+    "conversation_id": "2034605384271593940",
+    "created_at": "2026-03-19T14:40:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T15:40:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034641240105582836"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2034641240105582836",
+    "in_reply_to_user_id": "1560533329912311808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034605384271593940",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "最开始下午6点左右吃的，1，2小时前又加了30t，除了心率增快没其他的任何感觉，我可大半个月没吃阿片类药物了啊，也不大可能是因为耐受啊（上次也就33t复方甘草片）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2034605372737249281",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDxezoQa4AEE-10.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560533329912311808",
+        "conversation_id": "2034605384271593940",
+        "created_at": "2026-03-19T14:40:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T15:40:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034641240105582836"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2034641240105582836",
+        "in_reply_to_user_id": "1560533329912311808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034605384271593940",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "最开始下午6点左右吃的，1，2小时前又加了30t，除了心率增快没其他的任何感觉，我可大半个月没吃阿片类药物了啊，也不大可能是因为耐受啊（上次也就33t复方甘草片）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034605372737249281"
+          ]
+        },
+        "author_id": "1560533329912311808",
+        "conversation_id": "2034605384271593940",
+        "created_at": "2026-03-19T12:18:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T13:18:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034605384271593940"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UgpQP4YhBW",
+              "end": 61,
+              "expanded_url": "https://x.com/BdZzbw6goo2/status/2034605384271593940/photo/1",
+              "media_key": "3_2034605372737249281",
+              "start": 38,
+              "url": "https://t.co/UgpQP4YhBW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034605384271593940",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 180,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "抱吃，我吃33t复方甘草片或28t白兔都能起飞的人吃这个30t居然没啥感觉 https://t.co/UgpQP4YhBW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-19T07:45:35.000Z",
+        "description": "MTF /HRT since 25.11.16/中重度抑郁/互fo/oder/深柜中",
+        "id": "1560533329912311808",
+        "name": "Lily 🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023587572161933312/nuq0npKD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 369,
+          "following_count": 567,
+          "like_count": 44381,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 127
+        },
+        "username": "BdZzbw6goo2",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2036280420422352896"
+      ]
+    },
+    "author_id": "1560533329912311808",
+    "conversation_id": "2036280433487593914",
+    "created_at": "2026-03-24T03:14:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T04:14:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2036280433487593914"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/mfL0YHxupT",
+          "end": 40,
+          "expanded_url": "https://x.com/BdZzbw6goo2/status/2036280433487593914/photo/1",
+          "media_key": "3_2036280420422352896",
+          "start": 17,
+          "url": "https://t.co/mfL0YHxupT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036280433487593914",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 3,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "400fo了，要不搞点抽奖什么的 https://t.co/mfL0YHxupT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2036280420422352896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEJSQPJbgAA-UDS.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036280420422352896"
+          ]
+        },
+        "author_id": "1560533329912311808",
+        "conversation_id": "2036280433487593914",
+        "created_at": "2026-03-24T03:14:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T04:14:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036280433487593914"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mfL0YHxupT",
+              "end": 40,
+              "expanded_url": "https://x.com/BdZzbw6goo2/status/2036280433487593914/photo/1",
+              "media_key": "3_2036280420422352896",
+              "start": 17,
+              "url": "https://t.co/mfL0YHxupT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036280433487593914",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "400fo了，要不搞点抽奖什么的 https://t.co/mfL0YHxupT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-19T07:45:35.000Z",
+        "description": "MTF /HRT since 25.11.16/中重度抑郁/互fo/oder/深柜中",
+        "id": "1560533329912311808",
+        "name": "Lily 🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023587572161933312/nuq0npKD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 400,
+          "following_count": 604,
+          "like_count": 45732,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 184
+        },
+        "username": "BdZzbw6goo2",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560533329912311808",
+    "conversation_id": "2036282783950418156",
+    "created_at": "2026-03-26T05:15:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T06:15:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037035652848771557"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "从评论区中随机选出中奖者 https://x.com/bdzzbw6goo2/status/2036282783950418156?s=46",
+          "display_url": "grok.com/share/c2hhcmQt…",
+          "end": 34,
+          "expanded_url": "https://grok.com/share/c2hhcmQtMw_27426fd6-20c7-473c-80a4-74ca2d627bc8",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/2037035659429617664/g7UR6vB-?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2037035659429617664/g7UR6vB-?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 11,
+          "status": 200,
+          "title": "抽奖结果公布：中奖名单揭晓 | Shared Grok Conversation",
+          "unwound_url": "https://grok.com/share/c2hhcmQtMw_27426fd6-20c7-473c-80a4-74ca2d627bc8",
+          "url": "https://t.co/BtjnE47R1N"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037035652848771557",
+    "in_reply_to_user_id": "1560533329912311808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036282783950418156",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "OK,中奖结果出炉了\nhttps://t.co/BtjnE47R1N"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560533329912311808",
+        "conversation_id": "2036282783950418156",
+        "created_at": "2026-03-26T05:15:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T06:15:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037035652848771557"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "从评论区中随机选出中奖者 https://x.com/bdzzbw6goo2/status/2036282783950418156?s=46",
+              "display_url": "grok.com/share/c2hhcmQt…",
+              "end": 34,
+              "expanded_url": "https://grok.com/share/c2hhcmQtMw_27426fd6-20c7-473c-80a4-74ca2d627bc8",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2037035659429617664/g7UR6vB-?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2037035659429617664/g7UR6vB-?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 11,
+              "status": 200,
+              "title": "抽奖结果公布：中奖名单揭晓 | Shared Grok Conversation",
+              "unwound_url": "https://grok.com/share/c2hhcmQtMw_27426fd6-20c7-473c-80a4-74ca2d627bc8",
+              "url": "https://t.co/BtjnE47R1N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037035652848771557",
+        "in_reply_to_user_id": "1560533329912311808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036282783950418156",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "OK,中奖结果出炉了\nhttps://t.co/BtjnE47R1N"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560533329912311808",
+        "conversation_id": "2036282783950418156",
+        "created_at": "2026-03-24T03:23:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T04:23:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036282783950418156"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036282783950418156",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4440,
+          "like_count": 55,
+          "quote_count": 0,
+          "reply_count": 45,
+          "retweet_count": 42
+        },
+        "reply_settings": "everyone",
+        "text": "400fo的抽奖，关注➕转发➕评论参与（我实在是穷的不行，只能给点小礼物，抱歉。最后由grok选）\n\n一等奖：两盒绿普（或一盒国补or折现）\n\n二等奖：一盒愈美（或折现）\n\n三等奖的：5r现金"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-19T07:45:35.000Z",
+        "description": "MTF /HRT since 25.11.16/中重度抑郁/互fo/oder/深柜中",
+        "id": "1560533329912311808",
+        "name": "Lily 🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023587572161933312/nuq0npKD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 456,
+          "following_count": 662,
+          "like_count": 46782,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 217
+        },
+        "username": "BdZzbw6goo2",
+        "verified": true
+      }
+    ]
+  }
+}

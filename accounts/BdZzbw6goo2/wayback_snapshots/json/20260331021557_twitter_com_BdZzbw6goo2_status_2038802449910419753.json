@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560533329912311808",
+    "conversation_id": "2038698210064261222",
+    "created_at": "2026-03-31T02:15:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T03:15:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038802449910419753"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1627197826332778496",
+          "start": 0,
+          "username": "Ochette_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038802449910419753",
+    "in_reply_to_user_id": "1560533329912311808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038802112700895598",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ochette_ 而且pr只是普通的处方药，不算管制药品，管制药品的话你有处方邮寄都算运毒"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560533329912311808",
+        "conversation_id": "2038698210064261222",
+        "created_at": "2026-03-31T02:15:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T03:15:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038802449910419753"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1627197826332778496",
+              "start": 0,
+              "username": "Ochette_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038802449910419753",
+        "in_reply_to_user_id": "1560533329912311808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038802112700895598",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ochette_ 而且pr只是普通的处方药，不算管制药品，管制药品的话你有处方邮寄都算运毒"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560533329912311808",
+        "conversation_id": "2038698210064261222",
+        "created_at": "2026-03-31T02:14:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T03:14:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038802112700895598"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1627197826332778496",
+              "start": 0,
+              "username": "Ochette_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038802112700895598",
+        "in_reply_to_user_id": "1560533329912311808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038801740947173846",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ochette_ 你就说慢性病多带点药嘛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-19T07:45:35.000Z",
+        "description": "MTF /HRT since 25.11.16/中重度抑郁/互fo/oder/深柜中",
+        "id": "1560533329912311808",
+        "name": "Lily 🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023587572161933312/nuq0npKD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 494,
+          "following_count": 702,
+          "like_count": 48907,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 253
+        },
+        "username": "BdZzbw6goo2",
+        "verified": true
+      },
+      {
+        "created_at": "2023-02-19T06:46:24.000Z",
+        "description": "od割手碎碎念。负能警告⚠️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ochette_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ochette_",
+                "start": 0,
+                "url": "https://t.co/LdSOaHjKco"
+              }
+            ]
+          }
+        },
+        "id": "1627197826332778496",
+        "name": "永雏云☁️🍥",
+        "pinned_tweet_id": "2031019485206057296",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033478951478444032/LGRq8oP__normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 412,
+          "following_count": 510,
+          "like_count": 6651,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 708
+        },
+        "url": "https://t.co/LdSOaHjKco",
+        "username": "Ochette_",
+        "verified": false
+      }
+    ]
+  }
+}

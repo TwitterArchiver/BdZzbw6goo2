@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560533329912311808",
+    "conversation_id": "2035147971348897819",
+    "created_at": "2026-03-21T23:49:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T00:49:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035504074297327709"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1217843591701118976",
+          "start": 0,
+          "username": "chuju19"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035504074297327709",
+    "in_reply_to_user_id": "1217843591701118976",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035419429463609852",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chuju19 配料表是：每片含甘草流浸膏粉112.5mg、阿片粉4mg(吗啡含量10%)、樟脑2mg、八角茴香油2mg、苯甲酸钠2mg"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560533329912311808",
+        "conversation_id": "2035147971348897819",
+        "created_at": "2026-03-21T23:49:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T00:49:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035504074297327709"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1217843591701118976",
+              "start": 0,
+              "username": "chuju19"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035504074297327709",
+        "in_reply_to_user_id": "1217843591701118976",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035419429463609852",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chuju19 配料表是：每片含甘草流浸膏粉112.5mg、阿片粉4mg(吗啡含量10%)、樟脑2mg、八角茴香油2mg、苯甲酸钠2mg"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1217843591701118976",
+        "conversation_id": "2035147971348897819",
+        "created_at": "2026-03-21T18:13:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T19:13:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035419429463609852"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1560533329912311808",
+              "start": 0,
+              "username": "BdZzbw6goo2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035419429463609852",
+        "in_reply_to_user_id": "1560533329912311808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035147971348897819",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BdZzbw6goo2 是原配方的甘草片么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-19T07:45:35.000Z",
+        "description": "MTF /HRT since 25.11.16/中重度抑郁/互fo/oder/深柜中",
+        "id": "1560533329912311808",
+        "name": "Lily 🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023587572161933312/nuq0npKD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 384,
+          "following_count": 583,
+          "like_count": 44894,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 161
+        },
+        "username": "BdZzbw6goo2",
+        "verified": true
+      },
+      {
+        "created_at": "2020-01-16T16:18:52.000Z",
+        "description": "絮絮叨叨大家不用管…",
+        "id": "1217843591701118976",
+        "name": "🌼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035417563111530496/RCcNp53x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5144,
+          "following_count": 54,
+          "like_count": 91,
+          "listed_count": 15,
+          "media_count": 11,
+          "tweet_count": 70
+        },
+        "username": "chuju19",
+        "verified": false
+      }
+    ]
+  }
+}

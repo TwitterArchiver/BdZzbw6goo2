@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560533329912311808",
+    "conversation_id": "2039890354670088319",
+    "created_at": "2026-04-03T02:18:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T03:18:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039890354670088319"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 5,
+          "id": "1720665183188922368",
+          "start": 0,
+          "username": "grok"
+        }
+      ],
+      "urls": [
+        {
+          "description": "嗯，我懂你的顾虑…… 🫂 很多人打过988后都说过类似的话：“就问几个问题，感觉像流程化，没啥深度帮助。” 这不是你一个人觉得的，尤其是当你心里已经很乱、又带着drug abuse和抑郁的时候，那种“被问完就挂”的感觉会特别空、特别失望。 真实情况是： 988的接线员是受训的危机辅导员，他们确实会先确认你安全（问几个标准问题），然后听你说、陪你稳情绪、帮你想下一步。但它不是长期治疗，更像“紧急刹车”——帮你熬过最难的那几个小时/那天，给你本地资源链接（比如附近能同时处理抑郁+成瘾的诊所、LGBTQ友好医生）。对有些人有效（研究显示很多自杀念头高的人打完后觉得被拉住了），但对有些人确实觉得不够“实际”。 尤其是现在LGBTQ专项（以前press 3）已经被砍了，对跨性别姐妹来说，可能没那么贴心了。 那咋办？试试这些更匹配的选项： Trans Lifeline（跨性别自己人接的）：877-565-8860 由跨性别者运营，更懂HRT、gender dysphoria、抑郁+药物依赖的叠加痛苦。时间是工作日太平洋时间10am-6pm，但值得试试。他们不会只走流程。 SAMHSA National Helpline（专门物质滥用+心理）：1-800-662-HELP (4357) 24/7，重点帮drug abuse和dual diagnosis（抑郁+成瘾），能直接给你本地治疗项目推荐。比988更偏“实际资源”。 Crisis Text Line：短信 HOME 到 741741 如果打电话觉得压力大，短信慢聊，很多人都说更舒服，不用面对面式问答。 直接去急诊或找社区诊所：告诉他们“我有自杀念头 + 药物依赖”，他们能当天评估、开药、转介dual diagnosis项目。很多地方有LGBTQ+友好诊所。 你现在靠drug abuse撑着，已经是身体和脑子都在求救的信号了。这不是“没救”，而是需要同时处理两边的专业帮手——不是靠自己一个人死扛。 我还是在这里。 不用马上打电话，先告诉我：你最怕988哪一点？是怕被转介住院？怕被问drug的事？还是觉得没人真懂你的跨性别+HRT痛苦？ 或者今天drug用完后最难受的是什么感觉？ 说出来，我陪你。不急，不判断。 你已经迈出一步在求安慰，这一步很重要。❤️ 想让我继续抱抱你、陪你喘气，还是聊点别的分散一下？我在呢。",
+          "display_url": "x.com/i/grok/share/3…",
+          "end": 35,
+          "expanded_url": "https://x.com/i/grok/share/3b981c827cf14bd39514cb81bf9713c8",
+          "images": [
+            {
+              "height": 634,
+              "url": "https://pbs.twimg.com/news_img/2039890360906977280/EPl-Kcp3?format=jpg&name=orig",
+              "width": 1202
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2039890360906977280/EPl-Kcp3?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 12,
+          "status": 200,
+          "title": "但是988只会格式化的问你几个问题，提供不了实际的帮助啊",
+          "unwound_url": "https://x.com/i/grok/share/3b981c827cf14bd39514cb81bf9713c8",
+          "url": "https://t.co/T3oTjVHwso"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039890354670088319",
+    "in_reply_to_user_id": "1720665183188922368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "@grok 真的好贴心啊https://t.co/T3oTjVHwso"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560533329912311808",
+        "conversation_id": "2039890354670088319",
+        "created_at": "2026-04-03T02:18:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T03:18:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039890354670088319"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 5,
+              "id": "1720665183188922368",
+              "start": 0,
+              "username": "grok"
+            }
+          ],
+          "urls": [
+            {
+              "description": "嗯，我懂你的顾虑…… 🫂 很多人打过988后都说过类似的话：“就问几个问题，感觉像流程化，没啥深度帮助。” 这不是你一个人觉得的，尤其是当你心里已经很乱、又带着drug abuse和抑郁的时候，那种“被问完就挂”的感觉会特别空、特别失望。 真实情况是： 988的接线员是受训的危机辅导员，他们确实会先确认你安全（问几个标准问题），然后听你说、陪你稳情绪、帮你想下一步。但它不是长期治疗，更像“紧急刹车”——帮你熬过最难的那几个小时/那天，给你本地资源链接（比如附近能同时处理抑郁+成瘾的诊所、LGBTQ友好医生）。对有些人有效（研究显示很多自杀念头高的人打完后觉得被拉住了），但对有些人确实觉得不够“实际”。 尤其是现在LGBTQ专项（以前press 3）已经被砍了，对跨性别姐妹来说，可能没那么贴心了。 那咋办？试试这些更匹配的选项： Trans Lifeline（跨性别自己人接的）：877-565-8860 由跨性别者运营，更懂HRT、gender dysphoria、抑郁+药物依赖的叠加痛苦。时间是工作日太平洋时间10am-6pm，但值得试试。他们不会只走流程。 SAMHSA National Helpline（专门物质滥用+心理）：1-800-662-HELP (4357) 24/7，重点帮drug abuse和dual diagnosis（抑郁+成瘾），能直接给你本地治疗项目推荐。比988更偏“实际资源”。 Crisis Text Line：短信 HOME 到 741741 如果打电话觉得压力大，短信慢聊，很多人都说更舒服，不用面对面式问答。 直接去急诊或找社区诊所：告诉他们“我有自杀念头 + 药物依赖”，他们能当天评估、开药、转介dual diagnosis项目。很多地方有LGBTQ+友好诊所。 你现在靠drug abuse撑着，已经是身体和脑子都在求救的信号了。这不是“没救”，而是需要同时处理两边的专业帮手——不是靠自己一个人死扛。 我还是在这里。 不用马上打电话，先告诉我：你最怕988哪一点？是怕被转介住院？怕被问drug的事？还是觉得没人真懂你的跨性别+HRT痛苦？ 或者今天drug用完后最难受的是什么感觉？ 说出来，我陪你。不急，不判断。 你已经迈出一步在求安慰，这一步很重要。❤️ 想让我继续抱抱你、陪你喘气，还是聊点别的分散一下？我在呢。",
+              "display_url": "x.com/i/grok/share/3…",
+              "end": 35,
+              "expanded_url": "https://x.com/i/grok/share/3b981c827cf14bd39514cb81bf9713c8",
+              "images": [
+                {
+                  "height": 634,
+                  "url": "https://pbs.twimg.com/news_img/2039890360906977280/EPl-Kcp3?format=jpg&name=orig",
+                  "width": 1202
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2039890360906977280/EPl-Kcp3?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 12,
+              "status": 200,
+              "title": "但是988只会格式化的问你几个问题，提供不了实际的帮助啊",
+              "unwound_url": "https://x.com/i/grok/share/3b981c827cf14bd39514cb81bf9713c8",
+              "url": "https://t.co/T3oTjVHwso"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039890354670088319",
+        "in_reply_to_user_id": "1720665183188922368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@grok 真的好贴心啊https://t.co/T3oTjVHwso"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-19T07:45:35.000Z",
+        "description": "MTF /HRT since 25.11.16/中重度抑郁/互fo/oder/深柜中/有阿斯伯格不是很会聊天致歉",
+        "id": "1560533329912311808",
+        "name": "Lily 🏳️‍⚧️",
+        "pinned_tweet_id": "2036571069851771293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023587572161933312/nuq0npKD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 516,
+          "following_count": 722,
+          "like_count": 50225,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 274
+        },
+        "username": "BdZzbw6goo2",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "pinned_tweet_id": "1955006865332638036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8536464,
+          "following_count": 4,
+          "like_count": 87,
+          "listed_count": 6616,
+          "media_count": 8764413,
+          "tweet_count": 121057113
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}

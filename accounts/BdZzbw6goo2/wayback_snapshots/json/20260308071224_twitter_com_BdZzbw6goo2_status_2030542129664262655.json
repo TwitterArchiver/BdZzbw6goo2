@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560533329912311808",
+    "conversation_id": "2030530614009700551",
+    "created_at": "2026-03-08T07:12:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T08:12:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030542129664262655"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2011873376445612032",
+          "start": 0,
+          "username": "MutsumiXiaomu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030542129664262655",
+    "in_reply_to_user_id": "1560533329912311808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030532637404836215",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MutsumiXiaomu 对CYP3A4的抑制强度红霉素&lt;克拉霉素&lt;伊曲康唑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560533329912311808",
+        "conversation_id": "2030530614009700551",
+        "created_at": "2026-03-08T07:12:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T08:12:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030542129664262655"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2011873376445612032",
+              "start": 0,
+              "username": "MutsumiXiaomu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030542129664262655",
+        "in_reply_to_user_id": "1560533329912311808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030532637404836215",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MutsumiXiaomu 对CYP3A4的抑制强度红霉素&lt;克拉霉素&lt;伊曲康唑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560533329912311808",
+        "conversation_id": "2030530614009700551",
+        "created_at": "2026-03-08T06:34:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T07:34:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030532637404836215"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2011873376445612032",
+              "start": 0,
+              "username": "MutsumiXiaomu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030532637404836215",
+        "in_reply_to_user_id": "2011873376445612032",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030530614009700551",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MutsumiXiaomu 还有克拉霉素和伊曲康唑这些也可以"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-19T07:45:35.000Z",
+        "description": "MTF /HRT since 25.11.16/中重度抑郁/互fo/oder/深柜中",
+        "id": "1560533329912311808",
+        "name": "Lily 🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023587572161933312/nuq0npKD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 288,
+          "like_count": 40294,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 37
+        },
+        "username": "BdZzbw6goo2",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-15T18:50:02.000Z",
+        "description": "你好呀 这里小睦丨ODer丨支黑 精日丨为了压住BPD而猛嗑解离剂          永远的好朋友：@Natsumeann13          亲爱的OD导师：@tanka_TwT (永远喜欢镜音老师❤️，想要一直陪伴着她，想要和她一起离世)         ☆必定回fo，没回请私信喵☆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 50,
+                "username": "Natsumeann13"
+              },
+              {
+                "end": 91,
+                "start": 81,
+                "username": "tanka_TwT"
+              }
+            ]
+          }
+        },
+        "id": "2011873376445612032",
+        "name": "小支柱清除计划Ver2.0🇯🇵",
+        "pinned_tweet_id": "2015471136423948295",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017682861751734274/47Gq_c2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 586,
+          "following_count": 814,
+          "like_count": 5295,
+          "listed_count": 21,
+          "media_count": 44,
+          "tweet_count": 1146
+        },
+        "username": "MutsumiXiaomu",
+        "verified": false
+      }
+    ]
+  }
+}

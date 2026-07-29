@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2033858796968415238"
+      ]
+    },
+    "author_id": "1560533329912311808",
+    "conversation_id": "2033858807512875132",
+    "created_at": "2026-03-17T10:51:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T11:51:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2033858807512875132"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/IYmJiMowmI",
+          "end": 47,
+          "expanded_url": "https://x.com/BdZzbw6goo2/status/2033858807512875132/photo/1",
+          "media_key": "3_2033858796968415238",
+          "start": 24,
+          "url": "https://t.co/IYmJiMowmI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033858807512875132",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这个可以买，和睿鹤是同一家制药公司的，超级便宜 https://t.co/IYmJiMowmI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2033858796968415238",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDm3zMybEAYjw1G.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033858796968415238"
+          ]
+        },
+        "author_id": "1560533329912311808",
+        "conversation_id": "2033858807512875132",
+        "created_at": "2026-03-17T10:51:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T11:51:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033858807512875132"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IYmJiMowmI",
+              "end": 47,
+              "expanded_url": "https://x.com/BdZzbw6goo2/status/2033858807512875132/photo/1",
+              "media_key": "3_2033858796968415238",
+              "start": 24,
+              "url": "https://t.co/IYmJiMowmI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033858807512875132",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个可以买，和睿鹤是同一家制药公司的，超级便宜 https://t.co/IYmJiMowmI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-19T07:45:35.000Z",
+        "description": "MTF /HRT since 25.11.16/中重度抑郁/互fo/oder/深柜中",
+        "id": "1560533329912311808",
+        "name": "Lily 🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023587572161933312/nuq0npKD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 339,
+          "following_count": 536,
+          "like_count": 43496,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 106
+        },
+        "username": "BdZzbw6goo2",
+        "verified": true
+      }
+    ]
+  }
+}

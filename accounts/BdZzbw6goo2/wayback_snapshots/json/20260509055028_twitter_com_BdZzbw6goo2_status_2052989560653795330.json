@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560533329912311808",
+    "conversation_id": "2052827173241921939",
+    "created_at": "2026-05-09T05:50:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T06:50:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052989560653795330"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1662058783215087617",
+          "start": 0,
+          "username": "HacchiTheMaid"
+        }
+      ],
+      "urls": [
+        {
+          "description": "是的，二甲双胍（Metformin）能有效反制（预防或减轻）抗精神病药引起的体重增加（AIWG），这是目前证据最充分的药物干预之一。 主要证据总结 预防效果：与抗精神病药同时开始使用二甲双胍，能显著减少体重增加。多项研究和指南显示，可平均减少约 4.03 kg（约减少 6.5-11 磅）的体重增幅，尤其在治疗初期效果更好。 治疗效果：对已经出现体重增加的患者，二甲双胍也能帮助减轻体重、降低 BMI、改善胰岛素抵抗和空腹血糖。Meta 分析显示，12-24 周治疗可平均减重约 3.3 kg（不同研究略有差异）。 最新指南：2024-2025 年有证据-based 指南推荐，在启动高风险抗精神病药（如奥氮平、氯氮平）时，优先联合二甲双胍，特别是青少年、年轻人或已有代谢风险的患者。生活方式干预+二甲双胍是最佳组合。 为什么有效？ 二甲双胍主要通过： 降低肝脏葡萄糖生成 改善胰岛素敏感性 减少食欲和热量摄入 影响下丘脑信号等机制起作用。它不引起低血糖，安全性相对好（常见副作用为胃肠道不适，如恶心、腹泻，通常可耐受或随时间减轻）。 注意事项（很重要！） 必须在医生指导下使用：需要监测肾功能、维生素 B12 等，排除禁忌症（如严重肾损伤）。 效果因人而异：对首次治疗或年轻患者效果更明显；长期维持需结合饮食+运动。 不是万能药：不能完全抵消所有体重增加，最好优先考虑换用低体重风险的抗精神病药 + 生活方式调整。 中国临床也有相关研究和应用，支持其作为辅助治疗选项。 如果你正在服用抗精神病药并担心体重问题，强烈建议咨询你的精神科医生，他们会根据具体药物、剂量和你的身体情况评估是否适合加用二甲双胍。不要自行用药。 有其他具体药物或症状细节吗？我可以帮你查更多针对性信息。",
+          "display_url": "x.com/i/grok/share/3…",
+          "end": 44,
+          "expanded_url": "https://x.com/i/grok/share/349a4bc681654699a18f389aac36bf60",
+          "images": [
+            {
+              "height": 634,
+              "url": "https://pbs.twimg.com/news_img/2052989565741481984/HiDhiM9Q?format=jpg&name=orig",
+              "width": 1202
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2052989565741481984/HiDhiM9Q?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 21,
+          "status": 200,
+          "title": "二甲双弧能反制抗精神病药引起的体重增加嘛",
+          "unwound_url": "https://x.com/i/grok/share/349a4bc681654699a18f389aac36bf60",
+          "url": "https://t.co/pmz90VP3eu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052989560653795330",
+    "in_reply_to_user_id": "1662058783215087617",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052827173241921939",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HacchiTheMaid 要不你看看 https://t.co/pmz90VP3eu"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560533329912311808",
+        "conversation_id": "2052827173241921939",
+        "created_at": "2026-05-09T05:50:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T06:50:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052989560653795330"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1662058783215087617",
+              "start": 0,
+              "username": "HacchiTheMaid"
+            }
+          ],
+          "urls": [
+            {
+              "description": "是的，二甲双胍（Metformin）能有效反制（预防或减轻）抗精神病药引起的体重增加（AIWG），这是目前证据最充分的药物干预之一。 主要证据总结 预防效果：与抗精神病药同时开始使用二甲双胍，能显著减少体重增加。多项研究和指南显示，可平均减少约 4.03 kg（约减少 6.5-11 磅）的体重增幅，尤其在治疗初期效果更好。 治疗效果：对已经出现体重增加的患者，二甲双胍也能帮助减轻体重、降低 BMI、改善胰岛素抵抗和空腹血糖。Meta 分析显示，12-24 周治疗可平均减重约 3.3 kg（不同研究略有差异）。 最新指南：2024-2025 年有证据-based 指南推荐，在启动高风险抗精神病药（如奥氮平、氯氮平）时，优先联合二甲双胍，特别是青少年、年轻人或已有代谢风险的患者。生活方式干预+二甲双胍是最佳组合。 为什么有效？ 二甲双胍主要通过： 降低肝脏葡萄糖生成 改善胰岛素敏感性 减少食欲和热量摄入 影响下丘脑信号等机制起作用。它不引起低血糖，安全性相对好（常见副作用为胃肠道不适，如恶心、腹泻，通常可耐受或随时间减轻）。 注意事项（很重要！） 必须在医生指导下使用：需要监测肾功能、维生素 B12 等，排除禁忌症（如严重肾损伤）。 效果因人而异：对首次治疗或年轻患者效果更明显；长期维持需结合饮食+运动。 不是万能药：不能完全抵消所有体重增加，最好优先考虑换用低体重风险的抗精神病药 + 生活方式调整。 中国临床也有相关研究和应用，支持其作为辅助治疗选项。 如果你正在服用抗精神病药并担心体重问题，强烈建议咨询你的精神科医生，他们会根据具体药物、剂量和你的身体情况评估是否适合加用二甲双胍。不要自行用药。 有其他具体药物或症状细节吗？我可以帮你查更多针对性信息。",
+              "display_url": "x.com/i/grok/share/3…",
+              "end": 44,
+              "expanded_url": "https://x.com/i/grok/share/349a4bc681654699a18f389aac36bf60",
+              "images": [
+                {
+                  "height": 634,
+                  "url": "https://pbs.twimg.com/news_img/2052989565741481984/HiDhiM9Q?format=jpg&name=orig",
+                  "width": 1202
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2052989565741481984/HiDhiM9Q?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 21,
+              "status": 200,
+              "title": "二甲双弧能反制抗精神病药引起的体重增加嘛",
+              "unwound_url": "https://x.com/i/grok/share/349a4bc681654699a18f389aac36bf60",
+              "url": "https://t.co/pmz90VP3eu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052989560653795330",
+        "in_reply_to_user_id": "1662058783215087617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052827173241921939",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HacchiTheMaid 要不你看看 https://t.co/pmz90VP3eu"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662058783215087617",
+        "conversation_id": "2052827173241921939",
+        "created_at": "2026-05-08T19:05:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T20:05:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052827173241921939"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052827173241921939",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 476,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我操好几把痛苦，吃利培酮和各种哌唑就昏昏沉沉体重激增什么都做不了，不吃药就一直精分出各种幻觉\n操你妈…傻逼世界你赢了，不仅吃药胖到160斤各种病也没好，操你妈精神病，操你妈有钱人，操你妈男权蛆和terf\n我操我好想重开啊，你妈的难受晕了\n操你妈……叫医生来，我很难受……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-19T07:45:35.000Z",
+        "description": "MTF /HRT since 25.11.16/中重度抑郁/互fo/oder/深柜中（已经出柜了，但是是在偷偷HRT）/ASD",
+        "id": "1560533329912311808",
+        "name": "Lily 🏳️‍⚧️",
+        "pinned_tweet_id": "2036571069851771293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023587572161933312/nuq0npKD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 831,
+          "following_count": 1037,
+          "like_count": 64079,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 579
+        },
+        "username": "BdZzbw6goo2",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-26T11:31:22.000Z",
+        "description": "终其永怀，又窘阴雨。狗狗@Sorsacerba",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 12,
+                "username": "Sorsacerba"
+              }
+            ]
+          }
+        },
+        "id": "1662058783215087617",
+        "location": "距离2.4km",
+        "name": "Hacchi",
+        "pinned_tweet_id": "1927301590777479428",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937052623523168256/NWtxx8z__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10798,
+          "following_count": 2018,
+          "like_count": 52985,
+          "listed_count": 39,
+          "media_count": 1369,
+          "tweet_count": 37049
+        },
+        "username": "HacchiTheMaid",
+        "verified": false
+      }
+    ]
+  }
+}

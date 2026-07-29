@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560533329912311808",
+    "conversation_id": "2045860233780850942",
+    "created_at": "2026-04-20T03:59:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T04:59:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046076289610862782"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1831350388861345793",
+          "start": 0,
+          "username": "WakabaHiime9969"
+        },
+        {
+          "end": 33,
+          "id": "1464862562164506624",
+          "start": 17,
+          "username": "Sullivansuolian"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046076289610862782",
+    "in_reply_to_user_id": "1831350388861345793",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045860233780850942",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WakabaHiime9969 @Sullivansuolian 蹲蹲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560533329912311808",
+        "conversation_id": "2045860233780850942",
+        "created_at": "2026-04-20T03:59:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T04:59:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046076289610862782"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1831350388861345793",
+              "start": 0,
+              "username": "WakabaHiime9969"
+            },
+            {
+              "end": 33,
+              "id": "1464862562164506624",
+              "start": 17,
+              "username": "Sullivansuolian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046076289610862782",
+        "in_reply_to_user_id": "1831350388861345793",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045860233780850942",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WakabaHiime9969 @Sullivansuolian 蹲蹲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1831350388861345793",
+        "conversation_id": "2045860233780850942",
+        "created_at": "2026-04-19T13:41:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T14:41:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045860233780850942"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045860233780850942",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "马上要100fo了喵！给大家抽个奖喵(≧∀≦)♪\n一等奖：rmb69.69 *1名\n二等奖：补子一盒+本人亲笔信(可定制内容&仅限快递可达地区)   或：折现rmb33.10。*1名\n三等奖：rmb5.20 *3名\n【参与条件】转帖+点赞+评论+关注喵\n⭐所有中奖者均可获取本人微信\n⭐对于一等奖、二等奖中奖者，我可以免费陪聊10min（在我有空的时候，前提是你愿意w）\n最后谢谢大家的支持啦w，4.22晚上开奖"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 3333,
+          "like_count": 83,
+          "quote_count": 0,
+          "reply_count": 53,
+          "retweet_count": 52
+        },
+        "reply_settings": "everyone",
+        "text": "马上要100fo了喵！给大家抽个奖喵(≧∀≦)♪\n一等奖：rmb69.69 *1名\n二等奖：补子一盒+本人亲笔信(可定制内容&amp;仅限快递可达地区)   或：折现rmb33.10。*1名\n三等奖：rmb5.20 *3名\n【参与条件】转帖+点赞+评论+关注喵\n⭐所有中奖者均可获取本人微信"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-19T07:45:35.000Z",
+        "description": "MTF /HRT since 25.11.16/中重度抑郁/互fo/oder/深柜中（已经出柜了，但是是在偷偷HRT）/ASD",
+        "id": "1560533329912311808",
+        "name": "Lily 🏳️‍⚧️",
+        "pinned_tweet_id": "2036571069851771293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023587572161933312/nuq0npKD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 705,
+          "following_count": 899,
+          "like_count": 57298,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 486
+        },
+        "username": "BdZzbw6goo2",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-04T15:15:42.000Z",
+        "description": "ワカバ 緋イ芽 ｜07｜171/52  ??/66/84｜希望能交到好朋友喵｜🏳️‍⚧️Trans-Lesbian｜💊精品神药享受者｜大龄天残｜不懂太社交 · 奇异搞笑发言请原谅qwq｜🍥🎆GAHT 26.03.26｜人間になりたく、女の子になりたいですわ",
+        "id": "1831350388861345793",
+        "location": "東京湾",
+        "name": "Hiime🍡🍥",
+        "pinned_tweet_id": "2045861839305887896",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046017090461880320/5nsGZ0Ca_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 188,
+          "like_count": 353,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 184
+        },
+        "username": "WakabaHiime9969",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-28T07:43:56.000Z",
+        "description": "♀",
+        "id": "1464862562164506624",
+        "name": "缠绵",
+        "pinned_tweet_id": "2041819864604848506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037316684554620928/VXbF2kv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 188,
+          "like_count": 933,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 207
+        },
+        "username": "Sullivansuolian",
+        "verified": false
+      }
+    ]
+  }
+}

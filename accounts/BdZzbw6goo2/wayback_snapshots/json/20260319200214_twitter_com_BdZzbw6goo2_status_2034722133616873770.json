@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560533329912311808",
+    "conversation_id": "2034716589879435638",
+    "created_at": "2026-03-19T20:02:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T21:02:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034722133616873770"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2031959480448294912",
+          "start": 0,
+          "username": "morisase"
+        }
+      ],
+      "urls": [
+        {
+          "description": "人类（尤其是“发情”这种强烈性欲/性冲动）的核心驱动力主要依赖T（睾酮），而不是E2（雌二醇）。 简单总结（男女都适用） T（睾酮） 是性欲最直接、最主要的“点火”激素 → 无论男性还是女性，睾酮水平和性欲强度高度正相关 → 临床上，低T最常见、最直接导致性欲低下（hypoactive sexual desire disorder） E2（雌激素） 更像“辅助”和“环境优化”角色 → 它主要负责阴道润滑、组织健康、情绪稳定、性感受舒适度 → 它能间接支持性欲，但单独升高E2通常不会明显增加“发情感”，甚至有时还会抑制（尤其当T被压得很低时） 性别差异对比 | 性别 | 性欲最主要驱动激素 | E2的主要作用 | 典型临床现象 | |----------|---------------------|----------------------------------------|--------------------------------------------| | 男性 | 睾酮（T） | 少量E2由T转化，过高会抑制T和性欲 | 低T → 性欲直线下降、晨勃消失 | | 女性 | 睾酮（T） | 维持润滑、阴道健康、排卵期协同提升 | 低T → 性欲减退（常见于更年期、卵巢切除后）低E2 → 干涩、痛 → 间接降低做爱意愿，但不是“不想发情” | 为什么很多人误以为是E2？ 女性月经周期中排卵期性欲最强，那时E2最高 → 很多人以为是E2在驱动 → 其实排卵期T也同步小幅升高，而且T才是更直接的欲望开关，E2更像是“让环境适合发生”的帮手 MtF激素治疗中，E2↑ + T↓ 后很多人报告“性欲模式变了”甚至“欲火降低” → 这主要是因为T被压下去了，而不是E2本身“杀欲” 极端例子（临床常见） 男性低T（<200–300 ng/dL） → 性欲几乎归零，即使E2正常也救不回来 女性双侧卵巢切除（E2和T都崩） → 性欲暴跌，用小剂量睾酮往往比单纯补E2更能恢复“想要”的感觉 单纯补高剂量E2（T被压死） → 很多人反而觉得“发情感”变弱、变“绵长而非爆发” 一句话结论： 想强烈“发情”、有明显性冲动，主要靠T；想舒服、润滑、能持久享受，主要靠E2。 两者都重要，但驱动“要不要做”的核心引擎是T。",
+          "display_url": "x.com/i/grok/share/0…",
+          "end": 33,
+          "expanded_url": "https://x.com/i/grok/share/09145e16b9ea4c5c95dfb727074ade37",
+          "images": [
+            {
+              "height": 634,
+              "url": "https://pbs.twimg.com/news_img/2034722138905878531/OV2Zmgim?format=jpg&name=orig",
+              "width": 1202
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2034722138905878531/OV2Zmgim?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 10,
+          "status": 200,
+          "title": "人要发情依赖E2还是T",
+          "unwound_url": "https://x.com/i/grok/share/09145e16b9ea4c5c95dfb727074ade37",
+          "url": "https://t.co/H76LNH4ysC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034722133616873770",
+    "in_reply_to_user_id": "2031959480448294912",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034716589879435638",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@morisase https://t.co/H76LNH4ysC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1840,
+        "media_key": "3_2034716575908118528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDzD8gWaQAAllgW.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560533329912311808",
+        "conversation_id": "2034716589879435638",
+        "created_at": "2026-03-19T20:02:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T21:02:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034722133616873770"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2031959480448294912",
+              "start": 0,
+              "username": "morisase"
+            }
+          ],
+          "urls": [
+            {
+              "description": "人类（尤其是“发情”这种强烈性欲/性冲动）的核心驱动力主要依赖T（睾酮），而不是E2（雌二醇）。 简单总结（男女都适用） T（睾酮） 是性欲最直接、最主要的“点火”激素 → 无论男性还是女性，睾酮水平和性欲强度高度正相关 → 临床上，低T最常见、最直接导致性欲低下（hypoactive sexual desire disorder） E2（雌激素） 更像“辅助”和“环境优化”角色 → 它主要负责阴道润滑、组织健康、情绪稳定、性感受舒适度 → 它能间接支持性欲，但单独升高E2通常不会明显增加“发情感”，甚至有时还会抑制（尤其当T被压得很低时） 性别差异对比 | 性别 | 性欲最主要驱动激素 | E2的主要作用 | 典型临床现象 | |----------|---------------------|----------------------------------------|--------------------------------------------| | 男性 | 睾酮（T） | 少量E2由T转化，过高会抑制T和性欲 | 低T → 性欲直线下降、晨勃消失 | | 女性 | 睾酮（T） | 维持润滑、阴道健康、排卵期协同提升 | 低T → 性欲减退（常见于更年期、卵巢切除后）低E2 → 干涩、痛 → 间接降低做爱意愿，但不是“不想发情” | 为什么很多人误以为是E2？ 女性月经周期中排卵期性欲最强，那时E2最高 → 很多人以为是E2在驱动 → 其实排卵期T也同步小幅升高，而且T才是更直接的欲望开关，E2更像是“让环境适合发生”的帮手 MtF激素治疗中，E2↑ + T↓ 后很多人报告“性欲模式变了”甚至“欲火降低” → 这主要是因为T被压下去了，而不是E2本身“杀欲” 极端例子（临床常见） 男性低T（<200–300 ng/dL） → 性欲几乎归零，即使E2正常也救不回来 女性双侧卵巢切除（E2和T都崩） → 性欲暴跌，用小剂量睾酮往往比单纯补E2更能恢复“想要”的感觉 单纯补高剂量E2（T被压死） → 很多人反而觉得“发情感”变弱、变“绵长而非爆发” 一句话结论： 想强烈“发情”、有明显性冲动，主要靠T；想舒服、润滑、能持久享受，主要靠E2。 两者都重要，但驱动“要不要做”的核心引擎是T。",
+              "display_url": "x.com/i/grok/share/0…",
+              "end": 33,
+              "expanded_url": "https://x.com/i/grok/share/09145e16b9ea4c5c95dfb727074ade37",
+              "images": [
+                {
+                  "height": 634,
+                  "url": "https://pbs.twimg.com/news_img/2034722138905878531/OV2Zmgim?format=jpg&name=orig",
+                  "width": 1202
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2034722138905878531/OV2Zmgim?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 10,
+              "status": 200,
+              "title": "人要发情依赖E2还是T",
+              "unwound_url": "https://x.com/i/grok/share/09145e16b9ea4c5c95dfb727074ade37",
+              "url": "https://t.co/H76LNH4ysC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034722133616873770",
+        "in_reply_to_user_id": "2031959480448294912",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034716589879435638",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@morisase https://t.co/H76LNH4ysC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034716575908118528"
+          ]
+        },
+        "author_id": "2031959480448294912",
+        "conversation_id": "2034716589879435638",
+        "created_at": "2026-03-19T19:40:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T20:40:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034716589879435638"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3wu1wGlROk",
+              "end": 55,
+              "expanded_url": "https://x.com/morisase/status/2034716589879435638/photo/1",
+              "media_key": "3_2034716575908118528",
+              "start": 32,
+              "url": "https://t.co/3wu1wGlROk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034716589879435638",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想要发情😭发不出来是怎么回事😭明明在峰值呀😭明天试试幻想一下 https://t.co/3wu1wGlROk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-19T07:45:35.000Z",
+        "description": "MTF /HRT since 25.11.16/中重度抑郁/互fo/oder/深柜中",
+        "id": "1560533329912311808",
+        "name": "Lily 🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023587572161933312/nuq0npKD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 370,
+          "following_count": 569,
+          "like_count": 44429,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 137
+        },
+        "username": "BdZzbw6goo2",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-12T05:04:52.000Z",
+        "description": "INFP-T｜168石墩子｜enby transfem｜EDAY🍥20-12-2025｜失败交易员｜懒惰无业者｜肥胖大药娘｜辍学摆烂蛆｜缺爱地雷妹｜压抑人妖处｜圈内小透明｜XY受害者｜疯狂精神病｜Ⓐ ZONE｜小猫咪🐈@LumidexNZ・姐姐@HappyHejsDay",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 109,
+                "username": "LumidexNZ"
+              },
+              {
+                "end": 135,
+                "start": 122,
+                "username": "HappyHejsDay"
+              }
+            ]
+          }
+        },
+        "id": "2031959480448294912",
+        "location": "森紗",
+        "name": "morisa 二号机",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032008726505537539/htm2DLm7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 284,
+          "like_count": 876,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 195
+        },
+        "username": "morisase",
+        "verified": false
+      }
+    ]
+  }
+}

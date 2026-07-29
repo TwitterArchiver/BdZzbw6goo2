@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2031588088909279239"
+      ]
+    },
+    "author_id": "1560533329912311808",
+    "conversation_id": "2031588101269901597",
+    "created_at": "2026-03-11T04:28:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-11T05:28:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2031588101269901597"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/BXPKohNYJN",
+          "end": 43,
+          "expanded_url": "https://x.com/BdZzbw6goo2/status/2031588101269901597/photo/1",
+          "media_key": "3_2031588088909279239",
+          "start": 20,
+          "url": "https://t.co/BXPKohNYJN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031588101269901597",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这个烟味好淡，尼古丁居然只有0.1mg https://t.co/BXPKohNYJN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2031588088909279239",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDGmmmFaMAcYH0Y.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031588088909279239"
+          ]
+        },
+        "author_id": "1560533329912311808",
+        "conversation_id": "2031588101269901597",
+        "created_at": "2026-03-11T04:28:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T05:28:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031588101269901597"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BXPKohNYJN",
+              "end": 43,
+              "expanded_url": "https://x.com/BdZzbw6goo2/status/2031588101269901597/photo/1",
+              "media_key": "3_2031588088909279239",
+              "start": 20,
+              "url": "https://t.co/BXPKohNYJN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031588101269901597",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个烟味好淡，尼古丁居然只有0.1mg https://t.co/BXPKohNYJN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-19T07:45:35.000Z",
+        "description": "MTF /HRT since 25.11.16/中重度抑郁/互fo/oder/深柜中",
+        "id": "1560533329912311808",
+        "name": "Lily 🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023587572161933312/nuq0npKD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 356,
+          "like_count": 41208,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 53
+        },
+        "username": "BdZzbw6goo2",
+        "verified": true
+      }
+    ]
+  }
+}

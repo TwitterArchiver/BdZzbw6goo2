@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560533329912311808",
+    "conversation_id": "2044588959435796913",
+    "created_at": "2026-04-18T02:36:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T03:36:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045330603269320957"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "抽奖结果已出！🎉 根据原帖规则（关注+转发+点赞+评论参与），我通过X工具完整抓取了帖子的评论参与者，共收集到40位独特用户（多次分页搜索Latest模式下的所有回复，已尽量覆盖全部52条回复中的有效参与者）。 为确保公平，我使用Python随机算法（以帖子ID作为随机种子，可复现），对参与者列表进行洗牌后抽取： 一等奖（绿普2盒或一盒国补，折20CNY）×1：@siangel0911 二等奖（绿普1盒，折10CNY）×2：@jiaoyanboluooo、@chend8964 三等奖（ym一盒，折8CNY）×2：@Fishbone_go_、@Dodoeqiu 恭喜以上中奖的小伙伴！ 🥳 请私信原帖主（@BdZzbw6goo2）或在这里回复领取方式～（记得确认已完成关注/转发/点赞哦） 如果有任何疑问、想看完整参与者列表、或需要重新验证/抽取，随时告诉我！谢谢大家参与～下次再来600fo大抽！💕",
+          "display_url": "x.com/i/grok/share/5…",
+          "end": 23,
+          "expanded_url": "https://x.com/i/grok/share/55354fa9fd6740d08f6408776697c76d",
+          "images": [
+            {
+              "height": 634,
+              "url": "https://pbs.twimg.com/news_img/2045330608889704448/7zb3pIdC?format=jpg&name=orig",
+              "width": 1202
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2045330608889704448/7zb3pIdC?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 0,
+          "status": 200,
+          "title": "选出中奖者https://x.com/bdzzbw6goo2/status/2044588959435796913?s=46",
+          "unwound_url": "https://x.com/i/grok/share/55354fa9fd6740d08f6408776697c76d",
+          "url": "https://t.co/8GtYL0Zf7r"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045330603269320957",
+    "in_reply_to_user_id": "1560533329912311808",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044588959435796913",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/8GtYL0Zf7r"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560533329912311808",
+        "conversation_id": "2044588959435796913",
+        "created_at": "2026-04-18T02:36:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T03:36:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045330603269320957"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "抽奖结果已出！🎉 根据原帖规则（关注+转发+点赞+评论参与），我通过X工具完整抓取了帖子的评论参与者，共收集到40位独特用户（多次分页搜索Latest模式下的所有回复，已尽量覆盖全部52条回复中的有效参与者）。 为确保公平，我使用Python随机算法（以帖子ID作为随机种子，可复现），对参与者列表进行洗牌后抽取： 一等奖（绿普2盒或一盒国补，折20CNY）×1：@siangel0911 二等奖（绿普1盒，折10CNY）×2：@jiaoyanboluooo、@chend8964 三等奖（ym一盒，折8CNY）×2：@Fishbone_go_、@Dodoeqiu 恭喜以上中奖的小伙伴！ 🥳 请私信原帖主（@BdZzbw6goo2）或在这里回复领取方式～（记得确认已完成关注/转发/点赞哦） 如果有任何疑问、想看完整参与者列表、或需要重新验证/抽取，随时告诉我！谢谢大家参与～下次再来600fo大抽！💕",
+              "display_url": "x.com/i/grok/share/5…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/grok/share/55354fa9fd6740d08f6408776697c76d",
+              "images": [
+                {
+                  "height": 634,
+                  "url": "https://pbs.twimg.com/news_img/2045330608889704448/7zb3pIdC?format=jpg&name=orig",
+                  "width": 1202
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2045330608889704448/7zb3pIdC?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "选出中奖者https://x.com/bdzzbw6goo2/status/2044588959435796913?s=46",
+              "unwound_url": "https://x.com/i/grok/share/55354fa9fd6740d08f6408776697c76d",
+              "url": "https://t.co/8GtYL0Zf7r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045330603269320957",
+        "in_reply_to_user_id": "1560533329912311808",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044588959435796913",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/8GtYL0Zf7r"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560533329912311808",
+        "conversation_id": "2044588959435796913",
+        "created_at": "2026-04-16T01:29:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T02:27:48.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044588538117906515",
+          "2044588959435796913"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044588959435796913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2931,
+          "like_count": 75,
+          "quote_count": 0,
+          "reply_count": 53,
+          "retweet_count": 54
+        },
+        "reply_settings": "everyone",
+        "text": "600fo的抽奖来了\n一等奖：绿普2盒或一盒国补（折20CNY）*1人\n二等奖：绿普1盒（折10CNY）*2人\n三等奖：ym一盒（折8CNY）*2人\n\n关注+转发+点赞+评论参与，4月18日下午2点开奖"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-19T07:45:35.000Z",
+        "description": "MTF /HRT since 25.11.16/中重度抑郁/互fo/oder/深柜中（已经出柜了，但是是在偷偷HRT）/ASD",
+        "id": "1560533329912311808",
+        "name": "Lily 🏳️‍⚧️",
+        "pinned_tweet_id": "2036571069851771293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023587572161933312/nuq0npKD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 691,
+          "following_count": 880,
+          "like_count": 56408,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 471
+        },
+        "username": "BdZzbw6goo2",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560533329912311808",
+    "conversation_id": "2040976747416715412",
+    "created_at": "2026-04-06T02:15:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T03:15:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040976747416715412"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1660650002106990597",
+          "start": 3,
+          "username": "moontsuki_yue"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040976747416715412",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040975317456847292",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @moontsuki_yue: 男の子はやはり男らしさを持つべきだと思いますか？✨ ぜひ議論してください。✨\n\n男生一定要有阳刚之气吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560533329912311808",
+        "conversation_id": "2040976747416715412",
+        "created_at": "2026-04-06T02:15:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T03:15:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040976747416715412"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1660650002106990597",
+              "start": 3,
+              "username": "moontsuki_yue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040976747416715412",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040975317456847292",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @moontsuki_yue: 男の子はやはり男らしさを持つべきだと思いますか？✨ ぜひ議論してください。✨\n\n男生一定要有阳刚之气吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1660650002106990597",
+        "conversation_id": "2040975317456847292",
+        "created_at": "2026-04-06T02:10:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T03:10:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040975317456847292"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040975317456847292",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "男の子はやはり男らしさを持つべきだと思いますか？✨ ぜひ議論してください。✨\n\n男生一定要有阳刚之气吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-19T07:45:35.000Z",
+        "description": "MTF /HRT since 25.11.16/中重度抑郁/互fo/oder/深柜中/有阿斯伯格不是很会聊天致歉",
+        "id": "1560533329912311808",
+        "name": "Lily 🏳️‍⚧️",
+        "pinned_tweet_id": "2036571069851771293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023587572161933312/nuq0npKD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 549,
+          "following_count": 754,
+          "like_count": 51719,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 316
+        },
+        "username": "BdZzbw6goo2",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-22T14:13:16.000Z",
+        "description": "男娘，有体香，168cm/50kg。约会🚪48，私信我\n\n男の娘、体香あり、168cm・50kg。友達になることとデートの前提条件は2,000円（入会費）です。ご希望の方はDMを送ってください。ありがとうございます。",
+        "id": "1660650002106990597",
+        "location": "接线下常驻湖北全国✈️",
+        "name": "月光的琉璃梦（三世）🌸",
+        "pinned_tweet_id": "2040627442684248416",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036049037493952512/SSNw7E3o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 126,
+          "like_count": 338,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 494
+        },
+        "username": "moontsuki_yue",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560533329912311808",
+    "conversation_id": "2060615601459183734",
+    "created_at": "2026-05-30T07:33:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T08:33:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060625656736825701"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1822310803153846274",
+          "start": 0,
+          "username": "HeiCheng123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060625656736825701",
+    "in_reply_to_user_id": "1822310803153846274",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060615601459183734",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HeiCheng123 抗雄一般只是抑制自身的睾酮的生成而已（AR拮抗剂除外），对于外源性的睾酮没啥作用"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560533329912311808",
+        "conversation_id": "2060615601459183734",
+        "created_at": "2026-05-30T07:33:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T08:33:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060625656736825701"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1822310803153846274",
+              "start": 0,
+              "username": "HeiCheng123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060625656736825701",
+        "in_reply_to_user_id": "1822310803153846274",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060615601459183734",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HeiCheng123 抗雄一般只是抑制自身的睾酮的生成而已（AR拮抗剂除外），对于外源性的睾酮没啥作用"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1822310803153846274",
+        "conversation_id": "2060615601459183734",
+        "created_at": "2026-05-30T06:53:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T07:53:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060615601459183734"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060615601459183734",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果同时吃睾酮和抗雄的话会怎么样🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-19T07:45:35.000Z",
+        "description": "MTF /HRT since 25.11.16/中重度抑郁/互fo/oder/深柜中（已经出柜了，但是是在偷偷HRT）/ASD",
+        "id": "1560533329912311808",
+        "name": "Lily 🏳️‍⚧️",
+        "pinned_tweet_id": "2036571069851771293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023587572161933312/nuq0npKD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 916,
+          "following_count": 1157,
+          "like_count": 72784,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 616
+        },
+        "username": "BdZzbw6goo2",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-10T16:36:03.000Z",
+        "description": "🍥🏳️‍⚧️/2009.12.5/有小证!/HRT26.2.13/超大个/家长党/阿斯伯格/休学中/丑/🏳️‍⚧️🍥",
+        "id": "1822310803153846274",
+        "location": "Shinjuku-ku, Tokyo",
+        "name": "zeno",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049078446056431616/vbyHFH9J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 226,
+          "like_count": 5451,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 146
+        },
+        "username": "HeiCheng123",
+        "verified": true
+      }
+    ]
+  }
+}

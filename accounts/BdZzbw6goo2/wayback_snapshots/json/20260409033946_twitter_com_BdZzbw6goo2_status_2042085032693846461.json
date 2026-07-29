@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560533329912311808",
+    "conversation_id": "2042085032693846461",
+    "created_at": "2026-04-09T03:39:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T04:39:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042085032693846461"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1803048962133483520",
+          "start": 3,
+          "username": "baixixi0712"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042085032693846461",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042005987738185892",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @baixixi0712: 一个圈子全上电视了笑死我了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560533329912311808",
+        "conversation_id": "2042085032693846461",
+        "created_at": "2026-04-09T03:39:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T04:39:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042085032693846461"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1803048962133483520",
+              "start": 3,
+              "username": "baixixi0712"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042085032693846461",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042005987738185892",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @baixixi0712: 一个圈子全上电视了笑死我了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1803048962133483520",
+        "conversation_id": "2042005987738185892",
+        "created_at": "2026-04-08T22:25:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T23:25:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042005987738185892"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042005987738185892",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 965,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "一个圈子全上电视了笑死我了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-19T07:45:35.000Z",
+        "description": "MTF /HRT since 25.11.16/中重度抑郁/互fo/oder/深柜中/有阿斯伯格不是很会聊天致歉",
+        "id": "1560533329912311808",
+        "name": "Lily 🏳️‍⚧️",
+        "pinned_tweet_id": "2036571069851771293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023587572161933312/nuq0npKD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 577,
+          "following_count": 786,
+          "like_count": 53296,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 332
+        },
+        "username": "BdZzbw6goo2",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-18T12:55:53.000Z",
+        "description": "07，双相，同类互fo会补赞👀，想要有好多好朋友，想要o到天昏地暗😋，割手爽😋，想只活在互联网上，想永远爱你们\n不参与任何争论和键政，不惹我我也不会惹你，我发我的看我不爽直接屏蔽就好\n还有就是求求你们不要再给我发几把照了😭",
+        "id": "1803048962133483520",
+        "location": "天堂",
+        "name": "白汐🩸💊",
+        "pinned_tweet_id": "2023514108625383462",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902841317132255232/kHWEIPI8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 367,
+          "following_count": 206,
+          "like_count": 284,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 718
+        },
+        "username": "baixixi0712",
+        "verified": false
+      }
+    ]
+  }
+}

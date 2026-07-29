@@ -1,0 +1,164 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560533329912311808",
+    "conversation_id": "2027727943406129633",
+    "created_at": "2026-02-28T13:31:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T14:31:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027738311461318878"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2027738311461318878",
+    "in_reply_to_user_id": "1560533329912311808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027727943406129633",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "pr治偏头痛真有用，之前痛的要死现在基本没啥感觉了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2027727931028738048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCPvz1YbEAAbsXZ.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560533329912311808",
+        "conversation_id": "2027727943406129633",
+        "created_at": "2026-02-28T13:31:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T14:31:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027738311461318878"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2027738311461318878",
+        "in_reply_to_user_id": "1560533329912311808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027727943406129633",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "pr治偏头痛真有用，之前痛的要死现在基本没啥感觉了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027727931028738048"
+          ]
+        },
+        "author_id": "1560533329912311808",
+        "conversation_id": "2027727943406129633",
+        "created_at": "2026-02-28T12:49:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T13:49:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027727943406129633"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kVFM6D5nxM",
+              "end": 37,
+              "expanded_url": "https://x.com/BdZzbw6goo2/status/2027727943406129633/photo/1",
+              "media_key": "3_2027727931028738048",
+              "start": 14,
+              "url": "https://t.co/kVFM6D5nxM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027727943406129633",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好舒服（还有10g的酒精） https://t.co/kVFM6D5nxM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-19T07:45:35.000Z",
+        "description": "MTF /HRT since 25.11.16/中重度抑郁/互fo/oder",
+        "id": "1560533329912311808",
+        "name": "Lily",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023587572161933312/nuq0npKD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 254,
+          "like_count": 37549,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 13
+        },
+        "username": "BdZzbw6goo2",
+        "verified": true
+      }
+    ]
+  }
+}

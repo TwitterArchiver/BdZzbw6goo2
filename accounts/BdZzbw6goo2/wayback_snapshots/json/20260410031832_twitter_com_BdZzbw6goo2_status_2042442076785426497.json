@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560533329912311808",
+    "conversation_id": "2042413818148745454",
+    "created_at": "2026-04-10T03:18:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T04:18:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042442076785426497"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1963088360110530560",
+          "start": 0,
+          "username": "charlotte1020W"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042442076785426497",
+    "in_reply_to_user_id": "1963088360110530560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042441786145034614",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@charlotte1020W 这种我建议直接回复感康"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560533329912311808",
+        "conversation_id": "2042413818148745454",
+        "created_at": "2026-04-10T03:18:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T04:18:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042442076785426497"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1963088360110530560",
+              "start": 0,
+              "username": "charlotte1020W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042442076785426497",
+        "in_reply_to_user_id": "1963088360110530560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042441786145034614",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@charlotte1020W 这种我建议直接回复感康"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1963088360110530560",
+        "conversation_id": "2042413818148745454",
+        "created_at": "2026-04-10T03:17:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T04:17:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042441786145034614"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1560533329912311808",
+              "start": 0,
+              "username": "BdZzbw6goo2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042441786145034614",
+        "in_reply_to_user_id": "1560533329912311808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042413818148745454",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BdZzbw6goo2 人机说话都没这么固定"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-19T07:45:35.000Z",
+        "description": "MTF /HRT since 25.11.16/中重度抑郁/互fo/oder/深柜中/有阿斯伯格不是很会聊天致歉",
+        "id": "1560533329912311808",
+        "name": "Lily 🏳️‍⚧️",
+        "pinned_tweet_id": "2036571069851771293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023587572161933312/nuq0npKD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 607,
+          "following_count": 813,
+          "like_count": 53619,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 371
+        },
+        "username": "BdZzbw6goo2",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-03T03:55:23.000Z",
+        "description": "殁亡正是结果，崩毁便是必然\n混乱亦是秩序，死寂即是终局\n\n鲜卑-汉-契丹-百越",
+        "id": "1963088360110530560",
+        "location": "奣曟天穹聯盟國",
+        "name": "剣〆雪希 Ken Yuki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042332789140340736/HWqZNsC2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 117,
+          "like_count": 75,
+          "listed_count": 2,
+          "media_count": 192,
+          "tweet_count": 5593
+        },
+        "username": "charlotte1020W",
+        "verified": false
+      }
+    ]
+  }
+}

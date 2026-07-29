@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560533329912311808",
+    "conversation_id": "2043528071115051282",
+    "created_at": "2026-04-13T03:21:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T04:21:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043529947525140776"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1819724915094032385",
+          "start": 0,
+          "username": "kumo_akiyuu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043529947525140776",
+    "in_reply_to_user_id": "1819724915094032385",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043528071115051282",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kumo_akiyuu 算然但是国补好像是法国制造的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2043528068447567872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFwR84BbgAAUyy1.jpg",
+        "width": 864
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560533329912311808",
+        "conversation_id": "2043528071115051282",
+        "created_at": "2026-04-13T03:21:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T04:21:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043529947525140776"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1819724915094032385",
+              "start": 0,
+              "username": "kumo_akiyuu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043529947525140776",
+        "in_reply_to_user_id": "1819724915094032385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043528071115051282",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kumo_akiyuu 算然但是国补好像是法国制造的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043528068447567872"
+          ]
+        },
+        "author_id": "1819724915094032385",
+        "conversation_id": "2043528071115051282",
+        "created_at": "2026-04-13T03:13:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T04:13:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043528071115051282"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IUocFjynhu",
+              "end": 167,
+              "expanded_url": "https://x.com/kumo_akiyuu/status/2043528071115051282/photo/1",
+              "media_key": "3_2043528068447567872",
+              "start": 144,
+              "url": "https://t.co/IUocFjynhu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043528071115051282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "那希望你这辈子别碰国产药物了，喜思平的普瑞巴林，云药愈美片，鹏鹞的金刚烷胺，国产的补佳乐，欧乐妥的美金刚😂都给我去买几百块钱一盒的原研药去，所有人都去买白兔和武田药品工业anetone好了，去给外企送钱去好了。\n那这个来彰显优越感恐怕得了比抑郁症还严重的病，建议去测一下智力障碍量表吧。 https://t.co/IUocFjynhu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-19T07:45:35.000Z",
+        "description": "MTF /HRT since 25.11.16/中重度抑郁/互fo/oder/深柜中/有阿斯伯格不是很会聊天致歉",
+        "id": "1560533329912311808",
+        "name": "Lily 🏳️‍⚧️",
+        "pinned_tweet_id": "2036571069851771293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023587572161933312/nuq0npKD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 638,
+          "following_count": 832,
+          "like_count": 54666,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 420
+        },
+        "username": "BdZzbw6goo2",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-03T13:20:28.000Z",
+        "description": "已确诊心境障碍||喹硫平||文拉法辛\n#MTF倾向#喜欢cos#同人作者#百合控#摆烂大学生||草莓味爱好者\n\n如繁花般绽放，同随花火消散||\n\n那一天，我们化为了泡沫，破碎在夕方的晚霞边。||",
+        "id": "1819724915094032385",
+        "location": "Japan",
+        "name": "阳曇秋夕",
+        "pinned_tweet_id": "2043528071115051282",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990817346009837569/XRyXzDEs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 61,
+          "like_count": 1195,
+          "listed_count": 0,
+          "media_count": 98,
+          "tweet_count": 472
+        },
+        "username": "kumo_akiyuu",
+        "verified": false
+      }
+    ]
+  }
+}

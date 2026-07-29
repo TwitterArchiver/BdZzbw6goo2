@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560533329912311808",
+    "conversation_id": "2041877722289561922",
+    "created_at": "2026-04-10T11:30:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T12:30:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042565791091167396"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1766849456232947712",
+          "start": 0,
+          "username": "eileenpublic"
+        },
+        {
+          "end": 27,
+          "id": "1739126336248287232",
+          "start": 14,
+          "username": "UesugiKou07B"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042565791091167396",
+    "in_reply_to_user_id": "1766849456232947712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042565519900053758",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@eileenpublic @UesugiKou07B 对的对的，直接拿刀切就行了，很方便"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2250,
+        "media_key": "3_2042565517366763520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFimhB0boAA6Hdm.jpg",
+        "width": 1500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560533329912311808",
+        "conversation_id": "2041877722289561922",
+        "created_at": "2026-04-10T11:30:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T12:30:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042565791091167396"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1766849456232947712",
+              "start": 0,
+              "username": "eileenpublic"
+            },
+            {
+              "end": 27,
+              "id": "1739126336248287232",
+              "start": 14,
+              "username": "UesugiKou07B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042565791091167396",
+        "in_reply_to_user_id": "1766849456232947712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042565519900053758",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@eileenpublic @UesugiKou07B 对的对的，直接拿刀切就行了，很方便"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042565517366763520"
+          ]
+        },
+        "author_id": "1766849456232947712",
+        "conversation_id": "2041877722289561922",
+        "created_at": "2026-04-10T11:29:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T12:29:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042565519900053758"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1739126336248287232",
+              "start": 0,
+              "username": "UesugiKou07B"
+            },
+            {
+              "end": 26,
+              "id": "1560533329912311808",
+              "start": 14,
+              "username": "BdZzbw6goo2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SSC5ACGdN5",
+              "end": 67,
+              "expanded_url": "https://x.com/eileenpublic/status/2042565519900053758/photo/1",
+              "media_key": "3_2042565517366763520",
+              "start": 44,
+              "url": "https://t.co/SSC5ACGdN5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042565519900053758",
+        "in_reply_to_user_id": "1739126336248287232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042062878644301989",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@UesugiKou07B @BdZzbw6goo2 右佐是有两个划痕的，就是分三段的 https://t.co/SSC5ACGdN5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-19T07:45:35.000Z",
+        "description": "MTF /HRT since 25.11.16/中重度抑郁/互fo/oder/深柜中/有阿斯伯格不是很会聊天致歉",
+        "id": "1560533329912311808",
+        "name": "Lily 🏳️‍⚧️",
+        "pinned_tweet_id": "2036571069851771293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023587572161933312/nuq0npKD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 622,
+          "following_count": 822,
+          "like_count": 53932,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 392
+        },
+        "username": "BdZzbw6goo2",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-10T15:32:02.000Z",
+        "description": "2008/05/01 欢迎私信交朋友！",
+        "id": "1766849456232947712",
+        "name": "3il33n",
+        "pinned_tweet_id": "1983589588993241293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980462508683997184/7Tu33QGG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 8,
+          "like_count": 0,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 27
+        },
+        "username": "eileenpublic",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-25T03:30:21.000Z",
+        "description": "Kou",
+        "id": "1739126336248287232",
+        "name": "上杉紅",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1739126406163083264/DGz_p0Y9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 57,
+          "like_count": 961,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 97
+        },
+        "username": "UesugiKou07B",
+        "verified": false
+      }
+    ]
+  }
+}

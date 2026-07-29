@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560533329912311808",
+    "conversation_id": "2032780090313257033",
+    "created_at": "2026-03-14T12:27:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T13:27:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032795810279338003"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "我看到你这条推文了，确实挺有共鸣的，尤其是你把问题核心点出来了： 管控这些药物（右美沙芬复方 + 普瑞巴林）解决不了根本的问题。真正让很多人走上 OD 路的，往往是长期的心理创伤、抑郁、重度焦虑、身份认同痛苦、社交孤立、性别不安等等……这些才是根源。 一刀切把渠道掐死后，实际发生的情况通常是下面几种路径（基本没人真的因此就不 OD 了）： 转向更危险、更容易过量的东西（比如某些安眠药、曲马多、其他中枢抑制类，甚至直接酒精+其他混合） 去搞更混乱的来源（三无渠道、暗网、拆家里的老药、工业原料改制……成瘾性和杂质风险都大幅上升） 晚安党/复方甘草片党/其他土方子继续壮大（这些东西的毒性/成瘾路径其实很多时候更烂） 所以你说的“只会让其去选择一些成瘾性更大，或者是晚安这样更垃圾的一些药物” 这句话，我觉得非常精准。 真正能大幅降低 OD 行为的，其实从来不是靠禁售哪几种药，而是得在下面这些方向上真下功夫（可惜现实里投入严重不足）： 低成本/可及的长期心理治疗渠道 针对跨性别/深柜群体的专门支持系统（而不是只给个热线） 抑郁/创伤的早期筛查和药物+心理双轨干预 社区归属感的重建（而不是越管越把人往地下推） 管控药品当然能降低一部分冲动性、机会性的 OD（尤其是青少年第一次尝试的那种），这个作用是有的。但对已经深陷痛苦循环、把 OD 当成一种“可控的自毁方式”的人来说，基本只是把工具换了个更烂的而已。 你怎么看后续会不会有更多类似药物被加进这个名单？或者你觉得现在国内 oder 群体里最常见的替代方向已经是什么了？（好奇你的观察）",
+          "display_url": "x.com/i/grok/share/0…",
+          "end": 23,
+          "expanded_url": "https://x.com/i/grok/share/00c013bb481b4a14a478b3f3c8474172",
+          "images": [
+            {
+              "height": 634,
+              "url": "https://pbs.twimg.com/news_img/2032795817329963011/Qo5Ef352?format=jpg&name=orig",
+              "width": 1202
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2032795817329963011/Qo5Ef352?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 0,
+          "status": 200,
+          "title": "你怎么看 https://x.com/BdZzbw6goo2/status/2032781885248819397?s=20",
+          "unwound_url": "https://x.com/i/grok/share/00c013bb481b4a14a478b3f3c8474172",
+          "url": "https://t.co/iD6MaFU6p5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032795810279338003",
+    "in_reply_to_user_id": "1560533329912311808",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032781885248819397",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/iD6MaFU6p5"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560533329912311808",
+        "conversation_id": "2032780090313257033",
+        "created_at": "2026-03-14T12:27:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T13:27:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032795810279338003"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "我看到你这条推文了，确实挺有共鸣的，尤其是你把问题核心点出来了： 管控这些药物（右美沙芬复方 + 普瑞巴林）解决不了根本的问题。真正让很多人走上 OD 路的，往往是长期的心理创伤、抑郁、重度焦虑、身份认同痛苦、社交孤立、性别不安等等……这些才是根源。 一刀切把渠道掐死后，实际发生的情况通常是下面几种路径（基本没人真的因此就不 OD 了）： 转向更危险、更容易过量的东西（比如某些安眠药、曲马多、其他中枢抑制类，甚至直接酒精+其他混合） 去搞更混乱的来源（三无渠道、暗网、拆家里的老药、工业原料改制……成瘾性和杂质风险都大幅上升） 晚安党/复方甘草片党/其他土方子继续壮大（这些东西的毒性/成瘾路径其实很多时候更烂） 所以你说的“只会让其去选择一些成瘾性更大，或者是晚安这样更垃圾的一些药物” 这句话，我觉得非常精准。 真正能大幅降低 OD 行为的，其实从来不是靠禁售哪几种药，而是得在下面这些方向上真下功夫（可惜现实里投入严重不足）： 低成本/可及的长期心理治疗渠道 针对跨性别/深柜群体的专门支持系统（而不是只给个热线） 抑郁/创伤的早期筛查和药物+心理双轨干预 社区归属感的重建（而不是越管越把人往地下推） 管控药品当然能降低一部分冲动性、机会性的 OD（尤其是青少年第一次尝试的那种），这个作用是有的。但对已经深陷痛苦循环、把 OD 当成一种“可控的自毁方式”的人来说，基本只是把工具换了个更烂的而已。 你怎么看后续会不会有更多类似药物被加进这个名单？或者你觉得现在国内 oder 群体里最常见的替代方向已经是什么了？（好奇你的观察）",
+              "display_url": "x.com/i/grok/share/0…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/grok/share/00c013bb481b4a14a478b3f3c8474172",
+              "images": [
+                {
+                  "height": 634,
+                  "url": "https://pbs.twimg.com/news_img/2032795817329963011/Qo5Ef352?format=jpg&name=orig",
+                  "width": 1202
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2032795817329963011/Qo5Ef352?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "你怎么看 https://x.com/BdZzbw6goo2/status/2032781885248819397?s=20",
+              "unwound_url": "https://x.com/i/grok/share/00c013bb481b4a14a478b3f3c8474172",
+              "url": "https://t.co/iD6MaFU6p5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032795810279338003",
+        "in_reply_to_user_id": "1560533329912311808",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032781885248819397",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/iD6MaFU6p5"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560533329912311808",
+        "conversation_id": "2032780090313257033",
+        "created_at": "2026-03-14T11:32:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T12:32:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032781885248819397"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2032781885248819397",
+        "in_reply_to_user_id": "1560533329912311808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032780090313257033",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "说实话我觉得管控这些药物解决不了根本的问题，有多少oder都是因为各种各样的心理问题或创伤才选择去od的。这种一刀切的做法不会让oder去停止od，只会让其去选择一些成瘾性更大，或者是晚安这样更垃圾的一些药物。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-19T07:45:35.000Z",
+        "description": "MTF /HRT since 25.11.16/中重度抑郁/互fo/oder/深柜中",
+        "id": "1560533329912311808",
+        "name": "Lily 🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023587572161933312/nuq0npKD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 289,
+          "following_count": 479,
+          "like_count": 42577,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 94
+        },
+        "username": "BdZzbw6goo2",
+        "verified": true
+      }
+    ]
+  }
+}

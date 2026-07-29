@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070503122620030976"
+      ]
+    },
+    "author_id": "1560533329912311808",
+    "conversation_id": "2070448067917283457",
+    "created_at": "2026-06-26T13:43:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T14:43:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070503133911114209"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1675444856288870401",
+          "start": 0,
+          "username": "Maedarikuonly1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qGl005e6AY",
+          "end": 67,
+          "expanded_url": "https://x.com/BdZzbw6goo2/status/2070503133911114209/photo/1",
+          "media_key": "3_2070503122620030976",
+          "start": 44,
+          "url": "https://t.co/qGl005e6AY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070503133911114209",
+    "in_reply_to_user_id": "1675444856288870401",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070448067917283457",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Maedarikuonly1 舌下含服就是放到舌头下面，然后尽量不要吞口水。鼻吸的话 https://t.co/qGl005e6AY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2070503122620030976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLvnnroaoAAin2f.jpg",
+        "width": 429
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070503122620030976"
+          ]
+        },
+        "author_id": "1560533329912311808",
+        "conversation_id": "2070448067917283457",
+        "created_at": "2026-06-26T13:43:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T14:43:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070503133911114209"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1675444856288870401",
+              "start": 0,
+              "username": "Maedarikuonly1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qGl005e6AY",
+              "end": 67,
+              "expanded_url": "https://x.com/BdZzbw6goo2/status/2070503133911114209/photo/1",
+              "media_key": "3_2070503122620030976",
+              "start": 44,
+              "url": "https://t.co/qGl005e6AY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070503133911114209",
+        "in_reply_to_user_id": "1675444856288870401",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070448067917283457",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Maedarikuonly1 舌下含服就是放到舌头下面，然后尽量不要吞口水。鼻吸的话 https://t.co/qGl005e6AY"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1675444856288870401",
+        "conversation_id": "2070448067917283457",
+        "created_at": "2026-06-26T10:04:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T11:04:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070448067917283457"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070448067917283457",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁可以告诉我阿普舌下含服或者鼻吸的具体方法，我不知道怎么操作"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-19T07:45:35.000Z",
+        "description": "MTF /HRT since 25.11.16/中重度抑郁/互fo/oder/深柜中（已经出柜了，但是是在偷偷HRT）/ASD",
+        "id": "1560533329912311808",
+        "name": "Lily 🏳️‍⚧️",
+        "pinned_tweet_id": "2036571069851771293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023587572161933312/nuq0npKD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1006,
+          "following_count": 1241,
+          "like_count": 83118,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 648
+        },
+        "url": "",
+        "username": "BdZzbw6goo2",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-02T10:02:43.000Z",
+        "description": "爱着沃尔玛塑料袋，备孕中。少管我是谁，认识我的肯定认得出来。想fo就fo，我不会无缘由取关任何人。最喜欢的运动是左脑揍右脑，右脑再打回来，谁也不吃亏。",
+        "id": "1675444856288870401",
+        "location": "Украина",
+        "name": "Она не хочет умирать🍀",
+        "pinned_tweet_id": "1982503111794250042",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986111679604903936/qclllEvE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 285,
+          "following_count": 238,
+          "like_count": 3501,
+          "listed_count": 0,
+          "media_count": 144,
+          "tweet_count": 1211
+        },
+        "url": "",
+        "username": "Maedarikuonly1",
+        "verified": false
+      }
+    ]
+  }
+}

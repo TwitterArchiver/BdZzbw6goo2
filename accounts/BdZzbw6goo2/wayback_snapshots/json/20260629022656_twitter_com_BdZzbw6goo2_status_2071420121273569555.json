@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560533329912311808",
+    "conversation_id": "2071323336437805386",
+    "created_at": "2026-06-29T02:26:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T03:26:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071420121273569555"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1653411901806882816",
+          "start": 0,
+          "username": "77_one7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071420121273569555",
+    "in_reply_to_user_id": "1653411901806882816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071323336437805386",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@77_one7 肌肉注射纳洛酮应该行"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560533329912311808",
+        "conversation_id": "2071323336437805386",
+        "created_at": "2026-06-29T02:26:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T03:26:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071420121273569555"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1653411901806882816",
+              "start": 0,
+              "username": "77_one7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071420121273569555",
+        "in_reply_to_user_id": "1653411901806882816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071323336437805386",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@77_one7 肌肉注射纳洛酮应该行"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1653411901806882816",
+        "conversation_id": "2071323336437805386",
+        "created_at": "2026-06-28T20:02:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T21:02:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071323336437805386"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071323336437805386",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "阿片类要怎么下机呀，。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-19T07:45:35.000Z",
+        "description": "MTF /HRT since 25.11.16/中重度抑郁/互fo/oder/深柜中（已经出柜了，但是是在偷偷HRT）/ASD",
+        "id": "1560533329912311808",
+        "name": "Lily 🏳️‍⚧️",
+        "pinned_tweet_id": "2036571069851771293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023587572161933312/nuq0npKD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1012,
+          "following_count": 1241,
+          "like_count": 84043,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 655
+        },
+        "url": "",
+        "username": "BdZzbw6goo2",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-02T14:51:42.000Z",
+        "description": "那我呢 我怎么办",
+        "id": "1653411901806882816",
+        "location": "哈基米",
+        "name": "唑吡坦的狗",
+        "pinned_tweet_id": "2060125736028283304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833146131465052160/NtD1ZsSc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 51,
+          "like_count": 456,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 83
+        },
+        "url": "",
+        "username": "77_one7",
+        "verified": false
+      }
+    ]
+  }
+}

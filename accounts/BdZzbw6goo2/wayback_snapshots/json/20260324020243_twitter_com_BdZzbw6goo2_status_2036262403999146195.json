@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560533329912311808",
+    "conversation_id": "2036258013942784277",
+    "created_at": "2026-03-24T02:02:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T03:02:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036262403999146195"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2029139367995076608",
+          "start": 0,
+          "username": "vunnjg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036262403999146195",
+    "in_reply_to_user_id": "2029139367995076608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 7,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036261886392672546",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@vunnjg 那就买! 反正几块钱一瓶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560533329912311808",
+        "conversation_id": "2036258013942784277",
+        "created_at": "2026-03-24T02:02:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T03:02:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036262403999146195"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2029139367995076608",
+              "start": 0,
+              "username": "vunnjg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036262403999146195",
+        "in_reply_to_user_id": "2029139367995076608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036261886392672546",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vunnjg 那就买! 反正几块钱一瓶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029139367995076608",
+        "conversation_id": "2036258013942784277",
+        "created_at": "2026-03-24T02:00:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T03:00:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036261886392672546"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1560533329912311808",
+              "start": 0,
+              "username": "BdZzbw6goo2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036261886392672546",
+        "in_reply_to_user_id": "1560533329912311808",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036258013942784277",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BdZzbw6goo2 我也想o😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-19T07:45:35.000Z",
+        "description": "MTF /HRT since 25.11.16/中重度抑郁/互fo/oder/深柜中",
+        "id": "1560533329912311808",
+        "name": "Lily 🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023587572161933312/nuq0npKD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 399,
+          "following_count": 600,
+          "like_count": 45670,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 178
+        },
+        "username": "BdZzbw6goo2",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-04T10:21:48.000Z",
+        "description": "爱嗑药的傻逼喜欢无差别攻击｜可互fo直fo会查成分",
+        "id": "2029139367995076608",
+        "location": "日本",
+        "name": "一直操到女儿变黑（反od）",
+        "pinned_tweet_id": "2029345765588648192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033955394587136004/0NOkZeyo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 76,
+          "like_count": 2865,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 2075
+        },
+        "username": "vunnjg",
+        "verified": false
+      }
+    ]
+  }
+}

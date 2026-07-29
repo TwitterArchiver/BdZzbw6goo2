@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2031602081942089730"
+      ]
+    },
+    "author_id": "1560533329912311808",
+    "conversation_id": "2031602092310409281",
+    "created_at": "2026-03-11T05:24:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-11T06:24:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2031602092310409281"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/py37VJBlwo",
+          "end": 43,
+          "expanded_url": "https://x.com/BdZzbw6goo2/status/2031602092310409281/photo/1",
+          "media_key": "3_2031602081942089730",
+          "start": 20,
+          "url": "https://t.co/py37VJBlwo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031602092310409281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好烦，要回学校了，再加600mg的pr https://t.co/py37VJBlwo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2031602081942089730",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDGzVGMaMAIrwyD.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031602081942089730"
+          ]
+        },
+        "author_id": "1560533329912311808",
+        "conversation_id": "2031602092310409281",
+        "created_at": "2026-03-11T05:24:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T06:24:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031602092310409281"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/py37VJBlwo",
+              "end": 43,
+              "expanded_url": "https://x.com/BdZzbw6goo2/status/2031602092310409281/photo/1",
+              "media_key": "3_2031602081942089730",
+              "start": 20,
+              "url": "https://t.co/py37VJBlwo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031602092310409281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好烦，要回学校了，再加600mg的pr https://t.co/py37VJBlwo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-19T07:45:35.000Z",
+        "description": "MTF /HRT since 25.11.16/中重度抑郁/互fo/oder/深柜中",
+        "id": "1560533329912311808",
+        "name": "Lily 🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023587572161933312/nuq0npKD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 361,
+          "like_count": 41234,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 57
+        },
+        "username": "BdZzbw6goo2",
+        "verified": true
+      }
+    ]
+  }
+}

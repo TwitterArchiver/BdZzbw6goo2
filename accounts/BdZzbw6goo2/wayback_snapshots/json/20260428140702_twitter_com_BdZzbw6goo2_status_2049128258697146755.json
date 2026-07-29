@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049128245501829120",
+        "3_2049128245564698624"
+      ]
+    },
+    "author_id": "1560533329912311808",
+    "conversation_id": "2049128258697146755",
+    "created_at": "2026-04-28T14:07:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T15:07:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049128258697146755"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/vCcC5nKvrS",
+          "end": 28,
+          "expanded_url": "https://x.com/BdZzbw6goo2/status/2049128258697146755/photo/1",
+          "media_key": "3_2049128245501829120",
+          "start": 5,
+          "url": "https://t.co/vCcC5nKvrS"
+        },
+        {
+          "display_url": "pic.x.com/vCcC5nKvrS",
+          "end": 28,
+          "expanded_url": "https://x.com/BdZzbw6goo2/status/2049128258697146755/photo/1",
+          "media_key": "3_2049128245564698624",
+          "start": 5,
+          "url": "https://t.co/vCcC5nKvrS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049128258697146755",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "大杂烩？ https://t.co/vCcC5nKvrS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2049128245501829120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG_3SFRbIAAShSw.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2049128245564698624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG_3SFgacAAJ0wj.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049128245501829120",
+            "3_2049128245564698624"
+          ]
+        },
+        "author_id": "1560533329912311808",
+        "conversation_id": "2049128258697146755",
+        "created_at": "2026-04-28T14:07:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T15:07:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049128258697146755"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vCcC5nKvrS",
+              "end": 28,
+              "expanded_url": "https://x.com/BdZzbw6goo2/status/2049128258697146755/photo/1",
+              "media_key": "3_2049128245501829120",
+              "start": 5,
+              "url": "https://t.co/vCcC5nKvrS"
+            },
+            {
+              "display_url": "pic.x.com/vCcC5nKvrS",
+              "end": 28,
+              "expanded_url": "https://x.com/BdZzbw6goo2/status/2049128258697146755/photo/1",
+              "media_key": "3_2049128245564698624",
+              "start": 5,
+              "url": "https://t.co/vCcC5nKvrS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049128258697146755",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大杂烩？ https://t.co/vCcC5nKvrS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-19T07:45:35.000Z",
+        "description": "MTF /HRT since 25.11.16/中重度抑郁/互fo/oder/深柜中（已经出柜了，但是是在偷偷HRT）/ASD",
+        "id": "1560533329912311808",
+        "name": "Lily 🏳️‍⚧️",
+        "pinned_tweet_id": "2036571069851771293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023587572161933312/nuq0npKD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 785,
+          "following_count": 983,
+          "like_count": 60728,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 542
+        },
+        "username": "BdZzbw6goo2",
+        "verified": true
+      }
+    ]
+  }
+}

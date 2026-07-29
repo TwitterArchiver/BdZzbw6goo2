@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560533329912311808",
+    "conversation_id": "2052610346284892658",
+    "created_at": "2026-05-09T02:05:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T03:05:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052932915164827811"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1239560209598562311",
+          "start": 0,
+          "username": "Plato_cc"
+        },
+        {
+          "end": 25,
+          "id": "1638959586140098560",
+          "start": 10,
+          "username": "jiuyouforwhite"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052932915164827811",
+    "in_reply_to_user_id": "1239560209598562311",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052896605679084006",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Plato_cc @jiuyouforwhite 那个美国进口的好像还能买，海关好像也不会拦截快递"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560533329912311808",
+        "conversation_id": "2052610346284892658",
+        "created_at": "2026-05-09T02:05:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T03:05:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052932915164827811"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1239560209598562311",
+              "start": 0,
+              "username": "Plato_cc"
+            },
+            {
+              "end": 25,
+              "id": "1638959586140098560",
+              "start": 10,
+              "username": "jiuyouforwhite"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052932915164827811",
+        "in_reply_to_user_id": "1239560209598562311",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052896605679084006",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Plato_cc @jiuyouforwhite 那个美国进口的好像还能买，海关好像也不会拦截快递"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1239560209598562311",
+        "conversation_id": "2052610346284892658",
+        "created_at": "2026-05-08T23:41:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T00:41:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052896605679084006"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1638959586140098560",
+              "start": 0,
+              "username": "jiuyouforwhite"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052896605679084006",
+        "in_reply_to_user_id": "1638959586140098560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052772848486523076",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiuyouforwhite 易制毒，要报备，试剂一百多一克，没必要了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-19T07:45:35.000Z",
+        "description": "MTF /HRT since 25.11.16/中重度抑郁/互fo/oder/深柜中（已经出柜了，但是是在偷偷HRT）/ASD",
+        "id": "1560533329912311808",
+        "name": "Lily 🏳️‍⚧️",
+        "pinned_tweet_id": "2036571069851771293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023587572161933312/nuq0npKD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 828,
+          "following_count": 1037,
+          "like_count": 64044,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 574
+        },
+        "username": "BdZzbw6goo2",
+        "verified": true
+      },
+      {
+        "created_at": "2020-03-16T14:32:51.000Z",
+        "description": "｜无性恋 intj-t｜自恋 水仙｜在读研究生｜不混圈不线下｜欢迎各种友善的交流｜目前正在塑形中｜偶尔会发点福利？｜讨厌进步主义和下体人｜",
+        "id": "1239560209598562311",
+        "location": "距你0.2km",
+        "name": "苏打饼干大王",
+        "pinned_tweet_id": "1573480917880156162",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036762945796136960/zFp6f7th_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 189,
+          "like_count": 147,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 567
+        },
+        "username": "Plato_cc",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-23T17:43:19.000Z",
+        "description": "无性别enby/无浪漫倾向泛性恋/多项精神类疾病/药理帮助/碎碎念/哲思/回fo(没回私我)",
+        "id": "1638959586140098560",
+        "location": "Thrillingly pointless",
+        "name": "反胃的Sisyphus",
+        "pinned_tweet_id": "2051091519847698605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043493826246082560/syYxrkxW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1932,
+          "following_count": 1425,
+          "like_count": 4259,
+          "listed_count": 1,
+          "media_count": 247,
+          "tweet_count": 2136
+        },
+        "username": "jiuyouforwhite",
+        "verified": false
+      }
+    ]
+  }
+}

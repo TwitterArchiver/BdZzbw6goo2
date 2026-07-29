@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560533329912311808",
+    "conversation_id": "2036571069851771293",
+    "created_at": "2026-05-07T14:35:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T15:35:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052396966064337125"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1687496769045716992",
+          "start": 0,
+          "username": "SissyJieyszr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052396966064337125",
+    "in_reply_to_user_id": "1687496769045716992",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052384059419197454",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SissyJieyszr 抱抱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560533329912311808",
+        "conversation_id": "2036571069851771293",
+        "created_at": "2026-05-07T14:35:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T15:35:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052396966064337125"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1687496769045716992",
+              "start": 0,
+              "username": "SissyJieyszr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052396966064337125",
+        "in_reply_to_user_id": "1687496769045716992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052384059419197454",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SissyJieyszr 抱抱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687496769045716992",
+        "conversation_id": "2036571069851771293",
+        "created_at": "2026-05-07T13:44:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T14:44:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052384059419197454"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1560533329912311808",
+              "start": 0,
+              "username": "BdZzbw6goo2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052384059419197454",
+        "in_reply_to_user_id": "1560533329912311808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036571069851771293",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BdZzbw6goo2 抱抱宝宝，你现在在一个很有爱的圈子里哦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-19T07:45:35.000Z",
+        "description": "MTF /HRT since 25.11.16/中重度抑郁/互fo/oder/深柜中（已经出柜了，但是是在偷偷HRT）/ASD",
+        "id": "1560533329912311808",
+        "name": "Lily 🏳️‍⚧️",
+        "pinned_tweet_id": "2036571069851771293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023587572161933312/nuq0npKD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 822,
+          "following_count": 1031,
+          "like_count": 63550,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 565
+        },
+        "username": "BdZzbw6goo2",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-04T16:13:08.000Z",
+        "description": "一只萌新sissy～ 努力减肥中！xp复杂捏（白袜 足控 锁奴控 ）同好可互fo哦 欢迎宝宝们私信 但是视频达咩哦 有时会发私照捏 求求宝宝们推推呀 #雌堕 #男娘 #贞操锁 #锁奴",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 78,
+                "start": 75,
+                "tag": "雌堕"
+              },
+              {
+                "end": 82,
+                "start": 79,
+                "tag": "男娘"
+              },
+              {
+                "end": 87,
+                "start": 83,
+                "tag": "贞操锁"
+              },
+              {
+                "end": 91,
+                "start": 88,
+                "tag": "锁奴"
+              }
+            ]
+          }
+        },
+        "id": "1687496769045716992",
+        "location": "New York, USA",
+        "name": "miko miko （同好互fo）",
+        "pinned_tweet_id": "2052325986835030185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020078703171235844/Xm79BsId_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 428,
+          "following_count": 333,
+          "like_count": 82,
+          "listed_count": 2,
+          "media_count": 58,
+          "tweet_count": 126
+        },
+        "username": "SissyJieyszr",
+        "verified": false
+      }
+    ]
+  }
+}

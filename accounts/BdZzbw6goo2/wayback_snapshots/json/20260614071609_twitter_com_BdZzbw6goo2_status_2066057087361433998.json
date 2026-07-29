@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560533329912311808",
+    "conversation_id": "2065863414988280262",
+    "created_at": "2026-06-14T07:16:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T08:16:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066057087361433998"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1247054463329656832",
+          "start": 0,
+          "username": "quasarne"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066057087361433998",
+    "in_reply_to_user_id": "1247054463329656832",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065863414988280262",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@quasarne 有对乙酰氨基酚，算了吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2065863401948184576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKtr0ZOaAAAalPO.jpg",
+        "width": 1014
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560533329912311808",
+        "conversation_id": "2065863414988280262",
+        "created_at": "2026-06-14T07:16:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T08:16:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066057087361433998"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1247054463329656832",
+              "start": 0,
+              "username": "quasarne"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066057087361433998",
+        "in_reply_to_user_id": "1247054463329656832",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065863414988280262",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@quasarne 有对乙酰氨基酚，算了吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065863401948184576"
+          ]
+        },
+        "author_id": "1247054463329656832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596740190208",
+              "name": "CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1108388868070371328",
+              "name": "Pabron (パブロン)"
+            }
+          }
+        ],
+        "conversation_id": "2065863414988280262",
+        "created_at": "2026-06-13T18:26:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T19:26:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065863414988280262"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SJz11YinGV",
+              "end": 107,
+              "expanded_url": "https://x.com/quasarne/status/2065863414988280262/photo/1",
+              "media_key": "3_2065863401948184576",
+              "start": 84,
+              "url": "https://t.co/SJz11YinGV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065863414988280262",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 371,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "所以真有人o这个？窝去日本的时候买了一瓶パブロンゴールドA，看说明书有阿片成分，想说这个有od空间啊（）窝几次发烧或感冒都用的这个药，没吃掉多少，后来发现过期就丢掉了 https://t.co/SJz11YinGV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-19T07:45:35.000Z",
+        "description": "MTF /HRT since 25.11.16/中重度抑郁/互fo/oder/深柜中（已经出柜了，但是是在偷偷HRT）/ASD",
+        "id": "1560533329912311808",
+        "name": "Lily 🏳️‍⚧️",
+        "pinned_tweet_id": "2036571069851771293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023587572161933312/nuq0npKD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 969,
+          "following_count": 1211,
+          "like_count": 77609,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 627
+        },
+        "username": "BdZzbw6goo2",
+        "verified": true
+      },
+      {
+        "created_at": "2020-04-06T07:01:04.000Z",
+        "description": "éla 數碼/科幻/政治/策略.音游萌新 Wikier ｜🚩◼️自由·平等🌹｜🏳️‍🌈pan/gay🏳️‍⚧️｜ 🌐漢語 吴、普/English OK/好语言学/打卡Deutsch中｜猫！@kyrinxo｜Alt @junenkim",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 102,
+                "start": 94,
+                "username": "kyrinxo"
+              },
+              {
+                "end": 116,
+                "start": 107,
+                "username": "junenkim"
+              }
+            ]
+          }
+        },
+        "id": "1247054463329656832",
+        "location": "Freedom Territory of QNA",
+        "name": "neⒶστήρ |星ない",
+        "pinned_tweet_id": "2058825811151450595",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056612504411996160/2cHArgPW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1103,
+          "following_count": 1098,
+          "like_count": 81816,
+          "listed_count": 6,
+          "media_count": 1320,
+          "tweet_count": 16852
+        },
+        "username": "quasarne",
+        "verified": false
+      }
+    ]
+  }
+}

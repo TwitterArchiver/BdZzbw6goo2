@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2037002796831272960"
+      ]
+    },
+    "author_id": "1560533329912311808",
+    "conversation_id": "2037002807082180925",
+    "created_at": "2026-03-26T03:04:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T04:04:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037002807082180925"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/qF4rFINEPG",
+          "end": 27,
+          "expanded_url": "https://x.com/BdZzbw6goo2/status/2037002807082180925/photo/1",
+          "media_key": "3_2037002796831272960",
+          "start": 4,
+          "url": "https://t.co/qF4rFINEPG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037002807082180925",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好东西 https://t.co/qF4rFINEPG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 557,
+        "media_key": "3_2037002796831272960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HETjQE-a8AAC-Xe.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037002796831272960"
+          ]
+        },
+        "author_id": "1560533329912311808",
+        "conversation_id": "2037002807082180925",
+        "created_at": "2026-03-26T03:04:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T04:04:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037002807082180925"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qF4rFINEPG",
+              "end": 27,
+              "expanded_url": "https://x.com/BdZzbw6goo2/status/2037002807082180925/photo/1",
+              "media_key": "3_2037002796831272960",
+              "start": 4,
+              "url": "https://t.co/qF4rFINEPG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037002807082180925",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好东西 https://t.co/qF4rFINEPG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-19T07:45:35.000Z",
+        "description": "MTF /HRT since 25.11.16/中重度抑郁/互fo/oder/深柜中",
+        "id": "1560533329912311808",
+        "name": "Lily 🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023587572161933312/nuq0npKD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 457,
+          "following_count": 661,
+          "like_count": 46718,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 209
+        },
+        "username": "BdZzbw6goo2",
+        "verified": true
+      }
+    ]
+  }
+}

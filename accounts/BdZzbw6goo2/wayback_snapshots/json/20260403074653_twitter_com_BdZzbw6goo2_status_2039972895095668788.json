@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560533329912311808",
+    "conversation_id": "2039972895095668788",
+    "created_at": "2026-04-03T07:46:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T08:46:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039972895095668788"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/callme_v1/stat…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/callme_v1/status/2039953167547498983",
+          "start": 4,
+          "url": "https://t.co/OlDNrG8gr4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039972895095668788",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039953167547498983",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "何意味 https://t.co/OlDNrG8gr4"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560533329912311808",
+        "conversation_id": "2039972895095668788",
+        "created_at": "2026-04-03T07:46:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T08:46:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039972895095668788"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/callme_v1/stat…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/callme_v1/status/2039953167547498983",
+              "start": 4,
+              "url": "https://t.co/OlDNrG8gr4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039972895095668788",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039953167547498983",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "何意味 https://t.co/OlDNrG8gr4"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3091770204",
+        "conversation_id": "2039872836211507305",
+        "created_at": "2026-04-03T06:28:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T07:28:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039953167547498983"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1560533329912311808",
+              "start": 0,
+              "username": "BdZzbw6goo2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039953167547498983",
+        "in_reply_to_user_id": "1560533329912311808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039872836211507305",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BdZzbw6goo2 将截图发回国内举报你。等着"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-19T07:45:35.000Z",
+        "description": "MTF /HRT since 25.11.16/中重度抑郁/互fo/oder/深柜中/有阿斯伯格不是很会聊天致歉",
+        "id": "1560533329912311808",
+        "name": "Lily 🏳️‍⚧️",
+        "pinned_tweet_id": "2036571069851771293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023587572161933312/nuq0npKD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 517,
+          "following_count": 726,
+          "like_count": 50285,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 286
+        },
+        "username": "BdZzbw6goo2",
+        "verified": true
+      },
+      {
+        "created_at": "2015-03-17T01:50:12.000Z",
+        "description": "",
+        "id": "3091770204",
+        "location": "Keelung City, Taiwan",
+        "name": "火药阴谋🇺🇦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1508478113084166145/R9tk4VpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 71,
+          "like_count": 84,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 35
+        },
+        "username": "callme_v1",
+        "verified": false
+      }
+    ]
+  }
+}

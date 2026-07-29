@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077330357465296896"
+      ]
+    },
+    "author_id": "1560533329912311808",
+    "conversation_id": "2077330369645514886",
+    "created_at": "2026-07-15T09:52:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T10:52:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077330369645514886"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/3FxD86qE2X",
+          "end": 30,
+          "expanded_url": "https://x.com/BdZzbw6goo2/status/2077330369645514886/photo/1",
+          "media_key": "3_2077330357465296896",
+          "start": 7,
+          "url": "https://t.co/3FxD86qE2X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077330369645514886",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "啊，对的对的 https://t.co/3FxD86qE2X"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2077330357465296896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNQo9DXasAAFqXe.jpg",
+        "width": 769
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077330357465296896"
+          ]
+        },
+        "author_id": "1560533329912311808",
+        "conversation_id": "2077330369645514886",
+        "created_at": "2026-07-15T09:52:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T10:52:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077330369645514886"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3FxD86qE2X",
+              "end": 30,
+              "expanded_url": "https://x.com/BdZzbw6goo2/status/2077330369645514886/photo/1",
+              "media_key": "3_2077330357465296896",
+              "start": 7,
+              "url": "https://t.co/3FxD86qE2X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077330369645514886",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "啊，对的对的 https://t.co/3FxD86qE2X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-19T07:45:35.000Z",
+        "description": "MTF /HRT since 25.11.16/中重度抑郁/互fo/oder/深柜中（已经出柜了，但是是在偷偷HRT）/ASD",
+        "id": "1560533329912311808",
+        "name": "Lily 🏳️‍⚧️",
+        "pinned_tweet_id": "2036571069851771293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023587572161933312/nuq0npKD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1065,
+          "following_count": 1300,
+          "like_count": 91124,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 664
+        },
+        "url": "",
+        "username": "BdZzbw6goo2",
+        "verified": true
+      }
+    ]
+  }
+}

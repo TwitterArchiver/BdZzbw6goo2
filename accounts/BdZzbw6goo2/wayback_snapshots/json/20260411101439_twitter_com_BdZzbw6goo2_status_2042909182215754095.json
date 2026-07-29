@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560533329912311808",
+    "conversation_id": "2042841636531769665",
+    "created_at": "2026-04-11T10:14:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T11:14:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042909182215754095"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2042859706142601216",
+          "start": 0,
+          "username": "TankcheOuO"
+        },
+        {
+          "end": 24,
+          "id": "1974865605204586498",
+          "start": 12,
+          "username": "Krktmk_8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042909182215754095",
+    "in_reply_to_user_id": "2042859706142601216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042908570245829093",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TankcheOuO @Krktmk_8964 这msk也真是的，收到一个举报不管三七二十一就封了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560533329912311808",
+        "conversation_id": "2042841636531769665",
+        "created_at": "2026-04-11T10:14:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T11:14:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042909182215754095"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2042859706142601216",
+              "start": 0,
+              "username": "TankcheOuO"
+            },
+            {
+              "end": 24,
+              "id": "1974865605204586498",
+              "start": 12,
+              "username": "Krktmk_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042909182215754095",
+        "in_reply_to_user_id": "2042859706142601216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042908570245829093",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TankcheOuO @Krktmk_8964 这msk也真是的，收到一个举报不管三七二十一就封了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042859706142601216",
+        "conversation_id": "2042841636531769665",
+        "created_at": "2026-04-11T10:12:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T11:12:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042908570245829093"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1560533329912311808",
+              "start": 0,
+              "username": "BdZzbw6goo2"
+            },
+            {
+              "end": 25,
+              "id": "1974865605204586498",
+              "start": 13,
+              "username": "Krktmk_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042908570245829093",
+        "in_reply_to_user_id": "1560533329912311808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042908216854745141",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BdZzbw6goo2 @Krktmk_8964 是的，不过也就把人fo回来麻烦一点"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-19T07:45:35.000Z",
+        "description": "MTF /HRT since 25.11.16/中重度抑郁/互fo/oder/深柜中/有阿斯伯格不是很会聊天致歉",
+        "id": "1560533329912311808",
+        "name": "Lily 🏳️‍⚧️",
+        "pinned_tweet_id": "2036571069851771293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023587572161933312/nuq0npKD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 635,
+          "following_count": 829,
+          "like_count": 54156,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 413
+        },
+        "username": "BdZzbw6goo2",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-11T06:58:14.000Z",
+        "description": "幽暗的、深邃的、家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+NGZgHLdad28xZ…",
+                "end": 23,
+                "expanded_url": "http://t.me/+NGZgHLdad28xZWJl",
+                "start": 0,
+                "url": "https://t.co/et1GI6cQ9l"
+              }
+            ]
+          }
+        },
+        "id": "2042859706142601216",
+        "name": "坦克姬🎗",
+        "pinned_tweet_id": "2042861236908626197",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042860345832935425/WHafROeV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 87,
+          "like_count": 111,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 11
+        },
+        "url": "https://t.co/et1GI6cQ9l",
+        "username": "TankcheOuO",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-05T15:54:07.000Z",
+        "description": "我是天照大神⛩",
+        "id": "1974865605204586498",
+        "location": "克拉斯诺亚尔斯克",
+        "name": "黒木トモコ",
+        "pinned_tweet_id": "2039426492791509083",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038452725957201920/996GCo3n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1281,
+          "following_count": 2275,
+          "like_count": 36408,
+          "listed_count": 3,
+          "media_count": 311,
+          "tweet_count": 3731
+        },
+        "username": "Krktmk_8964",
+        "verified": false
+      }
+    ]
+  }
+}

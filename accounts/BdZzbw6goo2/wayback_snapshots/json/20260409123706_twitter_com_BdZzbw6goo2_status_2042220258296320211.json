@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560533329912311808",
+    "conversation_id": "2042164084708364494",
+    "created_at": "2026-04-09T12:37:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T13:37:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042220258296320211"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1887181198486872066",
+          "start": 0,
+          "username": "OvOloveyu128"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042220258296320211",
+    "in_reply_to_user_id": "1887181198486872066",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042219941315879011",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OvOloveyu128 有点点甜味，他里面加了三氯蔗糖，也不用担心长胖"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560533329912311808",
+        "conversation_id": "2042164084708364494",
+        "created_at": "2026-04-09T12:37:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T13:37:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042220258296320211"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1887181198486872066",
+              "start": 0,
+              "username": "OvOloveyu128"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042220258296320211",
+        "in_reply_to_user_id": "1887181198486872066",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042219941315879011",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OvOloveyu128 有点点甜味，他里面加了三氯蔗糖，也不用担心长胖"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887181198486872066",
+        "conversation_id": "2042164084708364494",
+        "created_at": "2026-04-09T12:35:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T13:35:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042219941315879011"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1560533329912311808",
+              "start": 0,
+              "username": "BdZzbw6goo2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042219941315879011",
+        "in_reply_to_user_id": "1560533329912311808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042164084708364494",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BdZzbw6goo2 单独喝这个pr苦不？哪里能买"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-19T07:45:35.000Z",
+        "description": "MTF /HRT since 25.11.16/中重度抑郁/互fo/oder/深柜中/有阿斯伯格不是很会聊天致歉",
+        "id": "1560533329912311808",
+        "name": "Lily 🏳️‍⚧️",
+        "pinned_tweet_id": "2036571069851771293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023587572161933312/nuq0npKD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 588,
+          "following_count": 794,
+          "like_count": 53470,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 356
+        },
+        "username": "BdZzbw6goo2",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-05T16:47:23.000Z",
+        "description": "前世@ytytcjkwy\n什么都发 乱七八糟\n好说话 可以找我互转互fo 骚扰信息不想回\n纯聊天🚪66 开放朋友圈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "ytytcjkwy"
+              }
+            ]
+          }
+        },
+        "id": "1887181198486872066",
+        "name": "焦焦味",
+        "pinned_tweet_id": "2033093137380626679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031768383986028544/IQ7E53eS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 19,
+          "like_count": 131,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 102
+        },
+        "username": "OvOloveyu128",
+        "verified": false
+      }
+    ]
+  }
+}

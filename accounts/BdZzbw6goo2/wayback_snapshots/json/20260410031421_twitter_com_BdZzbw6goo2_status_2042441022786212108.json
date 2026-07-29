@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560533329912311808",
+    "conversation_id": "2042413818148745454",
+    "created_at": "2026-04-10T03:14:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T04:14:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042441022786212108"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1815318757776019456",
+          "start": 0,
+          "username": "CassieRose8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042441022786212108",
+    "in_reply_to_user_id": "1815318757776019456",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042440744678670510",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CassieRose8964 我倒要会会他"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560533329912311808",
+        "conversation_id": "2042413818148745454",
+        "created_at": "2026-04-10T03:14:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T04:14:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042441022786212108"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1815318757776019456",
+              "start": 0,
+              "username": "CassieRose8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042441022786212108",
+        "in_reply_to_user_id": "1815318757776019456",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042440744678670510",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CassieRose8964 我倒要会会他"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1815318757776019456",
+        "conversation_id": "2042413818148745454",
+        "created_at": "2026-04-10T03:13:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T04:13:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042440744678670510"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1560533329912311808",
+              "start": 0,
+              "username": "BdZzbw6goo2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042440744678670510",
+        "in_reply_to_user_id": "1560533329912311808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042413818148745454",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BdZzbw6goo2 最近条子的皮看起来都好像正常用户，但说话还是一样傻逼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-19T07:45:35.000Z",
+        "description": "MTF /HRT since 25.11.16/中重度抑郁/互fo/oder/深柜中/有阿斯伯格不是很会聊天致歉",
+        "id": "1560533329912311808",
+        "name": "Lily 🏳️‍⚧️",
+        "pinned_tweet_id": "2036571069851771293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023587572161933312/nuq0npKD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 607,
+          "following_count": 813,
+          "like_count": 53617,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 370
+        },
+        "username": "BdZzbw6goo2",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-22T09:31:49.000Z",
+        "description": "You Found Me !",
+        "id": "1815318757776019456",
+        "location": "Harbin",
+        "name": "Cassie Rose",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995318035125788672/PjJJlSaH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 300,
+          "like_count": 2500,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 1272
+        },
+        "username": "CassieRose8964",
+        "verified": false
+      }
+    ]
+  }
+}

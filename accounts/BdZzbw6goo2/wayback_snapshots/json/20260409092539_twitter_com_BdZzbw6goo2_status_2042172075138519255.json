@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560533329912311808",
+    "conversation_id": "2042172075138519255",
+    "created_at": "2026-04-09T09:25:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T10:25:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042172075138519255"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/bdzzbw6goo2/st…",
+          "end": 103,
+          "expanded_url": "https://twitter.com/bdzzbw6goo2/status/2042164084708364494",
+          "start": 80,
+          "url": "https://t.co/d0ZKxWni3P"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042172075138519255",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042164084708364494",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "配方的话就是pr口服溶液100ml，百利草莓奶油甜酒100ml，草莓味牛奶100ml。共计2000mg的pr，17g的酒精。喝着草莓味很浓，没啥酒味儿，好喝！ https://t.co/d0ZKxWni3P"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2042164073891282944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFc5Z8VawAA54Ht.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560533329912311808",
+        "conversation_id": "2042172075138519255",
+        "created_at": "2026-04-09T09:25:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T10:25:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042172075138519255"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bdzzbw6goo2/st…",
+              "end": 103,
+              "expanded_url": "https://twitter.com/bdzzbw6goo2/status/2042164084708364494",
+              "start": 80,
+              "url": "https://t.co/d0ZKxWni3P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042172075138519255",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042164084708364494",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "配方的话就是pr口服溶液100ml，百利草莓奶油甜酒100ml，草莓味牛奶100ml。共计2000mg的pr，17g的酒精。喝着草莓味很浓，没啥酒味儿，好喝！ https://t.co/d0ZKxWni3P"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042164073891282944"
+          ]
+        },
+        "author_id": "1560533329912311808",
+        "conversation_id": "2042164084708364494",
+        "created_at": "2026-04-09T08:53:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T09:53:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042164084708364494"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9bvifuWCGh",
+              "end": 84,
+              "expanded_url": "https://x.com/BdZzbw6goo2/status/2042164084708364494/photo/1",
+              "media_key": "3_2042164073891282944",
+              "start": 61,
+              "url": "https://t.co/9bvifuWCGh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042164084708364494",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 64,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好喝！pr的溶液的话没啥特别的味道，配上草莓牛奶的酒超级好喝。这pr价格好便宜，35CNY10瓶，每瓶2000mg的pr https://t.co/9bvifuWCGh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-19T07:45:35.000Z",
+        "description": "MTF /HRT since 25.11.16/中重度抑郁/互fo/oder/深柜中/有阿斯伯格不是很会聊天致歉",
+        "id": "1560533329912311808",
+        "name": "Lily 🏳️‍⚧️",
+        "pinned_tweet_id": "2036571069851771293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023587572161933312/nuq0npKD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 584,
+          "following_count": 789,
+          "like_count": 53467,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 337
+        },
+        "username": "BdZzbw6goo2",
+        "verified": true
+      }
+    ]
+  }
+}

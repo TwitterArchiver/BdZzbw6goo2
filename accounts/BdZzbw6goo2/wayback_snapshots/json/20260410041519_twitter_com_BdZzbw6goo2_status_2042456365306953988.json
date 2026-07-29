@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560533329912311808",
+    "conversation_id": "2042172075138519255",
+    "created_at": "2026-04-10T04:15:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T05:15:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042456365306953988"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1675334984931098631",
+          "start": 0,
+          "username": "qwq_7obii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042456365306953988",
+    "in_reply_to_user_id": "1675334984931098631",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042456198604038554",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qwq_7obii 没啥毛病"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560533329912311808",
+        "conversation_id": "2042172075138519255",
+        "created_at": "2026-04-10T04:15:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T05:15:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042456365306953988"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1675334984931098631",
+              "start": 0,
+              "username": "qwq_7obii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042456365306953988",
+        "in_reply_to_user_id": "1675334984931098631",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042456198604038554",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qwq_7obii 没啥毛病"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1675334984931098631",
+        "conversation_id": "2042172075138519255",
+        "created_at": "2026-04-10T04:14:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T05:14:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042456198604038554"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1560533329912311808",
+              "start": 0,
+              "username": "BdZzbw6goo2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042456198604038554",
+        "in_reply_to_user_id": "1560533329912311808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042172075138519255",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BdZzbw6goo2 有药效吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-19T07:45:35.000Z",
+        "description": "MTF /HRT since 25.11.16/中重度抑郁/互fo/oder/深柜中/有阿斯伯格不是很会聊天致歉",
+        "id": "1560533329912311808",
+        "name": "Lily 🏳️‍⚧️",
+        "pinned_tweet_id": "2036571069851771293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023587572161933312/nuq0npKD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 608,
+          "following_count": 816,
+          "like_count": 53651,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 374
+        },
+        "username": "BdZzbw6goo2",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-02T02:46:12.000Z",
+        "description": "le",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/1apple1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/1apple1",
+                "start": 0,
+                "url": "https://t.co/IxEnOF6dfE"
+              }
+            ]
+          }
+        },
+        "id": "1675334984931098631",
+        "location": "我的心为恐惧和欲望而跳动 ",
+        "name": "薄荷纸",
+        "pinned_tweet_id": "2042446462823317941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041696997007093760/0_-D3HPV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 640,
+          "following_count": 68,
+          "like_count": 562,
+          "listed_count": 1,
+          "media_count": 108,
+          "tweet_count": 919
+        },
+        "url": "https://t.co/IxEnOF6dfE",
+        "username": "qwq_7obii",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070427217411342336"
+      ]
+    },
+    "author_id": "1560533329912311808",
+    "conversation_id": "2070427226865062300",
+    "created_at": "2026-06-26T08:41:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T09:41:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070427226865062300"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ne1jlCI8mW",
+          "end": 46,
+          "expanded_url": "https://x.com/BdZzbw6goo2/status/2070427226865062300/photo/1",
+          "media_key": "3_2070427217411342336",
+          "start": 23,
+          "url": "https://t.co/Ne1jlCI8mW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070427226865062300",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好吃😋（全程在持有处方并在医师的指导下使用） https://t.co/Ne1jlCI8mW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2070427217411342336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLuilasagAAmfGZ.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070427217411342336"
+          ]
+        },
+        "author_id": "1560533329912311808",
+        "conversation_id": "2070427226865062300",
+        "created_at": "2026-06-26T08:41:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T09:41:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070427226865062300"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ne1jlCI8mW",
+              "end": 46,
+              "expanded_url": "https://x.com/BdZzbw6goo2/status/2070427226865062300/photo/1",
+              "media_key": "3_2070427217411342336",
+              "start": 23,
+              "url": "https://t.co/Ne1jlCI8mW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070427226865062300",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好吃😋（全程在持有处方并在医师的指导下使用） https://t.co/Ne1jlCI8mW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-19T07:45:35.000Z",
+        "description": "MTF /HRT since 25.11.16/中重度抑郁/互fo/oder/深柜中（已经出柜了，但是是在偷偷HRT）/ASD",
+        "id": "1560533329912311808",
+        "name": "Lily 🏳️‍⚧️",
+        "pinned_tweet_id": "2036571069851771293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023587572161933312/nuq0npKD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1008,
+          "following_count": 1242,
+          "like_count": 83056,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 646
+        },
+        "url": "",
+        "username": "BdZzbw6goo2",
+        "verified": true
+      }
+    ]
+  }
+}

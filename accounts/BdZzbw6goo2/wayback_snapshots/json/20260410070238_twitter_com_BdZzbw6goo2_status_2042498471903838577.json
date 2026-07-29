@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560533329912311808",
+    "conversation_id": "2042413818148745454",
+    "created_at": "2026-04-10T07:02:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T08:02:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042498471903838577"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1578395243891855362",
+          "start": 0,
+          "username": "hate_0811"
+        },
+        {
+          "end": 21,
+          "id": "1945051901739065348",
+          "start": 11,
+          "username": "aespatop1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042498471903838577",
+    "in_reply_to_user_id": "1578395243891855362",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042497528982356458",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hate_0811 @aespatop1 是复方制剂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560533329912311808",
+        "conversation_id": "2042413818148745454",
+        "created_at": "2026-04-10T07:02:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T08:02:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042498471903838577"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1578395243891855362",
+              "start": 0,
+              "username": "hate_0811"
+            },
+            {
+              "end": 21,
+              "id": "1945051901739065348",
+              "start": 11,
+              "username": "aespatop1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042498471903838577",
+        "in_reply_to_user_id": "1578395243891855362",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042497528982356458",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hate_0811 @aespatop1 是复方制剂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1578395243891855362",
+        "conversation_id": "2042413818148745454",
+        "created_at": "2026-04-10T06:58:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T07:58:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042497528982356458"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1560533329912311808",
+              "start": 0,
+              "username": "BdZzbw6goo2"
+            },
+            {
+              "end": 23,
+              "id": "1945051901739065348",
+              "start": 13,
+              "username": "aespatop1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042497528982356458",
+        "in_reply_to_user_id": "1560533329912311808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042471946873684085",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BdZzbw6goo2 @aespatop1 感康难道就是扑热息痛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-19T07:45:35.000Z",
+        "description": "MTF /HRT since 25.11.16/中重度抑郁/互fo/oder/深柜中/有阿斯伯格不是很会聊天致歉",
+        "id": "1560533329912311808",
+        "name": "Lily 🏳️‍⚧️",
+        "pinned_tweet_id": "2036571069851771293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023587572161933312/nuq0npKD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 619,
+          "following_count": 821,
+          "like_count": 53741,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 386
+        },
+        "username": "BdZzbw6goo2",
+        "verified": true
+      },
+      {
+        "created_at": "2022-10-07T14:42:16.000Z",
+        "description": "我这个小女孩的设定就是一定要人陪",
+        "id": "1578395243891855362",
+        "location": "🚪128",
+        "name": "讨厌你的好",
+        "pinned_tweet_id": "1990474102017306720",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041769231306649600/9VNYjxZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3044,
+          "following_count": 230,
+          "like_count": 8024,
+          "listed_count": 5,
+          "media_count": 796,
+          "tweet_count": 7026
+        },
+        "username": "hate_0811",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-15T09:25:04.000Z",
+        "description": "",
+        "id": "1945051901739065348",
+        "name": "我的梦想是不劳而获",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037850481213788160/jkHJ7-2J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 31,
+          "like_count": 70,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 11
+        },
+        "username": "aespatop1",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560533329912311808",
+    "conversation_id": "2078429138424311929",
+    "created_at": "2026-07-18T10:38:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T11:38:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078429138424311929"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kwufns5oef6823…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/kwufns5oef68233/status/2078426016003883248",
+          "start": 4,
+          "url": "https://t.co/N6SInCIgY2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078429138424311929",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078426016003883248",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "人类？ https://t.co/N6SInCIgY2"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560533329912311808",
+        "conversation_id": "2078429138424311929",
+        "created_at": "2026-07-18T10:38:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T11:38:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078429138424311929"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kwufns5oef6823…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/kwufns5oef68233/status/2078426016003883248",
+              "start": 4,
+              "url": "https://t.co/N6SInCIgY2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078429138424311929",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078426016003883248",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "人类？ https://t.co/N6SInCIgY2"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020227316320976896",
+        "conversation_id": "2078413613929468154",
+        "created_at": "2026-07-18T10:25:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T11:25:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078426016003883248"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1874351728264630272",
+              "start": 0,
+              "username": "jsbsjCV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078426016003883248",
+        "in_reply_to_user_id": "1874351728264630272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078413613929468154",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jsbsjCV 大傻逼 药娘死全家了😂😂一群爹妈活寡的吃个药真以为自己是女的了 你去你爸水杯里放点你变异奶子里面的奶水给他喝😂😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-19T07:45:35.000Z",
+        "description": "MTF /HRT since 25.11.16/中重度抑郁/互fo/oder/深柜中（已经出柜了，但是是在偷偷HRT）/ASD",
+        "id": "1560533329912311808",
+        "name": "Lily 🏳️‍⚧️",
+        "pinned_tweet_id": "2036571069851771293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023587572161933312/nuq0npKD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1093,
+          "following_count": 1330,
+          "like_count": 93539,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 674
+        },
+        "url": "",
+        "username": "BdZzbw6goo2",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-07T20:05:46.000Z",
+        "description": "或许昨天的我想要一个解释 但今天我不需要了",
+        "id": "2020227316320976896",
+        "name": "千川昕",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078428693253214208/ayRmP9i2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 1,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 22
+        },
+        "url": "",
+        "username": "kWUfNS5oeF68233",
+        "verified": false
+      }
+    ]
+  }
+}

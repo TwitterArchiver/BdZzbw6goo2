@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2039935493476122624"
+      ]
+    },
+    "author_id": "1560533329912311808",
+    "conversation_id": "2039915421483311288",
+    "created_at": "2026-04-03T05:18:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T06:18:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039935504842666336"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2028925492351647745",
+          "start": 0,
+          "username": "Xue03g"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/okabM2Gxxp",
+          "end": 37,
+          "expanded_url": "https://x.com/BdZzbw6goo2/status/2039935504842666336/photo/1",
+          "media_key": "3_2039935493476122624",
+          "start": 14,
+          "url": "https://t.co/okabM2Gxxp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039935504842666336",
+    "in_reply_to_user_id": "2028925492351647745",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039915421483311288",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xue03g 可以看一下 https://t.co/okabM2Gxxp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2039935493476122624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE9OhfVbAAAnOrD.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039935493476122624"
+          ]
+        },
+        "author_id": "1560533329912311808",
+        "conversation_id": "2039915421483311288",
+        "created_at": "2026-04-03T05:18:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T06:18:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039935504842666336"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2028925492351647745",
+              "start": 0,
+              "username": "Xue03g"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/okabM2Gxxp",
+              "end": 37,
+              "expanded_url": "https://x.com/BdZzbw6goo2/status/2039935504842666336/photo/1",
+              "media_key": "3_2039935493476122624",
+              "start": 14,
+              "url": "https://t.co/okabM2Gxxp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039935504842666336",
+        "in_reply_to_user_id": "2028925492351647745",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039915421483311288",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xue03g 可以看一下 https://t.co/okabM2Gxxp"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028925492351647745",
+        "conversation_id": "2039915421483311288",
+        "created_at": "2026-04-03T03:58:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T04:58:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039915421483311288"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039915421483311288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "晚安联用玉米片会咋样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-19T07:45:35.000Z",
+        "description": "MTF /HRT since 25.11.16/中重度抑郁/互fo/oder/深柜中/有阿斯伯格不是很会聊天致歉",
+        "id": "1560533329912311808",
+        "name": "Lily 🏳️‍⚧️",
+        "pinned_tweet_id": "2036571069851771293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023587572161933312/nuq0npKD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 516,
+          "following_count": 725,
+          "like_count": 50267,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 281
+        },
+        "username": "BdZzbw6goo2",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-03T20:08:51.000Z",
+        "description": "总而言之你特别可爱",
+        "id": "2028925492351647745",
+        "location": "Taiwan",
+        "name": "Clementine03g",
+        "pinned_tweet_id": "2039696496904577035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035943845591130112/AmfCT4hY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227,
+          "following_count": 182,
+          "like_count": 587,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 217
+        },
+        "username": "Xue03g",
+        "verified": false
+      }
+    ]
+  }
+}

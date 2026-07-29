@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560533329912311808",
+    "conversation_id": "2042164084708364494",
+    "created_at": "2026-04-10T10:06:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T11:06:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042544749064917325"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1973430266124541952",
+          "start": 0,
+          "username": "Minako8964"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/bdzzbw6goo2/st…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/bdzzbw6goo2/status/2042184197809504760",
+          "start": 16,
+          "url": "https://t.co/dOu2jgD52o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042544749064917325",
+    "in_reply_to_user_id": "1973430266124541952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042184197809504760",
+        "type": "quoted"
+      },
+      {
+        "id": "2042544613102359050",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Minako8964 这家的 https://t.co/dOu2jgD52o"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2042184186900119553",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFdLsrIaAAEoSVk.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560533329912311808",
+        "conversation_id": "2042164084708364494",
+        "created_at": "2026-04-10T10:06:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T11:06:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042544749064917325"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1973430266124541952",
+              "start": 0,
+              "username": "Minako8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/bdzzbw6goo2/st…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/bdzzbw6goo2/status/2042184197809504760",
+              "start": 16,
+              "url": "https://t.co/dOu2jgD52o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042544749064917325",
+        "in_reply_to_user_id": "1973430266124541952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042184197809504760",
+            "type": "quoted"
+          },
+          {
+            "id": "2042544613102359050",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minako8964 这家的 https://t.co/dOu2jgD52o"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042184186900119553"
+          ]
+        },
+        "author_id": "1560533329912311808",
+        "conversation_id": "2042184197809504760",
+        "created_at": "2026-04-09T10:13:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T11:13:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042184197809504760"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RMO8yGprMf",
+              "end": 67,
+              "expanded_url": "https://x.com/BdZzbw6goo2/status/2042184197809504760/photo/1",
+              "media_key": "3_2042184186900119553",
+              "start": 44,
+              "url": "https://t.co/RMO8yGprMf"
+            },
+            {
+              "display_url": "x.com/bdzzbw6goo2/st…",
+              "end": 91,
+              "expanded_url": "https://twitter.com/bdzzbw6goo2/status/2042172075138519255",
+              "start": 68,
+              "url": "https://t.co/dqodRZrjkd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042184197809504760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 5097,
+          "like_count": 33,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042172075138519255",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "是这家的pr，嘿嘿，35CNY10瓶，共20g的pr，大概3盒睿鹤多一点，反正超级便宜 https://t.co/RMO8yGprMf https://t.co/dqodRZrjkd"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1973430266124541952",
+        "conversation_id": "2042164084708364494",
+        "created_at": "2026-04-10T10:05:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T11:05:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042544613102359050"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1560533329912311808",
+              "start": 0,
+              "username": "BdZzbw6goo2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042544613102359050",
+        "in_reply_to_user_id": "1560533329912311808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042544317911437749",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BdZzbw6goo2 okok谢谢宝宝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-19T07:45:35.000Z",
+        "description": "MTF /HRT since 25.11.16/中重度抑郁/互fo/oder/深柜中/有阿斯伯格不是很会聊天致歉",
+        "id": "1560533329912311808",
+        "name": "Lily 🏳️‍⚧️",
+        "pinned_tweet_id": "2036571069851771293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023587572161933312/nuq0npKD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 621,
+          "following_count": 822,
+          "like_count": 53896,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 389
+        },
+        "username": "BdZzbw6goo2",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-01T16:50:30.000Z",
+        "description": "是男生，不安会双取",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kexuejiazhuang",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kexuejiazhuang",
+                "start": 0,
+                "url": "https://t.co/qNfVsLeCNp"
+              }
+            ]
+          }
+        },
+        "id": "1973430266124541952",
+        "name": "给我寿司吧🍣",
+        "pinned_tweet_id": "2023841559578587537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035482807825481728/I3RBmrCa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 516,
+          "following_count": 157,
+          "like_count": 18043,
+          "listed_count": 1,
+          "media_count": 198,
+          "tweet_count": 2673
+        },
+        "url": "https://t.co/qNfVsLeCNp",
+        "username": "Minako8964",
+        "verified": false
+      }
+    ]
+  }
+}

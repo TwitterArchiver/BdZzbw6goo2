@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2041877696624652292"
+      ]
+    },
+    "author_id": "1560533329912311808",
+    "conversation_id": "2041877722289561922",
+    "created_at": "2026-04-08T13:55:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T14:55:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041877722289561922"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/543J4vBfu2",
+          "end": 48,
+          "expanded_url": "https://x.com/BdZzbw6goo2/status/2041877722289561922/photo/1",
+          "media_key": "3_2041877696624652292",
+          "start": 25,
+          "url": "https://t.co/543J4vBfu2"
+        },
+        {
+          "display_url": "x.com/BdZzbw6goo2/st…",
+          "end": 72,
+          "expanded_url": "https://twitter.com/BdZzbw6goo2/status/2033910820137279621",
+          "start": 49,
+          "url": "https://t.co/U0a2nuzfEC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041877722289561922",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033910820137279621",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我咋还上电视了，这编辑也不看看，1/3片叫od啊 https://t.co/543J4vBfu2 https://t.co/U0a2nuzfEC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1437,
+        "media_key": "3_2041877696624652292",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFY08l4a8AQMgj8.jpg",
+        "width": 760
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2033910809294950400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDnnGtzaUAAMOFX.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041877696624652292"
+          ]
+        },
+        "author_id": "1560533329912311808",
+        "conversation_id": "2041877722289561922",
+        "created_at": "2026-04-08T13:55:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T14:55:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041877722289561922"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/543J4vBfu2",
+              "end": 48,
+              "expanded_url": "https://x.com/BdZzbw6goo2/status/2041877722289561922/photo/1",
+              "media_key": "3_2041877696624652292",
+              "start": 25,
+              "url": "https://t.co/543J4vBfu2"
+            },
+            {
+              "display_url": "x.com/BdZzbw6goo2/st…",
+              "end": 72,
+              "expanded_url": "https://twitter.com/BdZzbw6goo2/status/2033910820137279621",
+              "start": 49,
+              "url": "https://t.co/U0a2nuzfEC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041877722289561922",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033910820137279621",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我咋还上电视了，这编辑也不看看，1/3片叫od啊 https://t.co/543J4vBfu2 https://t.co/U0a2nuzfEC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033910809294950400"
+          ]
+        },
+        "author_id": "1560533329912311808",
+        "conversation_id": "2033910820137279621",
+        "created_at": "2026-03-17T14:18:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T15:18:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033910820137279621"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Kz0mW3DYJ3",
+              "end": 46,
+              "expanded_url": "https://x.com/BdZzbw6goo2/status/2033910820137279621/photo/1",
+              "media_key": "3_2033910809294950400",
+              "start": 23,
+              "url": "https://t.co/Kz0mW3DYJ3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033910820137279621",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 897,
+          "like_count": 12,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "右佐，先试试1/3片，药片吃了忘记拍了。晚安 https://t.co/Kz0mW3DYJ3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-19T07:45:35.000Z",
+        "description": "MTF /HRT since 25.11.16/中重度抑郁/互fo/oder/深柜中/有阿斯伯格不是很会聊天致歉",
+        "id": "1560533329912311808",
+        "name": "Lily 🏳️‍⚧️",
+        "pinned_tweet_id": "2036571069851771293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023587572161933312/nuq0npKD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 569,
+          "following_count": 784,
+          "like_count": 53141,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 330
+        },
+        "username": "BdZzbw6goo2",
+        "verified": true
+      }
+    ]
+  }
+}

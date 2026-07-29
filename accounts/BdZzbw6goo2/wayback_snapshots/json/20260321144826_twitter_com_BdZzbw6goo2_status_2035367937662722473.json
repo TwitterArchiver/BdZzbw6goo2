@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560533329912311808",
+    "conversation_id": "2035147971348897819",
+    "created_at": "2026-03-21T14:48:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-21T15:48:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035367937662722473"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1714351609977978882",
+          "start": 0,
+          "username": "TinxYxx2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035367937662722473",
+    "in_reply_to_user_id": "1714351609977978882",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035367227621609577",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TinxYxx2 标准片剂，每片含甘草流浸膏粉112.5mg、阿片粉4mg(吗啡含量10%)、樟脑2mg、八角茴香油2mg、苯甲酸钠2mg"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560533329912311808",
+        "conversation_id": "2035147971348897819",
+        "created_at": "2026-03-21T14:48:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T15:48:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035367937662722473"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1714351609977978882",
+              "start": 0,
+              "username": "TinxYxx2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035367937662722473",
+        "in_reply_to_user_id": "1714351609977978882",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035367227621609577",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TinxYxx2 标准片剂，每片含甘草流浸膏粉112.5mg、阿片粉4mg(吗啡含量10%)、樟脑2mg、八角茴香油2mg、苯甲酸钠2mg"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1714351609977978882",
+        "conversation_id": "2035147971348897819",
+        "created_at": "2026-03-21T14:45:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T15:45:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035367227621609577"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1560533329912311808",
+              "start": 0,
+              "username": "BdZzbw6goo2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035367227621609577",
+        "in_reply_to_user_id": "1560533329912311808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035366416036364389",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BdZzbw6goo2 他成分除了吗啡还有什么吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-19T07:45:35.000Z",
+        "description": "MTF /HRT since 25.11.16/中重度抑郁/互fo/oder/深柜中",
+        "id": "1560533329912311808",
+        "name": "Lily 🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023587572161933312/nuq0npKD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 383,
+          "following_count": 582,
+          "like_count": 44923,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 159
+        },
+        "username": "BdZzbw6goo2",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-17T18:44:18.000Z",
+        "description": "迷路了也没关系，",
+        "id": "1714351609977978882",
+        "location": "南宁",
+        "name": "令兒",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782926400837873664/QU8siiVM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 419,
+          "following_count": 802,
+          "like_count": 16118,
+          "listed_count": 0,
+          "media_count": 348,
+          "tweet_count": 3751
+        },
+        "username": "TinxYxx2",
+        "verified": false
+      }
+    ]
+  }
+}

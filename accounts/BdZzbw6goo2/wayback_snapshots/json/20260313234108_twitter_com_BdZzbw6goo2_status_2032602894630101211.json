@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560533329912311808",
+    "conversation_id": "2032428501157171597",
+    "created_at": "2026-03-13T23:41:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T00:41:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032602894630101211"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1806391029320540160",
+          "start": 0,
+          "username": "9UOWD6Qbn263724"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032602894630101211",
+    "in_reply_to_user_id": "1806391029320540160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032586040544829945",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@9UOWD6Qbn263724 方舟不是贵一些嘛，我想着pdd买能节约一点"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560533329912311808",
+        "conversation_id": "2032428501157171597",
+        "created_at": "2026-03-13T23:41:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T00:41:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032602894630101211"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1806391029320540160",
+              "start": 0,
+              "username": "9UOWD6Qbn263724"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032602894630101211",
+        "in_reply_to_user_id": "1806391029320540160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032586040544829945",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@9UOWD6Qbn263724 方舟不是贵一些嘛，我想着pdd买能节约一点"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1806391029320540160",
+        "conversation_id": "2032428501157171597",
+        "created_at": "2026-03-13T22:34:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T23:34:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032586040544829945"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1560533329912311808",
+              "start": 0,
+              "username": "BdZzbw6goo2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032586040544829945",
+        "in_reply_to_user_id": "1560533329912311808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032428501157171597",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BdZzbw6goo2 方舟处方直接开"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-19T07:45:35.000Z",
+        "description": "MTF /HRT since 25.11.16/中重度抑郁/互fo/oder/深柜中",
+        "id": "1560533329912311808",
+        "name": "Lily 🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023587572161933312/nuq0npKD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 270,
+          "following_count": 458,
+          "like_count": 42268,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 84
+        },
+        "username": "BdZzbw6goo2",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-27T18:16:05.000Z",
+        "description": "生产日期2009/11/28/坐标河南郑州/精神状态不稳定/中度焦虑/重度抑郁/buff加身/好想发疯呃啊啊啊/173cm/45kg/腼腆/爱哭/快过来和我贴贴！\n25.12.26🍥🏳️‍⚧️无证含糖/互fo\n88🚪 这下没人骚扰我了吧",
+        "id": "1806391029320540160",
+        "name": "野野🍥",
+        "pinned_tweet_id": "2031495282928582989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028908590153478144/Xf4Itzg9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 478,
+          "following_count": 276,
+          "like_count": 404,
+          "listed_count": 1,
+          "media_count": 30,
+          "tweet_count": 211
+        },
+        "username": "9UOWD6Qbn263724",
+        "verified": false
+      }
+    ]
+  }
+}

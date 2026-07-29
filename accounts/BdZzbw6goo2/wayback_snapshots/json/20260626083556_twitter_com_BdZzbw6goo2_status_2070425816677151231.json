@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560533329912311808",
+    "conversation_id": "2070425816677151231",
+    "created_at": "2026-06-26T08:35:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T09:35:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070425816677151231"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/bdzzbw6goo2/st…",
+          "end": 127,
+          "expanded_url": "https://twitter.com/bdzzbw6goo2/status/2045063896801906983",
+          "start": 104,
+          "url": "https://t.co/ASfMCPMYEB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070425816677151231",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045063896801906983",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "免费的都没人要嘛，现在是电信CN2GIA，移动CMIN2，联通也是高级网络回程。（这三个线路算的上是三大运营商的公网的顶级线路了。那服务器的2T的流量就一直搁那空着，感觉不用实在是有点浪费了。）还是给链接。 https://t.co/ASfMCPMYEB"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560533329912311808",
+        "conversation_id": "2070425816677151231",
+        "created_at": "2026-06-26T08:35:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T09:35:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070425816677151231"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bdzzbw6goo2/st…",
+              "end": 127,
+              "expanded_url": "https://twitter.com/bdzzbw6goo2/status/2045063896801906983",
+              "start": 104,
+              "url": "https://t.co/ASfMCPMYEB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070425816677151231",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045063896801906983",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "免费的都没人要嘛，现在是电信CN2GIA，移动CMIN2，联通也是高级网络回程。（这三个线路算的上是三大运营商的公网的顶级线路了。那服务器的2T的流量就一直搁那空着，感觉不用实在是有点浪费了。）还是给链接。 https://t.co/ASfMCPMYEB"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560533329912311808",
+        "conversation_id": "2045063896801906983",
+        "created_at": "2026-04-17T08:56:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T09:56:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045063896801906983"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045063896801906983",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 404,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有互fo要节点的，不收钱，LA三网4837回程（虽然上游是netlab就是了）。直接给vless链接，要的麻烦私信喵。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-19T07:45:35.000Z",
+        "description": "MTF /HRT since 25.11.16/中重度抑郁/互fo/oder/深柜中（已经出柜了，但是是在偷偷HRT）/ASD",
+        "id": "1560533329912311808",
+        "name": "Lily 🏳️‍⚧️",
+        "pinned_tweet_id": "2036571069851771293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023587572161933312/nuq0npKD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1008,
+          "following_count": 1242,
+          "like_count": 83053,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 644
+        },
+        "url": "",
+        "username": "BdZzbw6goo2",
+        "verified": true
+      }
+    ]
+  }
+}

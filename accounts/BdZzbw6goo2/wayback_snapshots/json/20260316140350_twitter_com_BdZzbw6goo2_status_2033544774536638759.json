@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560533329912311808",
+    "conversation_id": "2033544774536638759",
+    "created_at": "2026-03-16T14:03:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T15:03:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2033544774536638759"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/inteldriver/st…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/inteldriver/status/2033519340452991369",
+          "start": 16,
+          "url": "https://t.co/TNMSNV0cnE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033544774536638759",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033519340452991369",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我要是能像我头像这么可爱就好了 https://t.co/TNMSNV0cnE"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560533329912311808",
+        "conversation_id": "2033544774536638759",
+        "created_at": "2026-03-16T14:03:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T15:03:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033544774536638759"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/inteldriver/st…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/inteldriver/status/2033519340452991369",
+              "start": 16,
+              "url": "https://t.co/TNMSNV0cnE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033544774536638759",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033519340452991369",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我要是能像我头像这么可爱就好了 https://t.co/TNMSNV0cnE"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721863847185952768",
+        "conversation_id": "2033519340452991369",
+        "created_at": "2026-03-16T12:22:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T13:22:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033519340452991369"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mwdxj29477/sta…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/mwdxj29477/status/2033502070331130073",
+              "start": 16,
+              "url": "https://t.co/XBWUB1sfHn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033519340452991369",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033502070331130073",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我要是能像我头像这么可爱就好了 https://t.co/XBWUB1sfHn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-19T07:45:35.000Z",
+        "description": "MTF /HRT since 25.11.16/中重度抑郁/互fo/oder/深柜中",
+        "id": "1560533329912311808",
+        "name": "Lily 🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023587572161933312/nuq0npKD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 324,
+          "following_count": 518,
+          "like_count": 43272,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 101
+        },
+        "username": "BdZzbw6goo2",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-07T12:15:13.000Z",
+        "description": "喵喵？",
+        "id": "1721863847185952768",
+        "location": "in your heart",
+        "name": "ZhaYi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020171119429570560/HleURNqP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 326,
+          "like_count": 827,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 182
+        },
+        "username": "IntelDriver",
+        "verified": false
+      }
+    ]
+  }
+}

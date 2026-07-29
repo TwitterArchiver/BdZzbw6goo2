@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560533329912311808",
+    "conversation_id": "2038109904137777642",
+    "created_at": "2026-03-29T08:36:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T09:36:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038173329983746557"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1900779585832210432",
+          "start": 0,
+          "username": "71y11Qy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038173329983746557",
+    "in_reply_to_user_id": "1900779585832210432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038109904137777642",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@71y11Qy 好像只有云南吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560533329912311808",
+        "conversation_id": "2038109904137777642",
+        "created_at": "2026-03-29T08:36:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T09:36:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038173329983746557"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1900779585832210432",
+              "start": 0,
+              "username": "71y11Qy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038173329983746557",
+        "in_reply_to_user_id": "1900779585832210432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038109904137777642",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@71y11Qy 好像只有云南吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1900779585832210432",
+        "conversation_id": "2038109904137777642",
+        "created_at": "2026-03-29T04:24:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T05:24:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038109904137777642"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038109904137777642",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 180,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "马上4.1了然后呢。我根本就没有屯药"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-19T07:45:35.000Z",
+        "description": "MTF /HRT since 25.11.16/中重度抑郁/互fo/oder/深柜中",
+        "id": "1560533329912311808",
+        "name": "Lily 🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023587572161933312/nuq0npKD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 480,
+          "following_count": 693,
+          "like_count": 48064,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 230
+        },
+        "username": "BdZzbw6goo2",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-15T05:22:37.000Z",
+        "description": "🚪纯绿52/88/坐标10｜只对部分人感兴趣｜餐券 od 负能 自伤｜同类互fo｜漏了可以私信我 我很好相处 喜欢有礼貌的人 大部分时间在学校请等等我…",
+        "id": "1900779585832210432",
+        "location": "外太空",
+        "name": "71",
+        "pinned_tweet_id": "2022208733133320205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976968577891659776/czXAeT_t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 426,
+          "following_count": 284,
+          "like_count": 3170,
+          "listed_count": 1,
+          "media_count": 66,
+          "tweet_count": 1961
+        },
+        "username": "71y11Qy",
+        "verified": false
+      }
+    ]
+  }
+}

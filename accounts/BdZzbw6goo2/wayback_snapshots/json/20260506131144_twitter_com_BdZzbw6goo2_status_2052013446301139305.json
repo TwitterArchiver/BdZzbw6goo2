@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560533329912311808",
+    "conversation_id": "2051964821848138051",
+    "created_at": "2026-05-06T13:11:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T14:11:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052013446301139305"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1824390995754225667",
+          "start": 0,
+          "username": "Bcattiy"
+        },
+        {
+          "end": 20,
+          "id": "1621552410048237569",
+          "start": 9,
+          "username": "amecandy_x"
+        },
+        {
+          "end": 34,
+          "id": "1802704441961017344",
+          "start": 21,
+          "username": "misumikaede3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052013446301139305",
+    "in_reply_to_user_id": "1824390995754225667",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052012308768202911",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bcattiy @amecandy_x @misumikaede3 其实作用都不是太大啦，我刚刚去查了一下，其实DXM本身只有约10-30%经过CYP3A4代谢。要吃的话单次200mg就行了，达到最大的抑制强度差不多需要200mg/次，2次/天，连续服用3-4天这个样子。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560533329912311808",
+        "conversation_id": "2051964821848138051",
+        "created_at": "2026-05-06T13:11:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T14:11:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052013446301139305"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1824390995754225667",
+              "start": 0,
+              "username": "Bcattiy"
+            },
+            {
+              "end": 20,
+              "id": "1621552410048237569",
+              "start": 9,
+              "username": "amecandy_x"
+            },
+            {
+              "end": 34,
+              "id": "1802704441961017344",
+              "start": 21,
+              "username": "misumikaede3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052013446301139305",
+        "in_reply_to_user_id": "1824390995754225667",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052012308768202911",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bcattiy @amecandy_x @misumikaede3 其实作用都不是太大啦，我刚刚去查了一下，其实DXM本身只有约10-30%经过CYP3A4代谢。要吃的话单次200mg就行了，达到最大的抑制强度差不多需要200mg/次，2次/天，连续服用3-4天这个样子。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1824390995754225667",
+        "conversation_id": "2051964821848138051",
+        "created_at": "2026-05-06T13:07:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T14:07:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052012308768202911"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1560533329912311808",
+              "start": 0,
+              "username": "BdZzbw6goo2"
+            },
+            {
+              "end": 24,
+              "id": "1621552410048237569",
+              "start": 13,
+              "username": "amecandy_x"
+            },
+            {
+              "end": 38,
+              "id": "1802704441961017344",
+              "start": 25,
+              "username": "misumikaede3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052012308768202911",
+        "in_reply_to_user_id": "1560533329912311808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051968763067838619",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BdZzbw6goo2 @amecandy_x @misumikaede3 如果用伊曲康唑的话吃多少呀 刚好有"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-19T07:45:35.000Z",
+        "description": "MTF /HRT since 25.11.16/中重度抑郁/互fo/oder/深柜中（已经出柜了，但是是在偷偷HRT）/ASD",
+        "id": "1560533329912311808",
+        "name": "Lily 🏳️‍⚧️",
+        "pinned_tweet_id": "2036571069851771293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023587572161933312/nuq0npKD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 820,
+          "following_count": 1026,
+          "like_count": 63378,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 561
+        },
+        "username": "BdZzbw6goo2",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-16T10:21:31.000Z",
+        "description": "",
+        "id": "1824390995754225667",
+        "name": "Bcattiy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051284434490716160/kuyuXDwc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 28,
+          "like_count": 1521,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 611
+        },
+        "username": "Bcattiy",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-03T16:53:25.000Z",
+        "description": "07 / MtF / 自由意志左翼🚩/ 全栈工程师 / 独立LLM研究者 / 药百GPT开发者",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/Ul32kqG4uh"
+              }
+            ]
+          }
+        },
+        "id": "1621552410048237569",
+        "location": "山东·济南",
+        "name": "小雨",
+        "pinned_tweet_id": "2046119775114551305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023354415944495104/Uixnel15_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6269,
+          "following_count": 2134,
+          "like_count": 27078,
+          "listed_count": 16,
+          "media_count": 1422,
+          "tweet_count": 10148
+        },
+        "url": "https://t.co/Ul32kqG4uh",
+        "username": "amecandy_x",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-17T14:06:56.000Z",
+        "description": "2009年生（并非）enby 🏳️‍⚧️2025.11.14 oder💊｜不论虚无与现实，且行，且行，行动以得知，得知而正行｜精神状态奇异 政治倾向奇特 想成为不走极端的人 喜欢我的请来和我交朋友 如果我发疯对不起请原谅我 小号的我：@shirokanearashi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 117,
+                "username": "shirokanearashi"
+              }
+            ]
+          }
+        },
+        "id": "1802704441961017344",
+        "location": "燃素与以太之地",
+        "name": "三角枫🍥#柳宿六",
+        "pinned_tweet_id": "2033998879956619524",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041239223823695872/oskidzdg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1016,
+          "following_count": 1101,
+          "like_count": 31538,
+          "listed_count": 5,
+          "media_count": 282,
+          "tweet_count": 9523
+        },
+        "username": "misumikaede3",
+        "verified": false
+      }
+    ]
+  }
+}

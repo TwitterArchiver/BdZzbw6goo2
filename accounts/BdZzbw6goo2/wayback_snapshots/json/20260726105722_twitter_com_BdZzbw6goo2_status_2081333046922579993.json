@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560533329912311808",
+    "conversation_id": "2081328873837666368",
+    "created_at": "2026-07-26T10:57:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T11:57:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081333046922579993"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2072913223511339008",
+          "start": 0,
+          "username": "shixiaomonune"
+        }
+      ],
+      "urls": [
+        {
+          "description": "血清素综合征（Serotonin Syndrome）的典型症状通常表现为精神状态改变、自主神经功能亢进和神经肌肉异常的三联征，起病多较急（数小时内）。 1. 精神状态改变 躁动不安、焦虑、易激惹 意识混乱、谵妄 幻觉 严重时可出现昏迷 2. 自主神经功能亢进 心动过速、高血压（或血压波动） 高热（体温升高） 出汗增多、皮肤潮红 瞳孔扩大 恶心、呕吐、腹泻 流涎 3. 神经肌肉异常（最具特征性） 反射亢进（尤其下肢） 阵挛（特别是踝阵挛，是重要诊断线索） 肌肉震颤、肌阵挛 肌肉强直（严重时可导致横纹肌溶解） 共济失调、眼球震颤 严重程度提示 轻度：以震颤、反射亢进、出汗、轻度躁动为主。 中度：明显高热、显著阵挛、意识改变。 重度：高热（>41°C）、严重肌肉强直、呼吸衰竭、弥散性血管内凝血、多器官衰竭，可危及生命。 注意：症状出现通常与增加血清素能药物（如某些抗抑郁药SSRI/SNRI、MAOIs、曲马多、止吐药等）或药物相互作用有关。若怀疑出现上述症状，应立即停用相关药物并就医，严重者需急诊处理。 以上信息仅供参考，不能替代专业医疗诊断。如有相关症状，请尽快咨询医生。",
+          "display_url": "x.com/i/grok/share/3…",
+          "end": 38,
+          "expanded_url": "https://x.com/i/grok/share/3c798bddf8c340afafdb4230b5c82c0f",
+          "start": 15,
+          "status": 200,
+          "title": "血清素综合征的典型症状",
+          "unwound_url": "https://x.com/i/grok/share/3c798bddf8c340afafdb4230b5c82c0f",
+          "url": "https://t.co/02H1zqFw2g"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081333046922579993",
+    "in_reply_to_user_id": "2072913223511339008",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081331307167257075",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shixiaomonune https://t.co/02H1zqFw2g"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560533329912311808",
+        "conversation_id": "2081328873837666368",
+        "created_at": "2026-07-26T10:57:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T11:57:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081333046922579993"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2072913223511339008",
+              "start": 0,
+              "username": "shixiaomonune"
+            }
+          ],
+          "urls": [
+            {
+              "description": "血清素综合征（Serotonin Syndrome）的典型症状通常表现为精神状态改变、自主神经功能亢进和神经肌肉异常的三联征，起病多较急（数小时内）。 1. 精神状态改变 躁动不安、焦虑、易激惹 意识混乱、谵妄 幻觉 严重时可出现昏迷 2. 自主神经功能亢进 心动过速、高血压（或血压波动） 高热（体温升高） 出汗增多、皮肤潮红 瞳孔扩大 恶心、呕吐、腹泻 流涎 3. 神经肌肉异常（最具特征性） 反射亢进（尤其下肢） 阵挛（特别是踝阵挛，是重要诊断线索） 肌肉震颤、肌阵挛 肌肉强直（严重时可导致横纹肌溶解） 共济失调、眼球震颤 严重程度提示 轻度：以震颤、反射亢进、出汗、轻度躁动为主。 中度：明显高热、显著阵挛、意识改变。 重度：高热（>41°C）、严重肌肉强直、呼吸衰竭、弥散性血管内凝血、多器官衰竭，可危及生命。 注意：症状出现通常与增加血清素能药物（如某些抗抑郁药SSRI/SNRI、MAOIs、曲马多、止吐药等）或药物相互作用有关。若怀疑出现上述症状，应立即停用相关药物并就医，严重者需急诊处理。 以上信息仅供参考，不能替代专业医疗诊断。如有相关症状，请尽快咨询医生。",
+              "display_url": "x.com/i/grok/share/3…",
+              "end": 38,
+              "expanded_url": "https://x.com/i/grok/share/3c798bddf8c340afafdb4230b5c82c0f",
+              "start": 15,
+              "status": 200,
+              "title": "血清素综合征的典型症状",
+              "unwound_url": "https://x.com/i/grok/share/3c798bddf8c340afafdb4230b5c82c0f",
+              "url": "https://t.co/02H1zqFw2g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081333046922579993",
+        "in_reply_to_user_id": "2072913223511339008",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081331307167257075",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shixiaomonune https://t.co/02H1zqFw2g"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2072913223511339008",
+        "conversation_id": "2081328873837666368",
+        "created_at": "2026-07-26T10:50:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T11:50:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081331307167257075"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1560533329912311808",
+              "start": 0,
+              "username": "BdZzbw6goo2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081331307167257075",
+        "in_reply_to_user_id": "1560533329912311808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081330776730444050",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BdZzbw6goo2 甚麼感受？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-19T07:45:35.000Z",
+        "description": "MTF /HRT since 25.11.16/中重度抑郁/互fo/oder/深柜中（已经出柜了，但是是在偷偷HRT）/ASD",
+        "id": "1560533329912311808",
+        "name": "Lily 🏳️‍⚧️",
+        "pinned_tweet_id": "2036571069851771293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023587572161933312/nuq0npKD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1128,
+          "following_count": 1362,
+          "like_count": 98866,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 678
+        },
+        "url": "",
+        "username": "BdZzbw6goo2",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-03T05:21:07.000Z",
+        "description": "可愛的小貓一隻・chushengriqi20101130 優點：会点魔 术~~~比赛拿过两年亚军,魔术爱好者内中 低水平 （毕竟我还小）缺點：缺愛・沒安全感\n二號（出生日期）2026 6 1\n（以及你能想到的任何可能存在的缺點）\n加wechat52（同類除外）\n喵//les//",
+        "id": "2072913223511339008",
+        "name": "山茶花",
+        "pinned_tweet_id": "2079407749562339579",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072914983218978816/JtIvL988_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 931,
+          "following_count": 90,
+          "like_count": 375,
+          "listed_count": 1,
+          "media_count": 130,
+          "tweet_count": 1756
+        },
+        "url": "",
+        "username": "shixiaomonune",
+        "verified": false
+      }
+    ]
+  }
+}

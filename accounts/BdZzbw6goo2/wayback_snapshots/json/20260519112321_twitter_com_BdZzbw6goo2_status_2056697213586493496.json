@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560533329912311808",
+    "conversation_id": "2056689368925159757",
+    "created_at": "2026-05-19T11:23:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T12:23:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056697213586493496"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2049292877814173696",
+          "start": 0,
+          "username": "Shuliaosui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056697213586493496",
+    "in_reply_to_user_id": "2049292877814173696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056694181201084743",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shuliaosui 哮喘片里面我记得也有这三个东西，相对来说要干净一些"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560533329912311808",
+        "conversation_id": "2056689368925159757",
+        "created_at": "2026-05-19T11:23:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T12:23:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056697213586493496"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2049292877814173696",
+              "start": 0,
+              "username": "Shuliaosui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056697213586493496",
+        "in_reply_to_user_id": "2049292877814173696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056694181201084743",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shuliaosui 哮喘片里面我记得也有这三个东西，相对来说要干净一些"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2049292877814173696",
+        "conversation_id": "2056689368925159757",
+        "created_at": "2026-05-19T11:11:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T12:11:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056694181201084743"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1560533329912311808",
+              "start": 0,
+              "username": "BdZzbw6goo2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056694181201084743",
+        "in_reply_to_user_id": "1560533329912311808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056693938522877990",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BdZzbw6goo2 可是他的甘草，麻黄还有罂粟壳真的好诱人。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-19T07:45:35.000Z",
+        "description": "MTF /HRT since 25.11.16/中重度抑郁/互fo/oder/深柜中（已经出柜了，但是是在偷偷HRT）/ASD",
+        "id": "1560533329912311808",
+        "name": "Lily 🏳️‍⚧️",
+        "pinned_tweet_id": "2036571069851771293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023587572161933312/nuq0npKD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 870,
+          "following_count": 1108,
+          "like_count": 68373,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 609
+        },
+        "username": "BdZzbw6goo2",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-29T01:01:19.000Z",
+        "description": "/24年药娘/接陪伴/爱自己/自杀干预/家长不管/16岁/护理专业/Q:3755457720/Q群:285607409/匿名提问:https://t.co/P7wEVYG2Sn",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yan14866",
+                "end": 88,
+                "expanded_url": "https://ngl.link/yan14866",
+                "start": 65,
+                "url": "https://t.co/P7wEVYG2Sn"
+              }
+            ]
+          }
+        },
+        "id": "2049292877814173696",
+        "name": "盐🍥",
+        "pinned_tweet_id": "2055481763137454207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050083452826066944/WL1ORgHQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294,
+          "following_count": 708,
+          "like_count": 233,
+          "listed_count": 1,
+          "media_count": 139,
+          "tweet_count": 305
+        },
+        "username": "Shuliaosui",
+        "verified": false
+      }
+    ]
+  }
+}

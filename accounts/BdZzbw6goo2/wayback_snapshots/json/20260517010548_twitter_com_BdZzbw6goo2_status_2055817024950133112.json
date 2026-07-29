@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560533329912311808",
+    "conversation_id": "2055709006635954520",
+    "created_at": "2026-05-17T01:05:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T02:05:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055817024950133112"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1928705633135767600",
+          "start": 0,
+          "username": "AuroraLight_01"
+        },
+        {
+          "end": 23,
+          "id": "2015213345847300096",
+          "start": 16,
+          "username": "XynUnk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055817024950133112",
+    "in_reply_to_user_id": "1928705633135767600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055803498898583877",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AuroraLight_01 @XynUnk 别啊，这些药物对于身心的伤害都是不可忽视的啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560533329912311808",
+        "conversation_id": "2055709006635954520",
+        "created_at": "2026-05-17T01:05:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T02:05:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055817024950133112"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1928705633135767600",
+              "start": 0,
+              "username": "AuroraLight_01"
+            },
+            {
+              "end": 23,
+              "id": "2015213345847300096",
+              "start": 16,
+              "username": "XynUnk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055817024950133112",
+        "in_reply_to_user_id": "1928705633135767600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055803498898583877",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AuroraLight_01 @XynUnk 别啊，这些药物对于身心的伤害都是不可忽视的啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1928705633135767600",
+        "conversation_id": "2055709006635954520",
+        "created_at": "2026-05-17T00:12:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T01:12:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055803498898583877"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2015213345847300096",
+              "start": 0,
+              "username": "XynUnk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055803498898583877",
+        "in_reply_to_user_id": "2015213345847300096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 105,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055709006635954520",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XynUnk 放弃我吧😇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-19T07:45:35.000Z",
+        "description": "MTF /HRT since 25.11.16/中重度抑郁/互fo/oder/深柜中（已经出柜了，但是是在偷偷HRT）/ASD",
+        "id": "1560533329912311808",
+        "name": "Lily 🏳️‍⚧️",
+        "pinned_tweet_id": "2036571069851771293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023587572161933312/nuq0npKD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 865,
+          "following_count": 1099,
+          "like_count": 67574,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 606
+        },
+        "username": "BdZzbw6goo2",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-31T06:51:03.000Z",
+        "description": "13岁 7年级 也许是泛性恋？推龄最小的? \n无证小药娘🍥2026.4.7 MTF\n从小想做个女孩子-炸柜：5.2,/继续深柜ing\n喜欢折腾电脑和会一点编程\n分享Hrt日常-自残🔪  不Od💊  \n关注芸光谢谢喵~（目标1000fo QWQ）\n@TeamRain_2024 | https://t.co/O2V84b1UCA",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 137,
+                "start": 123,
+                "username": "TeamRain_2024"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "NGL.Link/unkxyn",
+                "end": 163,
+                "expanded_url": "http://NGL.Link/unkxyn",
+                "start": 140,
+                "url": "https://t.co/O2V84b1UCA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/UnkXyn",
+                "end": 23,
+                "expanded_url": "http://t.me/UnkXyn",
+                "start": 0,
+                "url": "https://t.co/iQ9bNXCjlZ"
+              }
+            ]
+          }
+        },
+        "id": "1928705633135767600",
+        "location": "湖北潜江",
+        "name": "芸光酱𝐴𝑢𝑟𝑜𝑟𝑎𝐿𝑖𝑔ℎ𝑡 🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2053779388169412843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050189894278897664/xk4hCXpu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 905,
+          "following_count": 5,
+          "like_count": 1741,
+          "listed_count": 5,
+          "media_count": 100,
+          "tweet_count": 637
+        },
+        "url": "https://t.co/iQ9bNXCjlZ",
+        "username": "AuroraLight_01",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-25T00:02:43.000Z",
+        "description": "MtX?🏳️‍⚧️|Hrt🍥01.28.2026，无证含糖|年龄党+家长不管党|已炸柜|生产日期:11.13.2011|161cm52kg|INFP-T，重度社恐|初二牲，成绩倒数，休学中🥰|同类互fo喵～|一代目@UnkXyn|https://t.co/aB65o8oOXI",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 107,
+                "username": "UnkXyn"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/mwdxj",
+                "end": 138,
+                "expanded_url": "http://t.me/mwdxj",
+                "start": 115,
+                "url": "https://t.co/aB65o8oOXI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mwdxj29477",
+                "end": 23,
+                "expanded_url": "http://ngl.link/mwdxj29477",
+                "start": 0,
+                "url": "https://t.co/2KoP9pAGCu"
+              }
+            ]
+          }
+        },
+        "id": "2015213345847300096",
+        "name": "Unk~🍥🏳️‍⚧️(二代目",
+        "pinned_tweet_id": "2054692978460078311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053140552099749888/BhRMG_MC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 629,
+          "following_count": 491,
+          "like_count": 555,
+          "listed_count": 2,
+          "media_count": 10,
+          "tweet_count": 59
+        },
+        "url": "https://t.co/2KoP9pAGCu",
+        "username": "XynUnk",
+        "verified": false
+      }
+    ]
+  }
+}

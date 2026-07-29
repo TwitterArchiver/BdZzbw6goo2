@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560533329912311808",
+    "conversation_id": "2054160505049370631",
+    "created_at": "2026-05-12T11:23:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T12:23:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054160505049370631"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1757616332240224256",
+          "start": 3,
+          "username": "B_cat38324"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054160505049370631",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054106922060808517",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @B_cat38324: 过年了，男娘家里来了亲戚。\n\n表弟：哥哥你有平板锁吗？\n男娘：有啊，这个是塑料的，这个是不锈钢的，这个是钛合金的。\n表弟：😭哥哥你把小蚯蚓收起来好不好，我好害怕，你把平板的密码锁解开，我要玩熊大快跑。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560533329912311808",
+        "conversation_id": "2054160505049370631",
+        "created_at": "2026-05-12T11:23:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T12:23:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054160505049370631"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1757616332240224256",
+              "start": 3,
+              "username": "B_cat38324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054160505049370631",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054106922060808517",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @B_cat38324: 过年了，男娘家里来了亲戚。\n\n表弟：哥哥你有平板锁吗？\n男娘：有啊，这个是塑料的，这个是不锈钢的，这个是钛合金的。\n表弟：😭哥哥你把小蚯蚓收起来好不好，我好害怕，你把平板的密码锁解开，我要玩熊大快跑。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757616332240224256",
+        "conversation_id": "2054106922060808517",
+        "created_at": "2026-05-12T07:50:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T08:50:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054106922060808517"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054106922060808517",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1158,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "过年了，男娘家里来了亲戚。\n\n表弟：哥哥你有平板锁吗？\n男娘：有啊，这个是塑料的，这个是不锈钢的，这个是钛合金的。\n表弟：😭哥哥你把小蚯蚓收起来好不好，我好害怕，你把平板的密码锁解开，我要玩熊大快跑。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-19T07:45:35.000Z",
+        "description": "MTF /HRT since 25.11.16/中重度抑郁/互fo/oder/深柜中（已经出柜了，但是是在偷偷HRT）/ASD",
+        "id": "1560533329912311808",
+        "name": "Lily 🏳️‍⚧️",
+        "pinned_tweet_id": "2036571069851771293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023587572161933312/nuq0npKD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 856,
+          "following_count": 1086,
+          "like_count": 65832,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 600
+        },
+        "username": "BdZzbw6goo2",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-14T04:03:09.000Z",
+        "description": "👾",
+        "id": "1757616332240224256",
+        "name": "猫黑黑",
+        "pinned_tweet_id": "1975138457707266379",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757617617349857280/_NU9tsNU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22403,
+          "following_count": 197,
+          "like_count": 713,
+          "listed_count": 72,
+          "media_count": 103,
+          "tweet_count": 23331
+        },
+        "username": "B_cat38324",
+        "verified": false
+      }
+    ]
+  }
+}

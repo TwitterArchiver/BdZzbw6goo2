@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560533329912311808",
+    "conversation_id": "2042413818148745454",
+    "created_at": "2026-04-10T02:19:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T03:19:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042427151384019156"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1998791279350874112",
+          "start": 0,
+          "username": "Yamawuchimisaki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042427151384019156",
+    "in_reply_to_user_id": "1998791279350874112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042426942683791669",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yamawuchimisaki 喹硫平没啥滥用价值吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560533329912311808",
+        "conversation_id": "2042413818148745454",
+        "created_at": "2026-04-10T02:19:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T03:19:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042427151384019156"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1998791279350874112",
+              "start": 0,
+              "username": "Yamawuchimisaki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042427151384019156",
+        "in_reply_to_user_id": "1998791279350874112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042426942683791669",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yamawuchimisaki 喹硫平没啥滥用价值吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1998791279350874112",
+        "conversation_id": "2042413818148745454",
+        "created_at": "2026-04-10T02:18:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T03:18:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042426942683791669"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1560533329912311808",
+              "start": 0,
+              "username": "BdZzbw6goo2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042426942683791669",
+        "in_reply_to_user_id": "1560533329912311808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042413818148745454",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BdZzbw6goo2 普瑞巴林可以和喹硫平一起吃吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-19T07:45:35.000Z",
+        "description": "MTF /HRT since 25.11.16/中重度抑郁/互fo/oder/深柜中/有阿斯伯格不是很会聊天致歉",
+        "id": "1560533329912311808",
+        "name": "Lily 🏳️‍⚧️",
+        "pinned_tweet_id": "2036571069851771293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023587572161933312/nuq0npKD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 607,
+          "following_count": 813,
+          "like_count": 53587,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 368
+        },
+        "username": "BdZzbw6goo2",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-10T16:26:03.000Z",
+        "description": "09/She/Her/Female/Living in Shanghai/IELTS 8/JLPT N1/Traumatized by PRC/Liberalism/共産主義に断固反対/ 🇫🇮🇯🇵🇺🇦🇮🇱 。看得出，中国人的考妣在世时没有教育它们要文明礼貌😅 被你们中国人害成重度精神病，治疗中ing",
+        "id": "1998791279350874112",
+        "location": "Shanghai",
+        "name": "Misaki Yamawuchi🇫🇮🇯🇵🇺🇦🇮🇱",
+        "pinned_tweet_id": "2040307822748197305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041533227794624512/T7pfyUcl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1442,
+          "following_count": 625,
+          "like_count": 4920,
+          "listed_count": 5,
+          "media_count": 511,
+          "tweet_count": 3993
+        },
+        "username": "Yamawuchimisaki",
+        "verified": false
+      }
+    ]
+  }
+}

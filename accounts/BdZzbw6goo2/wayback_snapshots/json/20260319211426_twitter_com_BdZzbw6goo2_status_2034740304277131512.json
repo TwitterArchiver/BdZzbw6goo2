@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560533329912311808",
+    "conversation_id": "2034682491395793200",
+    "created_at": "2026-03-19T21:14:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T22:14:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034740304277131512"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1493409182141206531",
+          "start": 0,
+          "username": "JQKAwhocares"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034740304277131512",
+    "in_reply_to_user_id": "1493409182141206531",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034682491395793200",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JQKAwhocares 之前不还有不更新整个软件都不让用的吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560533329912311808",
+        "conversation_id": "2034682491395793200",
+        "created_at": "2026-03-19T21:14:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T22:14:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034740304277131512"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1493409182141206531",
+              "start": 0,
+              "username": "JQKAwhocares"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034740304277131512",
+        "in_reply_to_user_id": "1493409182141206531",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034682491395793200",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JQKAwhocares 之前不还有不更新整个软件都不让用的吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493409182141206531",
+        "conversation_id": "2034682491395793200",
+        "created_at": "2026-03-19T17:24:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T18:24:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034682491395793200"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2034682491395793200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "原来不更新就无法使用新的私信吗，马斯克你这家伙"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-19T07:45:35.000Z",
+        "description": "MTF /HRT since 25.11.16/中重度抑郁/互fo/oder/深柜中",
+        "id": "1560533329912311808",
+        "name": "Lily 🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023587572161933312/nuq0npKD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 370,
+          "following_count": 569,
+          "like_count": 44457,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 142
+        },
+        "username": "BdZzbw6goo2",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-15T02:18:13.000Z",
+        "description": "临床医学生/男娘/性取向也是男娘/男娘最棒了 想要🤤🤤🤤想要🤤🤤🤤好看的腿子🤤🤤🤤阴暗的怪笑🤤🤤🤤想要🤤白皙的皮肤🤤🤤想要🤤圆润的🐻🐻",
+        "id": "1493409182141206531",
+        "location": "Los Angeles, CA",
+        "name": "Cyber Coffin（🍥Friendly）",
+        "pinned_tweet_id": "1953092266966565288",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993001345067159552/EMzKICOi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 190,
+          "like_count": 1375,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 758
+        },
+        "username": "JQKAwhocares",
+        "verified": false
+      }
+    ]
+  }
+}

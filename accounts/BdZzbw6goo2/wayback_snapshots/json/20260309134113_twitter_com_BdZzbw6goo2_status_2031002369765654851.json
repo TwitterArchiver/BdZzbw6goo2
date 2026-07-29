@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2030919705331183616"
+      ],
+      "media_source_tweet_id": [
+        "2030931596706988143"
+      ]
+    },
+    "author_id": "1560533329912311808",
+    "conversation_id": "2031002369765654851",
+    "created_at": "2026-03-09T13:41:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T14:41:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031002369765654851"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1621552410048237569",
+          "start": 3,
+          "username": "amecandy_x"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DuGrjS6l7W",
+          "end": 77,
+          "expanded_url": "https://x.com/amecandy_x/status/2030931596706988143/photo/1",
+          "media_key": "3_2030919705331183616",
+          "start": 54,
+          "url": "https://t.co/DuGrjS6l7W"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031002369765654851",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030931596706988143",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amecandy_x: 我就这样在漂亮小屋里漂亮地活着，漂亮地吃药抽烟喝酒自残。漂亮地犯着精神病！ https://t.co/DuGrjS6l7W"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3264,
+        "media_key": "3_2030919705331183616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC9GtjObMAAwvOA.jpg",
+        "width": 1836
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030919705331183616"
+          ],
+          "media_source_tweet_id": [
+            "2030931596706988143"
+          ]
+        },
+        "author_id": "1560533329912311808",
+        "conversation_id": "2031002369765654851",
+        "created_at": "2026-03-09T13:41:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T14:41:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031002369765654851"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1621552410048237569",
+              "start": 3,
+              "username": "amecandy_x"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DuGrjS6l7W",
+              "end": 77,
+              "expanded_url": "https://x.com/amecandy_x/status/2030931596706988143/photo/1",
+              "media_key": "3_2030919705331183616",
+              "start": 54,
+              "url": "https://t.co/DuGrjS6l7W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031002369765654851",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030931596706988143",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @amecandy_x: 我就这样在漂亮小屋里漂亮地活着，漂亮地吃药抽烟喝酒自残。漂亮地犯着精神病！ https://t.co/DuGrjS6l7W"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030919705331183616"
+          ]
+        },
+        "author_id": "1621552410048237569",
+        "conversation_id": "2030931596706988143",
+        "created_at": "2026-03-09T09:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T10:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030931596706988143"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DuGrjS6l7W",
+              "end": 61,
+              "expanded_url": "https://x.com/amecandy_x/status/2030931596706988143/photo/1",
+              "media_key": "3_2030919705331183616",
+              "start": 38,
+              "url": "https://t.co/DuGrjS6l7W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030931596706988143",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1114,
+          "like_count": 67,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我就这样在漂亮小屋里漂亮地活着，漂亮地吃药抽烟喝酒自残。漂亮地犯着精神病！ https://t.co/DuGrjS6l7W"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-19T07:45:35.000Z",
+        "description": "MTF /HRT since 25.11.16/中重度抑郁/互fo/oder/深柜中",
+        "id": "1560533329912311808",
+        "name": "Lily 🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023587572161933312/nuq0npKD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 328,
+          "like_count": 40633,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 49
+        },
+        "username": "BdZzbw6goo2",
+        "verified": true
+      },
+      {
+        "created_at": "2023-02-03T16:53:25.000Z",
+        "description": "「In solitude where we are least alone」/ 跨性别女性 / radical communist / ally / ai&llm🤖 / 競馬🏇🏻 / vocaloid🎶 / 铁道迷🚅 / @whitecloud_ybw ❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 111,
+                "username": "whitecloud_ybw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/Ul32kqG4uh"
+              }
+            ]
+          }
+        },
+        "id": "1621552410048237569",
+        "location": "山东·济南",
+        "name": "小雨",
+        "pinned_tweet_id": "2021946997042008389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023354415944495104/Uixnel15_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5743,
+          "following_count": 2025,
+          "like_count": 25806,
+          "listed_count": 16,
+          "media_count": 1290,
+          "tweet_count": 9251
+        },
+        "url": "https://t.co/Ul32kqG4uh",
+        "username": "amecandy_x",
+        "verified": false
+      }
+    ]
+  }
+}

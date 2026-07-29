@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2032597635929157632"
+      ]
+    },
+    "author_id": "1560533329912311808",
+    "conversation_id": "2032597650718289926",
+    "created_at": "2026-03-13T23:20:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T00:20:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2032597650718289926"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/hErz8emKXO",
+          "end": 51,
+          "expanded_url": "https://x.com/BdZzbw6goo2/status/2032597650718289926/photo/1",
+          "media_key": "3_2032597635929157632",
+          "start": 28,
+          "url": "https://t.co/hErz8emKXO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032597650718289926",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这个好抽，但是我感觉和中南海差不多啊，都是蓝莓薄荷爆珠 https://t.co/hErz8emKXO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2032597635929157632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDU8x9zbMAA1vt_.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032597635929157632"
+          ]
+        },
+        "author_id": "1560533329912311808",
+        "conversation_id": "2032597650718289926",
+        "created_at": "2026-03-13T23:20:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T00:20:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032597650718289926"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hErz8emKXO",
+              "end": 51,
+              "expanded_url": "https://x.com/BdZzbw6goo2/status/2032597650718289926/photo/1",
+              "media_key": "3_2032597635929157632",
+              "start": 28,
+              "url": "https://t.co/hErz8emKXO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032597650718289926",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个好抽，但是我感觉和中南海差不多啊，都是蓝莓薄荷爆珠 https://t.co/hErz8emKXO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-19T07:45:35.000Z",
+        "description": "MTF /HRT since 25.11.16/中重度抑郁/互fo/oder/深柜中",
+        "id": "1560533329912311808",
+        "name": "Lily 🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023587572161933312/nuq0npKD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 458,
+          "like_count": 42263,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 83
+        },
+        "username": "BdZzbw6goo2",
+        "verified": true
+      }
+    ]
+  }
+}

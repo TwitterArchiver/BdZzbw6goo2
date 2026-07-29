@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2039872827202183168"
+      ]
+    },
+    "author_id": "1560533329912311808",
+    "conversation_id": "2039872836211507305",
+    "created_at": "2026-04-03T01:09:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T02:09:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039872836211507305"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/jUw2V6jDvK",
+          "end": 41,
+          "expanded_url": "https://x.com/BdZzbw6goo2/status/2039872836211507305/photo/1",
+          "media_key": "3_2039872827202183168",
+          "start": 18,
+          "url": "https://t.co/jUw2V6jDvK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039872836211507305",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "c，开个pr处方还要和医生斗智斗勇 https://t.co/jUw2V6jDvK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2039872827202183168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE8Vh1RboAAJO2w.jpg",
+        "width": 283
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039872827202183168"
+          ]
+        },
+        "author_id": "1560533329912311808",
+        "conversation_id": "2039872836211507305",
+        "created_at": "2026-04-03T01:09:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T02:09:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039872836211507305"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jUw2V6jDvK",
+              "end": 41,
+              "expanded_url": "https://x.com/BdZzbw6goo2/status/2039872836211507305/photo/1",
+              "media_key": "3_2039872827202183168",
+              "start": 18,
+              "url": "https://t.co/jUw2V6jDvK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039872836211507305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "c，开个pr处方还要和医生斗智斗勇 https://t.co/jUw2V6jDvK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-19T07:45:35.000Z",
+        "description": "MTF /HRT since 25.11.16/中重度抑郁/互fo/oder/深柜中",
+        "id": "1560533329912311808",
+        "name": "Lily 🏳️‍⚧️",
+        "pinned_tweet_id": "2036571069851771293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023587572161933312/nuq0npKD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 513,
+          "following_count": 720,
+          "like_count": 50206,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 271
+        },
+        "username": "BdZzbw6goo2",
+        "verified": true
+      }
+    ]
+  }
+}

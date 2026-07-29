@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560533329912311808",
+    "conversation_id": "2039915421483311288",
+    "created_at": "2026-04-04T00:14:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T01:14:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040221404155842774"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1534449642678755329",
+          "start": 0,
+          "username": "ihp486"
+        },
+        {
+          "end": 15,
+          "id": "2028925492351647745",
+          "start": 8,
+          "username": "Xue03g"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040221404155842774",
+    "in_reply_to_user_id": "1534449642678755329",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040209482874237214",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ihp486 @Xue03g wiki上写“没有特别的剂量搭配要求，可以自由搭配”"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560533329912311808",
+        "conversation_id": "2039915421483311288",
+        "created_at": "2026-04-04T00:14:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T01:14:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040221404155842774"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1534449642678755329",
+              "start": 0,
+              "username": "ihp486"
+            },
+            {
+              "end": 15,
+              "id": "2028925492351647745",
+              "start": 8,
+              "username": "Xue03g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040221404155842774",
+        "in_reply_to_user_id": "1534449642678755329",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040209482874237214",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ihp486 @Xue03g wiki上写“没有特别的剂量搭配要求，可以自由搭配”"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1534449642678755329",
+        "conversation_id": "2039915421483311288",
+        "created_at": "2026-04-03T23:27:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T00:27:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040209482874237214"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1560533329912311808",
+              "start": 0,
+              "username": "BdZzbw6goo2"
+            },
+            {
+              "end": 20,
+              "id": "2028925492351647745",
+              "start": 13,
+              "username": "Xue03g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040209482874237214",
+        "in_reply_to_user_id": "1560533329912311808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039935504842666336",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BdZzbw6goo2 @Xue03g 可不可以发下下面的右美联动普瑞的？我经常连用这两个，想看下公式和计量"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-19T07:45:35.000Z",
+        "description": "MTF /HRT since 25.11.16/中重度抑郁/互fo/oder/深柜中/有阿斯伯格不是很会聊天致歉",
+        "id": "1560533329912311808",
+        "name": "Lily 🏳️‍⚧️",
+        "pinned_tweet_id": "2036571069851771293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023587572161933312/nuq0npKD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 524,
+          "following_count": 735,
+          "like_count": 50592,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 295
+        },
+        "username": "BdZzbw6goo2",
+        "verified": true
+      },
+      {
+        "created_at": "2022-06-08T08:18:16.000Z",
+        "description": "我会在这个没有任何人认识我和注意到我的平台尽情的宣泄我的情绪😈",
+        "id": "1534449642678755329",
+        "name": "多加一点木鱼花",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1536356958810345480/0vi8YvbF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 137,
+          "like_count": 1127,
+          "listed_count": 2,
+          "media_count": 67,
+          "tweet_count": 433
+        },
+        "username": "ihp486",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-03T20:08:51.000Z",
+        "description": "总而言之你特别可爱",
+        "id": "2028925492351647745",
+        "location": "Taiwan",
+        "name": "Clementine03g",
+        "pinned_tweet_id": "2039696496904577035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035943845591130112/AmfCT4hY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 183,
+          "like_count": 591,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 218
+        },
+        "username": "Xue03g",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-08T08:18:16.000Z",
+        "description": "我会在这个没有任何人认识我和注意到我的平台尽情的宣泄我的情绪😈",
+        "id": "1534449642678755329",
+        "name": "多加一点木鱼花",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1536356958810345480/0vi8YvbF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 137,
+          "like_count": 1127,
+          "listed_count": 2,
+          "media_count": 67,
+          "tweet_count": 433
+        },
+        "url": "",
+        "username": "ihp486",
+        "verified": false
+      }
+    ]
+  }
+}

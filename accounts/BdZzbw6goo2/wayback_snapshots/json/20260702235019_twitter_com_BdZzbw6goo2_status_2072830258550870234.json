@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560533329912311808",
+    "conversation_id": "2066099660666847325",
+    "created_at": "2026-07-02T23:50:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T00:50:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072830258550870234"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2054884621419159552",
+          "start": 0,
+          "username": "jingluo1234560"
+        },
+        {
+          "end": 29,
+          "id": "1579442033483075584",
+          "start": 16,
+          "username": "26suversider"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072830258550870234",
+    "in_reply_to_user_id": "2054884621419159552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072652186799267943",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jingluo1234560 @26suversider 不，不作用于GABA-A和GABA- B受体"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560533329912311808",
+        "conversation_id": "2066099660666847325",
+        "created_at": "2026-07-02T23:50:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T00:50:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072830258550870234"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2054884621419159552",
+              "start": 0,
+              "username": "jingluo1234560"
+            },
+            {
+              "end": 29,
+              "id": "1579442033483075584",
+              "start": 16,
+              "username": "26suversider"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072830258550870234",
+        "in_reply_to_user_id": "2054884621419159552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072652186799267943",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jingluo1234560 @26suversider 不，不作用于GABA-A和GABA- B受体"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054884621419159552",
+        "conversation_id": "2066099660666847325",
+        "created_at": "2026-07-02T12:02:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T13:02:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072652186799267943"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1560533329912311808",
+              "start": 0,
+              "username": "BdZzbw6goo2"
+            },
+            {
+              "end": 26,
+              "id": "1579442033483075584",
+              "start": 13,
+              "username": "26suversider"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072652186799267943",
+        "in_reply_to_user_id": "1560533329912311808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066119564874887402",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BdZzbw6goo2 @26suversider 普瑞巴林会作用gaba吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-19T07:45:35.000Z",
+        "description": "MTF /HRT since 25.11.16/中重度抑郁/互fo/oder/深柜中（已经出柜了，但是是在偷偷HRT）/ASD",
+        "id": "1560533329912311808",
+        "name": "Lily 🏳️‍⚧️",
+        "pinned_tweet_id": "2036571069851771293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023587572161933312/nuq0npKD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1029,
+          "following_count": 1254,
+          "like_count": 86195,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 657
+        },
+        "url": "",
+        "username": "BdZzbw6goo2",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-14T11:20:59.000Z",
+        "description": "双相/精分/07高中生/od/钢琴",
+        "id": "2054884621419159552",
+        "location": "東京 新宿区",
+        "name": "鲸落",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056311249751969792/pWgiqluv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 4,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 10
+        },
+        "url": "",
+        "username": "jingluo1234560",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-10T12:01:48.000Z",
+        "description": "专注我的嗑药生活\n🚪38纯绿聊天朋友圈\n\nhttps://t.co/bSSvHriTrl",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sunxiaochuankk",
+                "end": 44,
+                "expanded_url": "https://ngl.link/sunxiaochuankk",
+                "start": 21,
+                "url": "https://t.co/bSSvHriTrl"
+              }
+            ]
+          }
+        },
+        "id": "1579442033483075584",
+        "name": "孙笑川籍吧（撒旦的女儿版本）",
+        "pinned_tweet_id": "2065793737977127349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069652627575414784/Z7qSci36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 628,
+          "following_count": 120,
+          "like_count": 790,
+          "listed_count": 1,
+          "media_count": 66,
+          "tweet_count": 818
+        },
+        "url": "",
+        "username": "26suversider",
+        "verified": false
+      }
+    ]
+  }
+}

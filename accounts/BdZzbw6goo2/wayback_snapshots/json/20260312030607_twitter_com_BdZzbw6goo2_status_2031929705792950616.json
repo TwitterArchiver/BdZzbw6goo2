@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560533329912311808",
+    "conversation_id": "2031929705792950616",
+    "created_at": "2026-03-12T03:06:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T04:06:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2031929705792950616"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Sunset__3000/s…",
+          "end": 102,
+          "expanded_url": "https://twitter.com/Sunset__3000/status/2031696904040685906",
+          "start": 79,
+          "url": "https://t.co/KI74koVGNk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031929705792950616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031696904040685906",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你们搞错了，我简介里的o是op的意思，我从来不od的，我只是带状疱疹神经痛感冒咳嗽少年痴呆，然后就多吃了一点药，你们说的那什么overdose我根本看不懂！ https://t.co/KI74koVGNk"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560533329912311808",
+        "conversation_id": "2031929705792950616",
+        "created_at": "2026-03-12T03:06:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T04:06:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031929705792950616"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Sunset__3000/s…",
+              "end": 102,
+              "expanded_url": "https://twitter.com/Sunset__3000/status/2031696904040685906",
+              "start": 79,
+              "url": "https://t.co/KI74koVGNk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031929705792950616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031696904040685906",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你们搞错了，我简介里的o是op的意思，我从来不od的，我只是带状疱疹神经痛感冒咳嗽少年痴呆，然后就多吃了一点药，你们说的那什么overdose我根本看不懂！ https://t.co/KI74koVGNk"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1777129646867542016",
+        "conversation_id": "2031696904040685906",
+        "created_at": "2026-03-11T11:41:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T12:41:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031696904040685906"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2031696904040685906",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 211,
+          "like_count": 11,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们搞错了，我简介里的o是op的意思，我从来不od的，我只是带状疱疹神经痛感冒咳嗽少年痴呆，然后就多吃了一点药，你们说的那什么overdose我根本看不懂！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-19T07:45:35.000Z",
+        "description": "MTF /HRT since 25.11.16/中重度抑郁/互fo/oder/深柜中",
+        "id": "1560533329912311808",
+        "name": "Lily 🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023587572161933312/nuq0npKD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 423,
+          "like_count": 41472,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 68
+        },
+        "username": "BdZzbw6goo2",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-08T00:21:51.000Z",
+        "description": "o割餐券女 | 精神病三件套 | 家里蹲备考 |  极端悲观主义 | 爱好生化药理板绘 | 同类互fo呀♡",
+        "id": "1777129646867542016",
+        "location": "宛平南路600号",
+        "name": "日落三千次",
+        "pinned_tweet_id": "2027079822229623001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028471926700851200/tjj6_fyG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 147,
+          "like_count": 364,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 188
+        },
+        "username": "Sunset__3000",
+        "verified": false
+      }
+    ]
+  }
+}

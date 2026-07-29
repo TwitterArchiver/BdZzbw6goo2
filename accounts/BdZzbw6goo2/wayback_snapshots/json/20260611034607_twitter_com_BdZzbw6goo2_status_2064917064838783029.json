@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560533329912311808",
+    "conversation_id": "2064913786453233960",
+    "created_at": "2026-06-11T03:46:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T04:46:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064917064838783029"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2059326143640276992",
+          "start": 0,
+          "username": "Huhiosc3x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064917064838783029",
+    "in_reply_to_user_id": "2059326143640276992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064913786453233960",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Huhiosc3x 是只有奥沙西泮嘛，单独的苯二氮卓类药物过量致死率不大，但联用其他的中枢神经系统抑制剂（尤其是其他的GABA能药物）就会进一步增加呼吸抑制致死的风险。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560533329912311808",
+        "conversation_id": "2064913786453233960",
+        "created_at": "2026-06-11T03:46:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T04:46:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064917064838783029"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2059326143640276992",
+              "start": 0,
+              "username": "Huhiosc3x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064917064838783029",
+        "in_reply_to_user_id": "2059326143640276992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064913786453233960",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Huhiosc3x 是只有奥沙西泮嘛，单独的苯二氮卓类药物过量致死率不大，但联用其他的中枢神经系统抑制剂（尤其是其他的GABA能药物）就会进一步增加呼吸抑制致死的风险。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059326143640276992",
+        "conversation_id": "2064913786453233960",
+        "created_at": "2026-06-11T03:33:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T04:33:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064913786453233960"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064913786453233960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 57,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我有个朋友第一次od，o了奥沙西泮，不知道剂量是多少，没事吧，现在他没消息几个小时了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-19T07:45:35.000Z",
+        "description": "MTF /HRT since 25.11.16/中重度抑郁/互fo/oder/深柜中（已经出柜了，但是是在偷偷HRT）/ASD",
+        "id": "1560533329912311808",
+        "name": "Lily 🏳️‍⚧️",
+        "pinned_tweet_id": "2036571069851771293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023587572161933312/nuq0npKD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 950,
+          "following_count": 1188,
+          "like_count": 76503,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 623
+        },
+        "username": "BdZzbw6goo2",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-26T17:32:17.000Z",
+        "description": "可以叫我hh｜同类互fo大欢迎｜我有点笨笨的会直关，如果冒犯了可以移fo……｜非必要不回私信啦｜内容比较阴暗负面……有药物私生活混乱描写但不会有露骨照片和do的描写……只有心理描写一般是负能量｜生理女心理女，友跨｜",
+        "id": "2059326143640276992",
+        "name": "Huhio",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059327200395190273/aPIop2p8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 178,
+          "like_count": 424,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 368
+        },
+        "username": "Huhiosc3x",
+        "verified": false
+      }
+    ]
+  }
+}

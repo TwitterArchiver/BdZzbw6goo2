@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560533329912311808",
+    "conversation_id": "2045979341532889594",
+    "created_at": "2026-04-20T03:55:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T04:55:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046075292637438098"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2044884002948214784",
+          "start": 0,
+          "username": "ZaZa89ta"
+        },
+        {
+          "end": 21,
+          "id": "2010422988236369920",
+          "start": 10,
+          "username": "jvziqwq555"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046075292637438098",
+    "in_reply_to_user_id": "2044884002948214784",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045979341532889594",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZaZa89ta @jvziqwq555 蹲蹲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560533329912311808",
+        "conversation_id": "2045979341532889594",
+        "created_at": "2026-04-20T03:55:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T04:55:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046075292637438098"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2044884002948214784",
+              "start": 0,
+              "username": "ZaZa89ta"
+            },
+            {
+              "end": 21,
+              "id": "2010422988236369920",
+              "start": 10,
+              "username": "jvziqwq555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046075292637438098",
+        "in_reply_to_user_id": "2044884002948214784",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045979341532889594",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZaZa89ta @jvziqwq555 蹲蹲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044884002948214784",
+        "conversation_id": "2045979341532889594",
+        "created_at": "2026-04-19T21:34:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T22:34:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045979341532889594"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045979341532889594",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 356,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "100fo抽奖第一弹🎉\n一等奖：五盒pr80\n\n二等将：三盒pr80\n\n三等奖：两盒pr80\n\n参与奖三个：一盒pr80\n\n参与条件 点赞关注and转贴\n\n到时候我会拉群在tg群抽  \n\n爱大家💗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-19T07:45:35.000Z",
+        "description": "MTF /HRT since 25.11.16/中重度抑郁/互fo/oder/深柜中（已经出柜了，但是是在偷偷HRT）/ASD",
+        "id": "1560533329912311808",
+        "name": "Lily 🏳️‍⚧️",
+        "pinned_tweet_id": "2036571069851771293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023587572161933312/nuq0npKD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 705,
+          "following_count": 898,
+          "like_count": 57288,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 484
+        },
+        "username": "BdZzbw6goo2",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-16T21:02:17.000Z",
+        "description": "我只是希望我的生活好一点",
+        "id": "2044884002948214784",
+        "name": "ZaZa",
+        "pinned_tweet_id": "2045110549869134017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045097880177049600/8055mIda_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 37,
+          "like_count": 157,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 118
+        },
+        "username": "ZaZa89ta",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-11T18:46:16.000Z",
+        "description": "🩵我是橘子/10/od/自伤/画画 /双相/重焦\n🩵同类互fo 很唐比 谢谢你们愿意和我玩...\n\n♡.꒰ ⑅:†· ♡ ·†:⑅ ꒱.♡ ₊⁺♡̶♡̶₊⁺",
+        "id": "2010422988236369920",
+        "name": "橘酱在哭",
+        "pinned_tweet_id": "2033949619986518419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033785794062913538/Bfy7cry1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 130,
+          "like_count": 853,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 181
+        },
+        "username": "jvziqwq555",
+        "verified": false
+      }
+    ]
+  }
+}

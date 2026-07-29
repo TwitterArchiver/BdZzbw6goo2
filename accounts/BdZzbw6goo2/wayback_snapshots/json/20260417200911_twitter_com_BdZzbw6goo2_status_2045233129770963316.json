@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560533329912311808",
+    "conversation_id": "2045177899104506077",
+    "created_at": "2026-04-17T20:09:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T21:09:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045233129770963316"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1960198897827282944",
+          "start": 0,
+          "username": "Neko_nya2026"
+        },
+        {
+          "end": 27,
+          "id": "1858102501381414912",
+          "start": 14,
+          "username": "zaofushijian"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045233129770963316",
+    "in_reply_to_user_id": "1960198897827282944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045184927336223144",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Neko_nya2026 @zaofushijian 嗯……，这玩意苦的要死，可以尝试用甜的齁的饮料送服"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560533329912311808",
+        "conversation_id": "2045177899104506077",
+        "created_at": "2026-04-17T20:09:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T21:09:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045233129770963316"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1960198897827282944",
+              "start": 0,
+              "username": "Neko_nya2026"
+            },
+            {
+              "end": 27,
+              "id": "1858102501381414912",
+              "start": 14,
+              "username": "zaofushijian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045233129770963316",
+        "in_reply_to_user_id": "1960198897827282944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045184927336223144",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Neko_nya2026 @zaofushijian 嗯……，这玩意苦的要死，可以尝试用甜的齁的饮料送服"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1960198897827282944",
+        "conversation_id": "2045177899104506077",
+        "created_at": "2026-04-17T16:57:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T17:57:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045184927336223144"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1858102501381414912",
+              "start": 0,
+              "username": "zaofushijian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045184927336223144",
+        "in_reply_to_user_id": "1858102501381414912",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045179246293963086",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zaofushijian 好耶！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-19T07:45:35.000Z",
+        "description": "MTF /HRT since 25.11.16/中重度抑郁/互fo/oder/深柜中（已经出柜了，但是是在偷偷HRT）/ASD",
+        "id": "1560533329912311808",
+        "name": "Lily 🏳️‍⚧️",
+        "pinned_tweet_id": "2036571069851771293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023587572161933312/nuq0npKD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 690,
+          "following_count": 879,
+          "like_count": 56378,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 463
+        },
+        "username": "BdZzbw6goo2",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-26T04:33:47.000Z",
+        "description": "mtf",
+        "id": "1960198897827282944",
+        "location": "猫猫の窝",
+        "name": "nya🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2041592755416395999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039372266392477696/TKfpldWL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 612,
+          "following_count": 909,
+          "like_count": 7175,
+          "listed_count": 0,
+          "media_count": 104,
+          "tweet_count": 982
+        },
+        "username": "Neko_nya2026",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-17T10:59:04.000Z",
+        "description": "是个男的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zaofushijian",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zaofushijian",
+                "start": 0,
+                "url": "https://t.co/ebFKJdXhsi"
+              }
+            ]
+          }
+        },
+        "id": "1858102501381414912",
+        "name": "天地一家大爱盟盟主🍥",
+        "pinned_tweet_id": "2032678631542255908",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032824581589970948/U7rV0Nbt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 314,
+          "following_count": 136,
+          "like_count": 463,
+          "listed_count": 1,
+          "media_count": 852,
+          "tweet_count": 7089
+        },
+        "url": "https://t.co/ebFKJdXhsi",
+        "username": "zaofushijian",
+        "verified": false
+      }
+    ]
+  }
+}

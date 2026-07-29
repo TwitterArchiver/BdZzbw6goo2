@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560533329912311808",
+    "conversation_id": "2042184197809504760",
+    "created_at": "2026-04-09T22:32:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T23:32:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042370020433670364"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2040556240493768704",
+          "start": 0,
+          "username": "dddlg520"
+        },
+        {
+          "end": 24,
+          "id": "2038643818204102656",
+          "start": 10,
+          "username": "zhuofenglove5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042370020433670364",
+    "in_reply_to_user_id": "2040556240493768704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042356723256836144",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dddlg520 @zhuofenglove5 应该都行，可以试一下"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560533329912311808",
+        "conversation_id": "2042184197809504760",
+        "created_at": "2026-04-09T22:32:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T23:32:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042370020433670364"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2040556240493768704",
+              "start": 0,
+              "username": "dddlg520"
+            },
+            {
+              "end": 24,
+              "id": "2038643818204102656",
+              "start": 10,
+              "username": "zhuofenglove5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042370020433670364",
+        "in_reply_to_user_id": "2040556240493768704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042356723256836144",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dddlg520 @zhuofenglove5 应该都行，可以试一下"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040556240493768704",
+        "conversation_id": "2042184197809504760",
+        "created_at": "2026-04-09T21:39:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T22:39:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042356723256836144"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1560533329912311808",
+              "start": 0,
+              "username": "BdZzbw6goo2"
+            },
+            {
+              "end": 27,
+              "id": "2038643818204102656",
+              "start": 13,
+              "username": "zhuofenglove5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042356723256836144",
+        "in_reply_to_user_id": "1560533329912311808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042201483794674090",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BdZzbw6goo2 @zhuofenglove5 可以兑奶茶和糖调酒吗!"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-19T07:45:35.000Z",
+        "description": "MTF /HRT since 25.11.16/中重度抑郁/互fo/oder/深柜中/有阿斯伯格不是很会聊天致歉",
+        "id": "1560533329912311808",
+        "name": "Lily 🏳️‍⚧️",
+        "pinned_tweet_id": "2036571069851771293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023587572161933312/nuq0npKD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 607,
+          "following_count": 809,
+          "like_count": 53527,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 362
+        },
+        "username": "BdZzbw6goo2",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-04T22:26:04.000Z",
+        "description": "都有卖啦!想和大家互fo喵 是Oder 副业主营电子烟冰爆之类的 请大家多多支持火花花喵 如有需要可联系纸飞机or微信or主页私信！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dlg5201314",
+                "end": 23,
+                "expanded_url": "http://t.me/dlg5201314",
+                "start": 0,
+                "url": "https://t.co/MZX59fedBe"
+              }
+            ]
+          }
+        },
+        "id": "2040556240493768704",
+        "location": "二相乐园",
+        "name": "@火花花Office/电子烟锐刻冰爆鸭嘴七星",
+        "pinned_tweet_id": "2040568912430145828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040560533070585856/9aPVSuHU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 24,
+          "like_count": 44,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 30
+        },
+        "url": "https://t.co/MZX59fedBe",
+        "username": "dddlg520",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-30T15:46:39.000Z",
+        "description": "求求你能不能和我互fo/hrt2025.10.7-2026.3.5/家暴党/键政滚远点/oder/s",
+        "id": "2038643818204102656",
+        "name": "颤💊（五代目",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038644575884267520/FSDENj5s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 34,
+          "like_count": 15,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 31
+        },
+        "username": "zhuofenglove5",
+        "verified": false
+      }
+    ]
+  }
+}

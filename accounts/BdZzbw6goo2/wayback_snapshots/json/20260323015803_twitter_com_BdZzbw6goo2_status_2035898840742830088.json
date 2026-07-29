@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560533329912311808",
+    "conversation_id": "2035371265218003418",
+    "created_at": "2026-03-23T01:58:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T02:58:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035898840742830088"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1968205301410304002",
+          "start": 0,
+          "username": "lingyang01444"
+        },
+        {
+          "end": 30,
+          "id": "1963285303168569345",
+          "start": 15,
+          "username": "Michelle469891"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035898840742830088",
+    "in_reply_to_user_id": "1968205301410304002",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035567323273388541",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lingyang01444 @Michelle469891 吐的话可以加甲氧氯普胺，胃部不适可以加碳酸氢钠"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560533329912311808",
+        "conversation_id": "2035371265218003418",
+        "created_at": "2026-03-23T01:58:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T02:58:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035898840742830088"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1968205301410304002",
+              "start": 0,
+              "username": "lingyang01444"
+            },
+            {
+              "end": 30,
+              "id": "1963285303168569345",
+              "start": 15,
+              "username": "Michelle469891"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035898840742830088",
+        "in_reply_to_user_id": "1968205301410304002",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035567323273388541",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lingyang01444 @Michelle469891 吐的话可以加甲氧氯普胺，胃部不适可以加碳酸氢钠"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1968205301410304002",
+        "conversation_id": "2035371265218003418",
+        "created_at": "2026-03-22T04:00:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T05:00:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035567323273388541"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1963285303168569345",
+              "start": 0,
+              "username": "Michelle469891"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035567323273388541",
+        "in_reply_to_user_id": "1963285303168569345",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 121,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035384753189445816",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Michelle469891 因为现成的药就只有这个 我吃金刚烷胺会吐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-19T07:45:35.000Z",
+        "description": "MTF /HRT since 25.11.16/中重度抑郁/互fo/oder/深柜中",
+        "id": "1560533329912311808",
+        "name": "Lily 🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023587572161933312/nuq0npKD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 395,
+          "following_count": 591,
+          "like_count": 45260,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 168
+        },
+        "username": "BdZzbw6goo2",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-17T06:48:20.000Z",
+        "description": "BlackSheep-血羊｜武汉轻工本科｜以身入局药物实验🧪 药物报告💊穿孔纹身od妹毒狗我们认识一下 会继续制作研究化学和药以及平替的感谢支持 羚羊羚羊你在做什么呀好难猜啊",
+        "id": "1968205301410304002",
+        "location": "日本 東京",
+        "name": "⛧羚羊⛧ antelope ⛧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035743318232182784/HbHL3fZz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 789,
+          "following_count": 1043,
+          "like_count": 1083,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 109
+        },
+        "username": "lingyang01444",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-03T16:57:58.000Z",
+        "description": "Bisexual/偏双向/半i人/精神状态中等/偏理性/乐于想象/喜自我享受、表达观点、随意式生活。讨厌某些现状和人。想要多些自由、逃避些什么、精神上的安慰。随便记录发帖，尽量欢迎你们",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net",
+                "end": 23,
+                "expanded_url": "http://pixiv.net",
+                "start": 0,
+                "url": "https://t.co/K5qFmksIrm"
+              }
+            ]
+          }
+        },
+        "id": "1963285303168569345",
+        "location": "lost",
+        "name": "Michelle さん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015952257456418816/byHmce5W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 309,
+          "like_count": 2936,
+          "listed_count": 4,
+          "media_count": 77,
+          "tweet_count": 1472
+        },
+        "url": "https://t.co/K5qFmksIrm",
+        "username": "Michelle469891",
+        "verified": false
+      }
+    ]
+  }
+}

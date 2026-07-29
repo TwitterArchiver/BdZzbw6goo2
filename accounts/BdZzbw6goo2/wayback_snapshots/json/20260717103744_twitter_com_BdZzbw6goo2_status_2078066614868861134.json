@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560533329912311808",
+    "conversation_id": "2077764601035235584",
+    "created_at": "2026-07-17T10:37:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T11:37:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078066614868861134"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1705841149574074368",
+          "start": 0,
+          "username": "Kanadenadi"
+        },
+        {
+          "end": 25,
+          "id": "1579442033483075584",
+          "start": 12,
+          "username": "26suversider"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078066614868861134",
+    "in_reply_to_user_id": "1705841149574074368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077779208563229179",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kanadenadi @26suversider 好像还会抑制代谢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560533329912311808",
+        "conversation_id": "2077764601035235584",
+        "created_at": "2026-07-17T10:37:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T11:37:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078066614868861134"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1705841149574074368",
+              "start": 0,
+              "username": "Kanadenadi"
+            },
+            {
+              "end": 25,
+              "id": "1579442033483075584",
+              "start": 12,
+              "username": "26suversider"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078066614868861134",
+        "in_reply_to_user_id": "1705841149574074368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077779208563229179",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kanadenadi @26suversider 好像还会抑制代谢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1705841149574074368",
+        "conversation_id": "2077764601035235584",
+        "created_at": "2026-07-16T15:35:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T16:35:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077779208563229179"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1579442033483075584",
+              "start": 0,
+              "username": "26suversider"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077779208563229179",
+        "in_reply_to_user_id": "1579442033483075584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 81,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077764601035235584",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@26suversider 发胖是因为胃口变好吧，确实容易增加体重，但是管住嘴问题不大的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-19T07:45:35.000Z",
+        "description": "MTF /HRT since 25.11.16/中重度抑郁/互fo/oder/深柜中（已经出柜了，但是是在偷偷HRT）/ASD",
+        "id": "1560533329912311808",
+        "name": "Lily 🏳️‍⚧️",
+        "pinned_tweet_id": "2036571069851771293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023587572161933312/nuq0npKD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1083,
+          "following_count": 1321,
+          "like_count": 92614,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 671
+        },
+        "url": "",
+        "username": "BdZzbw6goo2",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-24T07:06:51.000Z",
+        "description": "生日2010 04 22 | overdose | 常驻深圳福田/盐田/香港 | 重焦重郁 | 舞萌w4 | Arcaea 12.18 | BMi 17.4",
+        "id": "1705841149574074368",
+        "location": "Hong Kong",
+        "name": "楱",
+        "pinned_tweet_id": "2069347315794735524",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068379705368342528/UNFqEbQh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 110,
+          "like_count": 612,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 214
+        },
+        "url": "",
+        "username": "Kanadenadi",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-10T12:01:48.000Z",
+        "description": "专注我的嗑药生活\n🚪38纯绿聊天朋友圈\n\nhttps://t.co/bRRAIqGEOS",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sukieu1",
+                "end": 44,
+                "expanded_url": "https://ngl.link/sukieu1",
+                "start": 21,
+                "url": "https://t.co/bRRAIqGEOS"
+              }
+            ]
+          }
+        },
+        "id": "1579442033483075584",
+        "name": "孙笑川籍吧",
+        "pinned_tweet_id": "2065793737977127349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069652627575414784/Z7qSci36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 694,
+          "following_count": 133,
+          "like_count": 962,
+          "listed_count": 1,
+          "media_count": 89,
+          "tweet_count": 1059
+        },
+        "url": "",
+        "username": "26suversider",
+        "verified": false
+      }
+    ]
+  }
+}

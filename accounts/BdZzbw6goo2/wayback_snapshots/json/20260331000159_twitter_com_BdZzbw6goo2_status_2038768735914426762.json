@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560533329912311808",
+    "conversation_id": "2038750474690797967",
+    "created_at": "2026-03-31T00:01:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T01:01:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038768735914426762"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2013321876224057344",
+          "start": 0,
+          "username": "OTxiashu"
+        },
+        {
+          "end": 19,
+          "id": "1627197826332778496",
+          "start": 10,
+          "username": "Ochette_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038768735914426762",
+    "in_reply_to_user_id": "2013321876224057344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038752074121531773",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OTxiashu @Ochette_ 听说睿鹤的效果要比喜思平还要好点"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560533329912311808",
+        "conversation_id": "2038750474690797967",
+        "created_at": "2026-03-31T00:01:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T01:01:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038768735914426762"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2013321876224057344",
+              "start": 0,
+              "username": "OTxiashu"
+            },
+            {
+              "end": 19,
+              "id": "1627197826332778496",
+              "start": 10,
+              "username": "Ochette_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038768735914426762",
+        "in_reply_to_user_id": "2013321876224057344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038752074121531773",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OTxiashu @Ochette_ 听说睿鹤的效果要比喜思平还要好点"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013321876224057344",
+        "conversation_id": "2038750474690797967",
+        "created_at": "2026-03-30T22:55:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T23:55:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038752074121531773"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1627197826332778496",
+              "start": 0,
+              "username": "Ochette_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038752074121531773",
+        "in_reply_to_user_id": "1627197826332778496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038751501787750630",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ochette_ 不过我估计药效可能不如喜思平"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-19T07:45:35.000Z",
+        "description": "MTF /HRT since 25.11.16/中重度抑郁/互fo/oder/深柜中",
+        "id": "1560533329912311808",
+        "name": "Lily 🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023587572161933312/nuq0npKD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 492,
+          "following_count": 699,
+          "like_count": 48755,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 241
+        },
+        "username": "BdZzbw6goo2",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-19T18:46:10.000Z",
+        "description": "无我梦中 阿鼻叫唤 支离灭裂                                            \n                   \n傻逼od蛆 可能会自残 24小时网上冲浪 互fo 直fo我就是想当我小弟",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ot78725",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ot78725",
+                "start": 0,
+                "url": "https://t.co/RFlA1XtlG6"
+              }
+            ]
+          }
+        },
+        "id": "2013321876224057344",
+        "location": "谢谢你我充满感激之情",
+        "name": "OT夏树",
+        "pinned_tweet_id": "2037246282314694672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036944384286220288/AWDbSl6I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 237,
+          "like_count": 3376,
+          "listed_count": 0,
+          "media_count": 117,
+          "tweet_count": 1537
+        },
+        "url": "https://t.co/RFlA1XtlG6",
+        "username": "OTxiashu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-19T06:46:24.000Z",
+        "description": "od割手碎碎念。负能警告⚠️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ochette_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ochette_",
+                "start": 0,
+                "url": "https://t.co/LdSOaHjKco"
+              }
+            ]
+          }
+        },
+        "id": "1627197826332778496",
+        "name": "永雏云☁️🍥",
+        "pinned_tweet_id": "2031019485206057296",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033478951478444032/LGRq8oP__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 412,
+          "following_count": 510,
+          "like_count": 6640,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 707
+        },
+        "url": "https://t.co/LdSOaHjKco",
+        "username": "Ochette_",
+        "verified": false
+      }
+    ]
+  }
+}

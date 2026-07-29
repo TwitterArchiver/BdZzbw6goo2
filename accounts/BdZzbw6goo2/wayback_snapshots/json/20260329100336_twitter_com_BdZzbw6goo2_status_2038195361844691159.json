@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560533329912311808",
+    "conversation_id": "2038109904137777642",
+    "created_at": "2026-03-29T10:03:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T11:03:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038195361844691159"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1900779585832210432",
+          "start": 0,
+          "username": "71y11Qy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038195361844691159",
+    "in_reply_to_user_id": "1900779585832210432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038186979536310718",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@71y11Qy 那个公告好像就是云南禁毒发的，那他理因也只管得到云南"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560533329912311808",
+        "conversation_id": "2038109904137777642",
+        "created_at": "2026-03-29T10:03:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T11:03:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038195361844691159"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1900779585832210432",
+              "start": 0,
+              "username": "71y11Qy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038195361844691159",
+        "in_reply_to_user_id": "1900779585832210432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038186979536310718",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@71y11Qy 那个公告好像就是云南禁毒发的，那他理因也只管得到云南"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1900779585832210432",
+        "conversation_id": "2038109904137777642",
+        "created_at": "2026-03-29T09:30:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T10:30:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038186979536310718"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1560533329912311808",
+              "start": 0,
+              "username": "BdZzbw6goo2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038186979536310718",
+        "in_reply_to_user_id": "1560533329912311808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038173329983746557",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BdZzbw6goo2 我去真的吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-19T07:45:35.000Z",
+        "description": "MTF /HRT since 25.11.16/中重度抑郁/互fo/oder/深柜中",
+        "id": "1560533329912311808",
+        "name": "Lily 🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023587572161933312/nuq0npKD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 482,
+          "following_count": 693,
+          "like_count": 48067,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 231
+        },
+        "username": "BdZzbw6goo2",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-15T05:22:37.000Z",
+        "description": "🚪纯绿52/88/坐标10｜只对部分人感兴趣｜餐券 od 负能 自伤｜同类互fo｜漏了可以私信我 我很好相处 喜欢有礼貌的人 大部分时间在学校请等等我…",
+        "id": "1900779585832210432",
+        "location": "外太空",
+        "name": "71",
+        "pinned_tweet_id": "2022208733133320205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976968577891659776/czXAeT_t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 427,
+          "following_count": 288,
+          "like_count": 3173,
+          "listed_count": 1,
+          "media_count": 66,
+          "tweet_count": 1965
+        },
+        "username": "71y11Qy",
+        "verified": false
+      }
+    ]
+  }
+}
