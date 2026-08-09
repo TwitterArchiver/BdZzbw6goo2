@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560533329912311808",
+    "conversation_id": "2083175593256890785",
+    "created_at": "2026-07-31T16:05:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T17:05:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083222613695008849"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1597251393592532995",
+          "start": 0,
+          "username": "mianmian0519"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083222613695008849",
+    "in_reply_to_user_id": "1597251393592532995",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083175593256890785",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@mianmian0519 个人使用的话看用途和种类，法律上是以非医疗为目的（也排除科研，教育啊的这些的目的）的使用麻精药品（不管是药用类还是非药用类）属于吸毒。非列管的不构成"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560533329912311808",
+        "conversation_id": "2083175593256890785",
+        "created_at": "2026-07-31T16:05:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T17:05:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083222613695008849"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1597251393592532995",
+              "start": 0,
+              "username": "mianmian0519"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083222613695008849",
+        "in_reply_to_user_id": "1597251393592532995",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083175593256890785",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@mianmian0519 个人使用的话看用途和种类，法律上是以非医疗为目的（也排除科研，教育啊的这些的目的）的使用麻精药品（不管是药用类还是非药用类）属于吸毒。非列管的不构成"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597251393592532995",
+        "conversation_id": "2083175593256890785",
+        "created_at": "2026-07-31T12:58:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T13:58:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083175593256890785"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083175593256890785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 198,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "有没有懂的说下od被抓会坐牢吗 要是卖药呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-19T07:45:35.000Z",
+        "description": "MTF /HRT since 25.11.16/中重度抑郁/互fo/oder/深柜中（已经出柜了，但是是在偷偷HRT）/ASD",
+        "id": "1560533329912311808",
+        "name": "Lily 🏳️‍⚧️",
+        "pinned_tweet_id": "2036571069851771293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023587572161933312/nuq0npKD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1144,
+          "following_count": 1374,
+          "like_count": 102437,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 680
+        },
+        "url": "",
+        "username": "BdZzbw6goo2",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-28T15:29:51.000Z",
+        "description": "intp\n只回关同好",
+        "id": "1597251393592532995",
+        "name": "minaz",
+        "pinned_tweet_id": "2082123492582195367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063250363445137408/15-qQaZn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 108,
+          "like_count": 1027,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 300
+        },
+        "url": "",
+        "username": "mianmian0519",
+        "verified": false
+      }
+    ]
+  }
+}
