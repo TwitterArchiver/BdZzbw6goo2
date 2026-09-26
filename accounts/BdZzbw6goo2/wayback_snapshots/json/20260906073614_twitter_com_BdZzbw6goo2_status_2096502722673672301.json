@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560533329912311808",
+    "conversation_id": "2096490311300321778",
+    "created_at": "2026-09-06T07:36:14.000Z",
+    "display_text_range": [
+      16,
+      33
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T08:36:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096502722673672301"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1694679423159836672",
+          "start": 0,
+          "username": "AsakawaTsubaki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096502722673672301",
+    "in_reply_to_user_id": "1694679423159836672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096490311300321778",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AsakawaTsubaki 我觉得那种手摇的磨咖啡豆的挺好用的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560533329912311808",
+        "conversation_id": "2096490311300321778",
+        "created_at": "2026-09-06T07:36:14.000Z",
+        "display_text_range": [
+          16,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T08:36:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096502722673672301"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1694679423159836672",
+              "start": 0,
+              "username": "AsakawaTsubaki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096502722673672301",
+        "in_reply_to_user_id": "1694679423159836672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096490311300321778",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AsakawaTsubaki 我觉得那种手摇的磨咖啡豆的挺好用的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1694679423159836672",
+        "conversation_id": "2096490311300321778",
+        "created_at": "2026-09-06T06:46:55.000Z",
+        "display_text_range": [
+          0,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T07:46:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096490311300321778"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2096490311300321778",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "泥们都怎么磨阿普啊我自己碾的总感觉不能全碾碎，用那种磨咖啡的手摇壶磨可以吗"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-19T07:45:35.000Z",
+        "description": "MTF /HRT since 25.11.16/中重度抑郁/ASD/互fo/oder/已经出柜了，家长党",
+        "id": "1560533329912311808",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096502722673672301",
+        "name": "Lily 🏳️‍⚧️",
+        "pinned_tweet_id": "2036571069851771293",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1560533329912311808/1771295987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023587572161933312/nuq0npKD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1164,
+          "following_count": 1382,
+          "like_count": 124324,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 680
+        },
+        "url": "",
+        "username": "BdZzbw6goo2",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-08-24T11:54:02.000Z",
+        "description": "對不起，我只是在泥潭掙扎的可憐小孩\n无言直fo抱歉，查成分回fo。 我有点精日，下辈子希望是日本人\n浅川二世@asakawatsubaki2浅川三世@knd8964\nhttps://t.co/OmrPnlSO6X",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 54,
+                "username": "asakawatsubaki2"
+              },
+              {
+                "end": 82,
+                "start": 74,
+                "username": "knd8964"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/asakawa",
+                "end": 106,
+                "expanded_url": "https://ngl.link/asakawa",
+                "start": 83,
+                "url": "https://t.co/OmrPnlSO6X"
+              }
+            ]
+          }
+        },
+        "id": "1694679423159836672",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096490311300321778",
+        "name": "浅な川椿",
+        "pinned_tweet_id": "2088566317968441582",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1694679423159836672/1774774153",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1700458848673484800/n9u9uMHj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 358,
+          "following_count": 299,
+          "like_count": 1756,
+          "listed_count": 0,
+          "media_count": 101,
+          "tweet_count": 1669
+        },
+        "url": "",
+        "username": "AsakawaTsubaki",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
